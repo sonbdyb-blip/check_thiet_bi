@@ -1,3 +1,41 @@
 {
-  "records": []
+  "records": [
+    {
+      "id": "7eca0eceb86e457fb5c6a0cb5fbc9190",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "480000",
+        "Tên Bưu cục": "test",
+        "Họ và tên người sử dụng": "nguyễn quang sơn",
+        "Mã HRM": "04444",
+        "Bộ phận / Phòng ban": "CNTT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SON-NQ",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "670 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.32.56",
+        "MAC Address": "74:56:3C:2D:33:86"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": "123dsdd"
+        }
+      ],
+      "createdAt": "2026-06-12T07:28:55",
+      "updatedAt": "2026-06-12T07:28:55"
+    }
+  ]
 }
