@@ -36,6 +36,43 @@
       ],
       "createdAt": "2026-06-12T07:38:55",
       "updatedAt": "2026-06-12T07:38:55"
+    },
+    {
+      "id": "4b19224aaead4531ad25bbff12ecfb28",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "TTVH_TRUNG",
+        "Tên Xã": "Bưu điện tỉnh",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "TT Vận Hành",
+        "Họ và tên người sử dụng": "NGUYỄN VŨ TRUNG",
+        "Mã HRM": "00082310",
+        "Bộ phận / Phòng ban": "TT Vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-KTNV-TRUNG",
+        "Loại máy": "Máy lắp ghép",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "1943 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.32.57",
+        "MAC Address": "08:BF:B8:81:66:25"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M201-202",
+          "serial": "VNC3308602"
+        }
+      ],
+      "createdAt": "2026-06-23T08:46:09",
+      "updatedAt": "2026-06-23T08:46:09"
     }
   ]
 }
