@@ -73,6 +73,37 @@
       ],
       "createdAt": "2026-06-23T08:46:09",
       "updatedAt": "2026-06-23T08:46:09"
+    },
+    {
+      "id": "a77c3941f61441c8a8954d959d49f605",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33-01",
+        "Tên Bưu cục": "Trung tâm vận hành",
+        "Họ và tên người sử dụng": "Nguyễn Văn Nam",
+        "Mã HRM": "00043051",
+        "Bộ phận / Phòng ban": "Trung tâm vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "NAMNV",
+        "Loại máy": "Laptop",
+        "Hãng": "HP",
+        "Model": "HP LAPTOP 15-DA0036TX",
+        "Năm sản xuất": "2018",
+        "Serial Number": "CND8201QCM",
+        "CPU": "Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "461 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.19.106.102",
+        "MAC Address": "40:9F:38:F2:54:3F"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-23T09:49:16",
+      "updatedAt": "2026-06-23T09:49:16"
     }
   ]
 }
