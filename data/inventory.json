@@ -302,6 +302,37 @@
       "attachments": [],
       "createdAt": "2026-06-24T07:08:02",
       "updatedAt": "2026-06-24T07:08:02"
+    },
+    {
+      "id": "70c7e55176314d4ebeb7fd8d607022e0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Phòng Tổ chức - Hành chính",
+        "Họ và tên người sử dụng": "Nguyễn Hải Thanh",
+        "Mã HRM": "00066059",
+        "Bộ phận / Phòng ban": "Phòng Tổ chức - Hành chính",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TC-THANH",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop PC 570-p0xx",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV8080688",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.32.24",
+        "MAC Address": "80:CE:62:EC:BC:F2"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-24T07:08:14",
+      "updatedAt": "2026-06-24T07:08:14"
     }
   ]
 }
