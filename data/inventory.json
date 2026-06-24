@@ -178,6 +178,37 @@
       ],
       "createdAt": "2026-06-24T01:12:43",
       "updatedAt": "2026-06-24T01:12:43"
+    },
+    {
+      "id": "353ee1ea87494ddb8830ea764166cff1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "32",
+        "Tên Bưu cục": "Bưu điện tỉnh yên bái",
+        "Họ và tên người sử dụng": "Lê Duy Hiệp",
+        "Mã HRM": "00240743",
+        "Bộ phận / Phòng ban": "Trung tâm vận hành",
+        "Mã vật tư": "01",
+        "Tên máy (Hostname)": "DESKTOP-EO9MK89",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "B560M GAMING HD",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz",
+        "RAM": "15.9 GB",
+        "Ổ cứng": "476 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky",
+        "IP Address": "10.26.32.62",
+        "MAC Address": "D8:5E:D3:FE:26:60"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-24T01:44:58",
+      "updatedAt": "2026-06-24T01:44:58"
     }
   ]
 }
