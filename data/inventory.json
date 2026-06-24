@@ -584,6 +584,43 @@
       "attachments": [],
       "createdAt": "2026-06-24T07:30:47",
       "updatedAt": "2026-06-24T07:30:47"
+    },
+    {
+      "id": "516d404570b84f9c9d2253fa3f8f241e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Lào Cai",
+        "Họ và tên người sử dụng": "Nguyễn Duy Anh",
+        "Mã HRM": "00262991",
+        "Bộ phận / Phòng ban": "Trung Tâm Vận Hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-KTNV-DUYANH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B0VM8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "253 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.19.200.115",
+        "MAC Address": "B8:85:84:B0:FE:CE"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "Canon MF240 Series",
+          "serial": "WQN93285"
+        }
+      ],
+      "createdAt": "2026-06-24T10:15:41",
+      "updatedAt": "2026-06-24T10:15:41"
     }
   ]
 }
