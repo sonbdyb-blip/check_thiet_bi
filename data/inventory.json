@@ -621,6 +621,37 @@
       ],
       "createdAt": "2026-06-24T10:15:41",
       "updatedAt": "2026-06-24T10:15:41"
+    },
+    {
+      "id": "45ef175432164892897dcc5bd438ad68",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Trung tâm Vận hành",
+        "Họ và tên người sử dụng": "Trần Thuý Hà",
+        "Mã HRM": "00043275",
+        "Bộ phận / Phòng ban": "Trung tâm Vận hành Bưu điện tỉnh Lào Cai",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "WINDOWS-10",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Latitude 3460",
+        "Năm sản xuất": "",
+        "Serial Number": "B60T3C2",
+        "CPU": "Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn - vi-vn",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "58:FB:84:08:2C:26"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-24T13:24:21",
+      "updatedAt": "2026-06-24T13:24:21"
     }
   ]
 }
