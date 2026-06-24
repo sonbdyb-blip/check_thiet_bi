@@ -521,6 +521,37 @@
       ],
       "createdAt": "2026-06-24T07:25:22",
       "updatedAt": "2026-06-24T07:25:22"
+    },
+    {
+      "id": "512a5822b99f4cf0a67feeacd47a69fc",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Phòng Tổ chức - Hành chính",
+        "Họ và tên người sử dụng": "Nguyễn Thiên Tân",
+        "Mã HRM": "00043058",
+        "Bộ phận / Phòng ban": "Phòng Tổ chức - Hành chính",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-0T7683L",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "JJ99H32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.26.32.29",
+        "MAC Address": "F8:BC:12:A2:D8:A8"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-24T07:25:42",
+      "updatedAt": "2026-06-24T07:25:42"
     }
   ]
 }
