@@ -333,6 +333,43 @@
       "attachments": [],
       "createdAt": "2026-06-24T07:08:14",
       "updatedAt": "2026-06-24T07:08:14"
+    },
+    {
+      "id": "410088f183894eefa6ec0e7bfe09d50f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Phường Yên Bái",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Phòng Tổ chức - Hành chính",
+        "Họ và tên người sử dụng": "Nguyễn Thị Huế",
+        "Mã HRM": "00066043",
+        "Bộ phận / Phòng ban": "Phòng Tổ chức - Hành chính",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "THANHPHO-HUE",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP EliteDesk 800 G6 Desktop Mini PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC1374ZWY",
+        "CPU": "Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19043",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.26.32.158",
+        "MAC Address": "50:81:40:99:7D:39"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": "L11121E"
+        }
+      ],
+      "createdAt": "2026-06-24T07:10:37",
+      "updatedAt": "2026-06-24T07:10:37"
     }
   ]
 }
