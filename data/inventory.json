@@ -370,6 +370,37 @@
       ],
       "createdAt": "2026-06-24T07:10:37",
       "updatedAt": "2026-06-24T07:10:37"
+    },
+    {
+      "id": "03117f8eac3544db90db9016fa97b34b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Phòng Tổ chức - Hành chính",
+        "Họ và tên người sử dụng": "Phạm Thu Hằng",
+        "Mã HRM": "00238044",
+        "Bộ phận / Phòng ban": "Phòng Tổ chức - Hành chính",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-TCHC-HANG",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "BC2R8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "11.8 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.26.32.28",
+        "MAC Address": "B8:85:84:AF:59:C0"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-24T07:11:25",
+      "updatedAt": "2026-06-24T07:11:25"
     }
   ]
 }
