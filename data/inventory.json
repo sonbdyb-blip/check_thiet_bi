@@ -271,6 +271,37 @@
       "attachments": [],
       "createdAt": "2026-06-24T07:07:53",
       "updatedAt": "2026-06-24T07:07:53"
+    },
+    {
+      "id": "cd81a53da45444369c702e5b3b91c520",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Phòng Tổ chức Hành Chính",
+        "Họ và tên người sử dụng": "Lê Thanh Tùng",
+        "Mã HRM": "00065913",
+        "Bộ phận / Phòng ban": "Phòng Tổ chức Hành chính",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHKD-TUNG",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H410M DS2V",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+        "RAM": "15.9 GB",
+        "Ổ cứng": "1065 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.32.222",
+        "MAC Address": "18:C0:4D:A8:BE:A9"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-24T07:08:02",
+      "updatedAt": "2026-06-24T07:08:02"
     }
   ]
 }
