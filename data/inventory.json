@@ -552,6 +552,38 @@
       "attachments": [],
       "createdAt": "2026-06-24T07:25:42",
       "updatedAt": "2026-06-24T07:25:42"
+    },
+    {
+      "id": "b2abbaf655ab4253baf146afd11dcd9c",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Phòng Tổ chức - Hành chính",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hải",
+        "Mã HRM": "00230906",
+        "Bộ phận / Phòng ban": "Phòng Tổ chức - Hành chính",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "CAS ED-6",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "6 kg",
+        "Serial Number": "180957028",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-24T07:30:47",
+      "updatedAt": "2026-06-24T07:30:47"
     }
   ]
 }
