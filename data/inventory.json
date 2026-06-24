@@ -104,6 +104,43 @@
       "attachments": [],
       "createdAt": "2026-06-23T09:49:16",
       "updatedAt": "2026-06-23T09:49:16"
+    },
+    {
+      "id": "ed637aca8ad841bab11557ced12b5ecd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "TTVH",
+        "Họ và tên người sử dụng": "Phạm Xuân Hương",
+        "Mã HRM": "00065936",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB_KTNV_HUONGPX",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex SFF 7010",
+        "Năm sản xuất": "",
+        "Serial Number": "C8L57Y3",
+        "CPU": "13th Gen Intel(R) Core(TM) i5-13500",
+        "RAM": "7,7 GB",
+        "Ổ cứng": "462 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22000",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.32.131",
+        "MAC Address": "CC:96:E5:2B:06:1D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP 252DW",
+          "serial": "NEEA085116"
+        }
+      ],
+      "createdAt": "2026-06-24T01:06:41",
+      "updatedAt": "2026-06-24T01:06:41"
     }
   ]
 }
