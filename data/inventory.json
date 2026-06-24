@@ -209,6 +209,37 @@
       "attachments": [],
       "createdAt": "2026-06-24T01:44:58",
       "updatedAt": "2026-06-24T01:44:58"
+    },
+    {
+      "id": "ee42000e565c450aaa0cda0754d7dc0f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "32",
+        "Tên Bưu cục": "Bưu điện tỉnh Lào Cai",
+        "Họ và tên người sử dụng": "Lê Duy Hiệp",
+        "Mã HRM": "00240743",
+        "Bộ phận / Phòng ban": "Trung tâm vận hành",
+        "Mã vật tư": "2",
+        "Tên máy (Hostname)": "KTNV-HIEP",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H610M H DDR4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100F",
+        "RAM": "15.8 GB",
+        "Ổ cứng": "477 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Norton Security, Windows Defender",
+        "IP Address": "10.26.32.61",
+        "MAC Address": "74:56:3C:40:98:7A"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-24T01:46:31",
+      "updatedAt": "2026-06-24T01:46:31"
     }
   ]
 }
