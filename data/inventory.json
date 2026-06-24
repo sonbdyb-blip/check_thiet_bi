@@ -240,6 +240,37 @@
       "attachments": [],
       "createdAt": "2026-06-24T01:46:31",
       "updatedAt": "2026-06-24T01:46:31"
+    },
+    {
+      "id": "753362956d3a44ccb5b91cc2dbc9785c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Phòng Tổ chức - Hành chính",
+        "Họ và tên người sử dụng": "Trần Thanh Tùng",
+        "Mã HRM": "00065943",
+        "Bộ phận / Phòng ban": "Phòng Tổ chức - Hành chính",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TCHC-TUNG",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop PC 570-p0xx",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV81709QL",
+        "CPU": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+        "RAM": "11.9 GB",
+        "Ổ cứng": "253 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.32.21",
+        "MAC Address": "80:CE:62:EF:9E:0C"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-24T07:07:53",
+      "updatedAt": "2026-06-24T07:07:53"
     }
   ]
 }
