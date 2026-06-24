@@ -141,6 +141,43 @@
       ],
       "createdAt": "2026-06-24T01:06:41",
       "updatedAt": "2026-06-24T01:06:41"
+    },
+    {
+      "id": "99d6a529d0994a7f93384c1c752cc991",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Trung tâm Vận hành",
+        "Họ và tên người sử dụng": "HOÀNG THỊ HOA",
+        "Mã HRM": "00065942",
+        "Bộ phận / Phòng ban": "Trung tâm Vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KTNV-HOA",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H V2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-10105F CPU @ 3.70GHz",
+        "RAM": "15.9 GB",
+        "Ổ cứng": "1131 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.32.48",
+        "MAC Address": "30:56:0F:50:F6:D5"
+      },
+      "attachments": [
+        {
+          "type": "ups",
+          "name": "SANTAK",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-24T01:12:43",
+      "updatedAt": "2026-06-24T01:12:43"
     }
   ]
 }
