@@ -401,6 +401,43 @@
       "attachments": [],
       "createdAt": "2026-06-24T07:11:25",
       "updatedAt": "2026-06-24T07:11:25"
+    },
+    {
+      "id": "d9af43961b40435cb252ab0a43220d69",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Phòng Tổ chức Hành chính",
+        "Họ và tên người sử dụng": "Phan Thị Kim Oanh",
+        "Mã HRM": "00235548",
+        "Bộ phận / Phòng ban": "Phòng Tổ chức Hành chính",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-OHNFL7A",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "BD5T8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3,8 GB",
+        "Ổ cứng": "134 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.32.27",
+        "MAC Address": "B8:85:84:B1:47:91"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP246dw",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-24T07:11:30",
+      "updatedAt": "2026-06-24T07:11:30"
     }
   ]
 }
