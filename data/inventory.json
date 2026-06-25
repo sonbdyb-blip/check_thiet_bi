@@ -1085,6 +1085,48 @@
       ],
       "createdAt": "2026-06-25T10:10:40",
       "updatedAt": "2026-06-25T10:10:40"
+    },
+    {
+      "id": "1bfeb06991a04c6782c35da5c95e7cb9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "325620",
+        "Tên Bưu cục": "BC KT Nghĩa Lộ",
+        "Họ và tên người sử dụng": "Bùi Mỹ Hạnh",
+        "Mã HRM": "00066424",
+        "Bộ phận / Phòng ban": "Bưu cục Vận hành Nghĩa Lộ - Trạm Tấu, Bưu điện tỉnh Lào Cai",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KTNGHIALO",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H610M H V3 DDR4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "15.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.31",
+        "MAC Address": "10:FF:E0:F6:82:34"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LaserJet Pro M201dw",
+          "serial": "VNC3G13904"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZRBRA TECHNOLOGIES CORP",
+          "serial": "21174523703286"
+        }
+      ],
+      "createdAt": "2026-06-25T10:17:26",
+      "updatedAt": "2026-06-25T10:17:26"
     }
   ]
 }
