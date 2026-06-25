@@ -887,6 +887,37 @@
       "attachments": [],
       "createdAt": "2026-06-25T09:11:38",
       "updatedAt": "2026-06-25T09:11:38"
+    },
+    {
+      "id": "31303dfe89bf4453ba288a4f779c1a4e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Trung tâm vận hành",
+        "Họ và tên người sử dụng": "Đào Duy Hưng",
+        "Mã HRM": "00214511",
+        "Bộ phận / Phòng ban": "Trung tâm vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC011339X",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.26.32.162",
+        "MAC Address": "38:22:E2:18:7F:3B"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-25T09:14:54",
+      "updatedAt": "2026-06-25T09:14:54"
     }
   ]
 }
