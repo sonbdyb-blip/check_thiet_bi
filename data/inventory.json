@@ -788,6 +788,43 @@
       ],
       "createdAt": "2026-06-25T02:50:08",
       "updatedAt": "2026-06-25T02:50:08"
+    },
+    {
+      "id": "99fc2053dc4d48cb8bf1fa1e0b500b09",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Phòng Tài chính - Kế hoạch",
+        "Họ và tên người sử dụng": "Nguyễn Ngọc Hiếu",
+        "Mã HRM": "00065922",
+        "Bộ phận / Phòng ban": "Phòng Tài chính - Kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HIEU-KTTH",
+        "Loại máy": "Desktop",
+        "Hãng": "To Be Filled By O.E.M.",
+        "Model": "To Be Filled By O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To Be Filled By O.E.M.",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "15.6 GB",
+        "Ổ cứng": "337 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.32.34",
+        "MAC Address": "A8:A1:59:97:11:87"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon ImageCLASS MF215",
+          "serial": "RWN05812"
+        }
+      ],
+      "createdAt": "2026-06-25T03:15:38",
+      "updatedAt": "2026-06-25T03:15:38"
     }
   ]
 }
