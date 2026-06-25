@@ -918,6 +918,37 @@
       "attachments": [],
       "createdAt": "2026-06-25T09:14:54",
       "updatedAt": "2026-06-25T09:14:54"
+    },
+    {
+      "id": "7d1fa934ff314524b5094e2add3d71c1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "TTVH",
+        "Họ và tên người sử dụng": "Hoàng Phương Duyên",
+        "Mã HRM": "00065933",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KTNV-DUYEN",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop PC 570-p0xx",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV808064J",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "886 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.26.32.53",
+        "MAC Address": "80:CE:62:EC:E4:37"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-25T09:15:36",
+      "updatedAt": "2026-06-25T09:15:36"
     }
   ]
 }
