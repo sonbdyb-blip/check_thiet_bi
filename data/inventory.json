@@ -652,6 +652,37 @@
       "attachments": [],
       "createdAt": "2026-06-24T13:24:21",
       "updatedAt": "2026-06-24T13:24:21"
+    },
+    {
+      "id": "c3da000a4db041d484d3e1c5df00e064",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "321510",
+        "Tên Bưu cục": "VP BĐT",
+        "Họ và tên người sử dụng": "Phạm Ngọc Cầm",
+        "Mã HRM": "00227725",
+        "Bộ phận / Phòng ban": "Phòng TCKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-KT-CAM",
+        "Loại máy": "Desktop",
+        "Hãng": "To Be Filled By O.E.M.",
+        "Model": "To Be Filled By O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To Be Filled By O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "322 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-gb",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.32.35",
+        "MAC Address": "A8:A1:59:64:BA:46"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-25T01:42:14",
+      "updatedAt": "2026-06-25T01:42:14"
     }
   ]
 }
