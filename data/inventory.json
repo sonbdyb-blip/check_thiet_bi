@@ -1127,6 +1127,48 @@
       ],
       "createdAt": "2026-06-25T10:17:26",
       "updatedAt": "2026-06-25T10:17:26"
+    },
+    {
+      "id": "79d74edf64ee45238993a98e815ec2e5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "333320",
+        "Tên Bưu cục": "bưu cục vận hành Sa Pa",
+        "Họ và tên người sử dụng": "Lò Thị Dung",
+        "Mã HRM": "00235017",
+        "Bộ phận / Phòng ban": "bưu cục vận hành Sa Pa",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-SPA-BCP",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B0RF862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn - vi-vn",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.123.240",
+        "MAC Address": "64:00:6A:01:E1:FA"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Laser jet Pro M203b",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-25T10:19:42",
+      "updatedAt": "2026-06-25T10:19:42"
     }
   ]
 }
