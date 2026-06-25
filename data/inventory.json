@@ -1048,6 +1048,43 @@
       ],
       "createdAt": "2026-06-25T10:06:48",
       "updatedAt": "2026-06-25T10:06:48"
+    },
+    {
+      "id": "71a91b60afb14d959540d9f369702b06",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "324080",
+        "Tên Bưu cục": "BCP  Văn Yên",
+        "Họ và tên người sử dụng": "Đặng Ngọc Hà",
+        "Mã HRM": "00066196",
+        "Bộ phận / Phòng ban": "BCVH Văn Yên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VANYEN_TMDT",
+        "Loại máy": "Desktop",
+        "Hãng": "FUJITSU",
+        "Model": "FMVDK3F0AE",
+        "Năm sản xuất": "",
+        "Serial Number": "MA3600017",
+        "CPU": "Intel(R) Core(TM) i3-2100 CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "233 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro for Workstations 10.0.16299",
+        "Office": "Microsoft Office Standard 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.27",
+        "MAC Address": "F8:0F:41:8A:3B:87"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "PDIT",
+          "serial": "264CLB255190306"
+        }
+      ],
+      "createdAt": "2026-06-25T10:10:40",
+      "updatedAt": "2026-06-25T10:10:40"
     }
   ]
 }
