@@ -751,6 +751,43 @@
       ],
       "createdAt": "2026-06-25T01:47:44",
       "updatedAt": "2026-06-25T01:47:44"
+    },
+    {
+      "id": "779efa58d17b419c98ca8a9eb9b2e454",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Phòng Tài chính - Kế hoạch",
+        "Họ và tên người sử dụng": "Nguyễn Hoài Thu",
+        "Mã HRM": "00065927",
+        "Bộ phận / Phòng ban": "Phòng Tài chính - Kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-6FIK3GF",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "7,8 GB",
+        "Ổ cứng": "1154 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.32.37",
+        "MAC Address": "74:56:3C:2D:A0:D4"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": "L11121E"
+        }
+      ],
+      "createdAt": "2026-06-25T02:50:08",
+      "updatedAt": "2026-06-25T02:50:08"
     }
   ]
 }
