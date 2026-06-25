@@ -825,6 +825,37 @@
       ],
       "createdAt": "2026-06-25T03:15:38",
       "updatedAt": "2026-06-25T03:15:38"
+    },
+    {
+      "id": "9d420b2c6b0f427c9bf7e37a455038e2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "TTVH",
+        "Họ và tên người sử dụng": "Nguyễn Thị Oanh",
+        "Mã HRM": "00066076",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-U5DOP4I",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Desktop 390-0xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "8CG844BGF8",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "464 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro N 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.26.32.55",
+        "MAC Address": "F4:39:09:33:BF:71"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-25T09:10:31",
+      "updatedAt": "2026-06-25T09:10:31"
     }
   ]
 }
