@@ -1171,35 +1171,35 @@
       "updatedAt": "2026-06-25T10:19:42"
     },
     {
-      "id": "f03786b10974476389b0d136248c8e44",
+      "id": "88095facb72e4bc5843af02a47e150d5",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "324080",
-        "Tên Bưu cục": "Bưu Cục Phát Văn Yên",
-        "Họ và tên người sử dụng": "Nguyễn Thị Thu Thủy",
-        "Mã HRM": "00066270",
-        "Bộ phận / Phòng ban": "Bưu Cục Vận Hành Văn Yên",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "VANYEN-KHAITHAC",
-        "Loại máy": "Desktop",
-        "Hãng": "HP",
-        "Model": "HP Slim Desktop S01-pF2xxx",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "4CE334B672",
-        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
-        "RAM": "7.7 GB",
-        "Ổ cứng": "238 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
-        "Office": "Microsoft Office Professional Plus 2019 - en-us",
-        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
-        "IP Address": "192.168.1.29",
-        "MAC Address": "E0:73:E7:BA:84:42"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
       "attachments": [],
-      "createdAt": "2026-06-25T10:02:40",
-      "updatedAt": "2026-06-25T10:02:40"
+      "createdAt": "2026-06-25T10:02:41",
+      "updatedAt": "2026-06-25T10:02:41"
     }
   ]
 }
