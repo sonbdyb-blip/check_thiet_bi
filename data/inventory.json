@@ -949,6 +949,37 @@
       "attachments": [],
       "createdAt": "2026-06-25T09:15:36",
       "updatedAt": "2026-06-25T09:15:36"
+    },
+    {
+      "id": "c88acf49d210499da93827f5a566c1fa",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "TTVH",
+        "Họ và tên người sử dụng": "Nguyễn Trâm Anh",
+        "Mã HRM": "00268899",
+        "Bộ phận / Phòng ban": "trung tâm vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TTVH",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 400 G2 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH504PV62",
+        "CPU": "Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "584 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.26.32.49",
+        "MAC Address": "34:64:A9:16:A4:7F"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-25T09:32:16",
+      "updatedAt": "2026-06-25T09:32:16"
     }
   ]
 }
