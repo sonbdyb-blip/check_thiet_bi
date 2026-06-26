@@ -4412,6 +4412,48 @@
       ],
       "createdAt": "2026-06-26T09:42:13",
       "updatedAt": "2026-06-26T09:42:13"
+    },
+    {
+      "id": "8a946605112d483483ab95f99b604065",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "330100",
+        "Tên Bưu cục": "Khai thác Lào Cai 2",
+        "Họ và tên người sử dụng": "Bùi Thị Thủy",
+        "Mã HRM": "00043758",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-KTVC-KT08",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B19HH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "457 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19041",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.106.188",
+        "MAC Address": "64:00:6A:01:E5:98"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Zebra ZD620",
+          "serial": "0"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra LI4278",
+          "serial": "0"
+        }
+      ],
+      "createdAt": "2026-06-26T09:48:17",
+      "updatedAt": "2026-06-26T09:48:17"
     }
   ]
 }
