@@ -2606,6 +2606,53 @@
       "attachments": [],
       "createdAt": "2026-06-26T03:27:53",
       "updatedAt": "2026-06-26T03:27:53"
+    },
+    {
+      "id": "c29ee0a3a3ec451098c85f75175cf280",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "324900",
+        "Tên Bưu cục": "BC Ba Khe",
+        "Họ và tên người sử dụng": "Nguyễn Thị Ngọc Mai",
+        "Mã HRM": "00066364",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop PC 570-p0xx",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV8080DCB",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "1044 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.7",
+        "MAC Address": "80:CE:62:ED:21:C5"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2009",
+          "serial": "MGQA681856"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER - ZEBRAZD620",
+          "serial": "58TTHBU52124390- D3J204201712"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "rohs",
+          "serial": "MC364601003925"
+        }
+      ],
+      "createdAt": "2026-06-26T03:41:18",
+      "updatedAt": "2026-06-26T03:41:18"
     }
   ]
 }
