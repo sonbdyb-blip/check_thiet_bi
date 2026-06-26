@@ -3559,6 +3559,48 @@
       ],
       "createdAt": "2026-06-26T04:40:42",
       "updatedAt": "2026-06-26T04:40:42"
+    },
+    {
+      "id": "4915c3cf16d74244b2b1bea1bc9eba97",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "330100",
+        "Tên Bưu cục": "Khai thác Lào Cai 2",
+        "Họ và tên người sử dụng": "Lê Thị Hồng Thơm",
+        "Mã HRM": "00043769",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-KTVC-KT02",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "2Z350T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "464 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19043",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.106.192",
+        "MAC Address": "B8:85:84:AA:FB:EB"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": "0"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA LI4278",
+          "serial": "0"
+        }
+      ],
+      "createdAt": "2026-06-26T04:37:03",
+      "updatedAt": "2026-06-26T04:37:03"
     }
   ]
 }
