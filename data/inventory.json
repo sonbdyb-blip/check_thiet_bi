@@ -2466,6 +2466,53 @@
       ],
       "createdAt": "2026-06-26T03:20:30",
       "updatedAt": "2026-06-26T03:20:30"
+    },
+    {
+      "id": "15bc6d4780f84545b4a2f2f824556fca",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "324900",
+        "Tên Bưu cục": "Bưu Cục Đồng Khê",
+        "Họ và tên người sử dụng": "Đinh Thị Liên",
+        "Mã HRM": "00066286",
+        "Bộ phận / Phòng ban": "Giao Dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YBI-VANCHAN-DON",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3060",
+        "Năm sản xuất": "",
+        "Serial Number": "995FBW2",
+        "CPU": "Intel(R) Core(TM) i5-8400T CPU @ 1.70GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18362",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "6C:2B:59:E4:0B:11"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon2900/ canon- L11121E",
+          "serial": "13252( part1)/IEC 60950-1"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Cprienter/ GP-5890X111",
+          "serial": "S-B170717A1087"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol tech.inc/11JUN22",
+          "serial": "E-C032-05-2852"
+        }
+      ],
+      "createdAt": "2026-06-26T03:23:26",
+      "updatedAt": "2026-06-26T03:23:26"
     }
   ]
 }
