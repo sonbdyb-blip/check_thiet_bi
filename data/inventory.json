@@ -4296,6 +4296,43 @@
       ],
       "createdAt": "2026-06-26T08:55:40",
       "updatedAt": "2026-06-26T08:55:40"
+    },
+    {
+      "id": "6e98c5faca9f4b62814233610c5b5682",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "324725",
+        "Tên Bưu cục": "bưu điện xã Văn Chấn",
+        "Họ và tên người sử dụng": "Trần Hạnh Lan",
+        "Mã HRM": "00066277",
+        "Bộ phận / Phòng ban": "NVKD kiêm Giám đốc xã Gia Hội",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 390",
+        "Năm sản xuất": "",
+        "Serial Number": "9GFJWBX",
+        "CPU": "Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 IoT Enterprise LTSC 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "C4:E9:84:0B:40:89"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "HP LaserJet P2035",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T09:18:17",
+      "updatedAt": "2026-06-26T09:18:17"
     }
   ]
 }
