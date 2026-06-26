@@ -1786,6 +1786,37 @@
       ],
       "createdAt": "2026-06-26T02:10:28",
       "updatedAt": "2026-06-26T02:10:28"
+    },
+    {
+      "id": "de8457bcbe1a4bd0b72d9606649caeab",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Trung Tâm Kinh Doanh",
+        "Họ và tên người sử dụng": "Hà Thị Ngân",
+        "Mã HRM": "00066050",
+        "Bộ phận / Phòng ban": "Trung Tâm Kinh Doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-KTNV-TRANHA",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "1620 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.32.65",
+        "MAC Address": "74:56:3C:2D:A4:05"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T02:12:38",
+      "updatedAt": "2026-06-26T02:12:38"
     }
   ]
 }
