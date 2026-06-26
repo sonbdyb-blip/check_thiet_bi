@@ -1953,6 +1953,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T02:16:52",
       "updatedAt": "2026-06-26T02:16:52"
+    },
+    {
+      "id": "4ec931b1b9354bb0b7cd37e1d9529e27",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Trung tâm kinh doanh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hải",
+        "Mã HRM": "00071373",
+        "Bộ phận / Phòng ban": "Trung tâm kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "Nguyễn Thị Hải",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "BBHJH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.32.76",
+        "MAC Address": "64:00:6A:07:42:6D"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T02:18:55",
+      "updatedAt": "2026-06-26T02:18:55"
     }
   ]
 }
