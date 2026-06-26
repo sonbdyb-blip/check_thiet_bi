@@ -3301,6 +3301,37 @@
       ],
       "createdAt": "2026-06-26T04:04:38",
       "updatedAt": "2026-06-26T04:04:38"
+    },
+    {
+      "id": "090c8bbe87fd4b2a9d5200be778a1d7a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "Lào Cai",
+        "Tên Bưu cục": "Lào Cai",
+        "Họ và tên người sử dụng": "Phạm Văn Tuân",
+        "Mã HRM": "00074617",
+        "Bộ phận / Phòng ban": "TTKD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "WINDOWS-10",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 15-3568",
+        "Năm sản xuất": "",
+        "Serial Number": "CVYL4F2",
+        "CPU": "Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "1051 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn - vi-vn",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.19.200.174",
+        "MAC Address": "3C:F8:62:56:B7:D8"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T04:11:30",
+      "updatedAt": "2026-06-26T04:11:30"
     }
   ]
 }
