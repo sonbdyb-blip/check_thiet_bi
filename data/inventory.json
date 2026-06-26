@@ -3852,6 +3852,48 @@
       ],
       "createdAt": "2026-06-26T06:52:02",
       "updatedAt": "2026-06-26T06:52:02"
+    },
+    {
+      "id": "149b799b00e74faa892e0cccc7f27b9e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu điện xã Bảo Thắng",
+        "Mã Bưu cục": "334100",
+        "Tên Bưu cục": "Bưu cục Bảo Thắng",
+        "Họ và tên người sử dụng": "Đỗ Thị Liên",
+        "Mã HRM": "00043147",
+        "Bộ phận / Phòng ban": "Bưu điện cụm Bảo Thắng - Văn Bàn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "Máy tỉnh để bàn  POSBANK",
+        "Loại máy": "ĐỂ BÀN",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Máy in hp  laser jet 404",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Honeywel",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T06:55:05",
+      "updatedAt": "2026-06-26T06:55:05"
     }
   ]
 }
