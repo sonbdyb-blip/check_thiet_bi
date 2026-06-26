@@ -1848,6 +1848,43 @@
       "attachments": [],
       "createdAt": "2026-06-26T02:14:29",
       "updatedAt": "2026-06-26T02:14:29"
+    },
+    {
+      "id": "e30cc55345b24dc5be8412e5bd7be1de",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "324700",
+        "Tên Bưu cục": "VP Bưu Điện Xã Văn Chấn",
+        "Họ và tên người sử dụng": "Hoàng Thị Thu Hằng",
+        "Mã HRM": "00066398",
+        "Bộ phận / Phòng ban": "VP bưu điện xã văn chấn  (TK-TQ)",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DELL",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": "LBPB230dn"
+        }
+      ],
+      "createdAt": "2026-06-26T02:15:11",
+      "updatedAt": "2026-06-26T02:15:11"
     }
   ]
 }
