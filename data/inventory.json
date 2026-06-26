@@ -1572,6 +1572,53 @@
       "attachments": [],
       "createdAt": "2026-06-26T02:00:58",
       "updatedAt": "2026-06-26T02:00:58"
+    },
+    {
+      "id": "4da93f9cd57540429d7ea464d98a372d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "MÙ CANG CHẢI",
+        "Mã Bưu cục": "326100",
+        "Tên Bưu cục": "MÙ CANG CHẢI",
+        "Họ và tên người sử dụng": "ĐẶNG THỊ THU HIỀN",
+        "Mã HRM": "00265134",
+        "Bộ phận / Phòng ban": "GIAO DỊCH VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "CAS-MCC",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "579 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "60:45:CB:83:72:35"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "INTERMEC PC43d",
+          "serial": "041C1720012"
+        },
+        {
+          "type": "photocopier",
+          "name": "CANON",
+          "serial": "NDMA210640"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Voyager 1250g",
+          "serial": "3K18141216"
+        }
+      ],
+      "createdAt": "2026-06-26T02:04:02",
+      "updatedAt": "2026-06-26T02:04:02"
     }
   ]
 }
