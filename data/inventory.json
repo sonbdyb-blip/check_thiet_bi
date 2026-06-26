@@ -3081,6 +3081,48 @@
       "attachments": [],
       "createdAt": "2026-06-26T03:53:03",
       "updatedAt": "2026-06-26T03:53:03"
+    },
+    {
+      "id": "ea405b891f9e48679ca737d46f2610a1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3215",
+        "Tên Xã": "Bưu điện xã Nghĩa Tâm",
+        "Mã Bưu cục": "325040",
+        "Tên Bưu cục": "VHX Nghĩa Tâm",
+        "Họ và tên người sử dụng": "Trần Thị Dung",
+        "Mã HRM": "00066315",
+        "Bộ phận / Phòng ban": "giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHX-NGHIATAM",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26100",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.21.165",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": "AC220--240V 50/60HZ 2.1A"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "IIHBU-Z51060273"
+        }
+      ],
+      "createdAt": "2026-06-26T04:00:37",
+      "updatedAt": "2026-06-26T04:00:37"
     }
   ]
 }
