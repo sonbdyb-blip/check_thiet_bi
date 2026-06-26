@@ -4040,6 +4040,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T07:37:55",
       "updatedAt": "2026-06-26T07:37:55"
+    },
+    {
+      "id": "d16d658df5e94195b3bbbee14427ff24",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3216",
+        "Tên Xã": "Bưu điện xã Văn Chấn",
+        "Mã Bưu cục": "324701",
+        "Tên Bưu cục": "Văn phòng BDX",
+        "Họ và tên người sử dụng": "Hoàng Nhật Hoàng",
+        "Mã HRM": "00116144",
+        "Bộ phận / Phòng ban": "Văn phòng BĐX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "Admin",
+        "Loại máy": "laptop",
+        "Hãng": "Dell",
+        "Model": "Laditude 3460",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Core i3-5005",
+        "RAM": "4GB",
+        "Ổ cứng": "HDD 500GB",
+        "Hệ điều hành": "Windows 7",
+        "Office": "Microsoft Office 2007",
+        "Antivirus": "",
+        "IP Address": "192.168.1.1",
+        "MAC Address": "58-FB-84-07-4F-D1"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T07:39:29",
+      "updatedAt": "2026-06-26T07:39:29"
     }
   ]
 }
