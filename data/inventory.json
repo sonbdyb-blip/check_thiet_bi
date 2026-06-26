@@ -1984,6 +1984,53 @@
       "attachments": [],
       "createdAt": "2026-06-26T02:18:55",
       "updatedAt": "2026-06-26T02:18:55"
+    },
+    {
+      "id": "889a4afde0474cd1b97e83c8b1e03b1b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "324760",
+        "Tên Bưu cục": "BCVH văn chấn",
+        "Họ và tên người sử dụng": "hà anh tuấn",
+        "Mã HRM": "00258602",
+        "Bộ phận / Phòng ban": "nvxl nv - bcvh văn chấn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-VANCHAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "CPV8H32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.7",
+        "MAC Address": "F8:BC:12:A6:14:DA"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "zebra",
+          "serial": "zd620"
+        },
+        {
+          "type": "photocopier",
+          "name": "hp laser jet",
+          "serial": "p2035"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "datamax",
+          "serial": "m1200"
+        }
+      ],
+      "createdAt": "2026-06-26T02:24:37",
+      "updatedAt": "2026-06-26T02:24:37"
     }
   ]
 }
