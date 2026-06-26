@@ -1718,6 +1718,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T02:07:49",
       "updatedAt": "2026-06-26T02:07:49"
+    },
+    {
+      "id": "2afb3e79c49e4482b1d7a1c50db7844c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Trung Tâm kinh doanh",
+        "Họ và tên người sử dụng": "Nguyễn Ngọc Kiên",
+        "Mã HRM": "00272749",
+        "Bộ phận / Phòng ban": "Trung Tâm kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KIENNN-TTKD",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Tower 280 G9 PCI Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE426BNBG",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.26.32.67",
+        "MAC Address": "28:C5:C8:73:FF:21"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T02:08:32",
+      "updatedAt": "2026-06-26T02:08:32"
     }
   ]
 }
