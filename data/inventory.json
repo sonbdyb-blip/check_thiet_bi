@@ -4516,6 +4516,53 @@
       "attachments": [],
       "createdAt": "2026-06-26T09:53:24",
       "updatedAt": "2026-06-26T09:53:24"
+    },
+    {
+      "id": "23c4ee9048aa4a80bca30f205dd633f3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu điện xã Tằng Loỏng",
+        "Mã Bưu cục": "334130",
+        "Tên Bưu cục": "Bưu cục Tằng Loỏng",
+        "Họ và tên người sử dụng": "Đặng Thị Nhàn",
+        "Mã HRM": "00043140",
+        "Bộ phận / Phòng ban": "Bưu điện cụm Bảo Thắng - Văn Bàn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-BT-TANGLOON",
+        "Loại máy": "để bàn",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "2W960T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn - vi-vn",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.19.113.15",
+        "MAC Address": "B8:85:84:C5:29:99"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Zebra ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra DS22 loại không dây",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T09:54:34",
+      "updatedAt": "2026-06-26T09:54:34"
     }
   ]
 }
