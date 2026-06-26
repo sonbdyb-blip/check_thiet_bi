@@ -3732,6 +3732,37 @@
       ],
       "createdAt": "2026-06-26T04:46:38",
       "updatedAt": "2026-06-26T04:46:38"
+    },
+    {
+      "id": "047f17ce09fd40c4ae32847c9b8fee79",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "330100",
+        "Tên Bưu cục": "Khai thác Lào Cai 2",
+        "Họ và tên người sử dụng": "Vũ Hoàng Huy",
+        "Mã HRM": "00043764",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-KTVC-KT10",
+        "Loại máy": "",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "i3-4150",
+        "RAM": "2G",
+        "Ổ cứng": "400GB",
+        "Hệ điều hành": "Microsoft Windows 7 Enterprise 32-bit",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T05:06:06",
+      "updatedAt": "2026-06-26T05:06:06"
     }
   ]
 }
