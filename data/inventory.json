@@ -4454,6 +4454,37 @@
       ],
       "createdAt": "2026-06-26T09:48:17",
       "updatedAt": "2026-06-26T09:48:17"
+    },
+    {
+      "id": "69d505b6a70c47faacebfb88016b85e1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "324725",
+        "Tên Bưu cục": "bưu điện xã Văn Chấn",
+        "Họ và tên người sử dụng": "Nguyễn Văn Hậu",
+        "Mã HRM": "002220892",
+        "Bộ phận / Phòng ban": "NVKD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YENBAI_VANCHAN_",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T09:48:22",
+      "updatedAt": "2026-06-26T09:48:22"
     }
   ]
 }
