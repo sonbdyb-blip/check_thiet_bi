@@ -3601,6 +3601,43 @@
       ],
       "createdAt": "2026-06-26T04:37:03",
       "updatedAt": "2026-06-26T04:37:03"
+    },
+    {
+      "id": "64701dcfb0cf4d06bd750ed80cb9e63c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3257",
+        "Tên Bưu cục": "Bưu điện xã Lục Yên",
+        "Họ và tên người sử dụng": "Hoàng Thị Minh Thu",
+        "Mã HRM": "00066064",
+        "Bộ phận / Phòng ban": "Bộ phận kế toán Lục Yên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-LUCYEN-THU",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "1154 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office LTSC Standard 2021 - en-us",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.12",
+        "MAC Address": "08:BF:B8:2B:18:4F"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Cannon2900",
+          "serial": "PEYA008507"
+        }
+      ],
+      "createdAt": "2026-06-26T04:43:19",
+      "updatedAt": "2026-06-26T04:43:19"
     }
   ]
 }
