@@ -2257,6 +2257,53 @@
       ],
       "createdAt": "2026-06-26T02:55:16",
       "updatedAt": "2026-06-26T02:55:16"
+    },
+    {
+      "id": "97f92aed973c48b0be308d412ba9a09b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "333680",
+        "Tên Bưu cục": "pom hán",
+        "Họ và tên người sử dụng": "Bùi Thị Hồng Huệ",
+        "Mã HRM": "00043406",
+        "Bộ phận / Phòng ban": "giao dịch viên tại điểm",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-TPO-POMHAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9YWR8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "474 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.203.203",
+        "MAC Address": "B8:85:84:B1:27:23"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "laser jet pro M203d",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "zebra zd620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra ds22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T03:01:55",
+      "updatedAt": "2026-06-26T03:01:55"
     }
   ]
 }
