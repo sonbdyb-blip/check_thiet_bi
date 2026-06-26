@@ -3810,6 +3810,48 @@
       ],
       "createdAt": "2026-06-26T06:41:02",
       "updatedAt": "2026-06-26T06:41:02"
+    },
+    {
+      "id": "f1305d3bab754a61bac428be813f78e2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu điện xã Bảo Thắng",
+        "Mã Bưu cục": "334100",
+        "Tên Bưu cục": "Bưu cục Bảo Thắng",
+        "Họ và tên người sử dụng": "Đỗ Thị Liên",
+        "Mã HRM": "00043147",
+        "Bộ phận / Phòng ban": "Bưu điện cụm Bảo Thắng - Văn Bàn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "Posbank",
+        "Loại máy": "Posbank",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "hp laser pro 404",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "honeywell",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T06:52:02",
+      "updatedAt": "2026-06-26T06:52:02"
     }
   ]
 }
