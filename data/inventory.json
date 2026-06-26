@@ -2341,6 +2341,53 @@
       ],
       "createdAt": "2026-06-26T03:01:58",
       "updatedAt": "2026-06-26T03:01:58"
+    },
+    {
+      "id": "9afac9f5b71c49c0be79c3f6efd87d87",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "04705",
+        "Tên Xã": "Thượng Bằng la",
+        "Mã Bưu cục": "325010",
+        "Tên Bưu cục": "Bưu diện vhx Thượng Bằng La",
+        "Họ và tên người sử dụng": "Hà Thị Thanh Hoa",
+        "Mã HRM": "00074944",
+        "Bộ phận / Phòng ban": "Bưu Điện VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "@jhua",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HPLaser Jet P2035",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Tân Phát",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T03:13:58",
+      "updatedAt": "2026-06-26T03:13:58"
     }
   ]
 }
