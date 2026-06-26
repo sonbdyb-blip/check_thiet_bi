@@ -2575,6 +2575,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T03:26:56",
       "updatedAt": "2026-06-26T03:26:56"
+    },
+    {
+      "id": "892ca76517284199bb7da19822c2495b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3250",
+        "Tên Xã": "BƯU ĐIỆN XÃ CÁT THỊNH",
+        "Mã Bưu cục": "324940",
+        "Tên Bưu cục": "BC BA KHE",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ THANH THÚY",
+        "Mã HRM": "00066409",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN KD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BAKHE-THUYBHCD",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "0",
+        "Serial Number": "P11GV6821180534",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.9",
+        "MAC Address": "50:AF:73:38:1F:58"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T03:27:53",
+      "updatedAt": "2026-06-26T03:27:53"
     }
   ]
 }
