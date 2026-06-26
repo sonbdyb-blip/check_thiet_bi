@@ -1415,6 +1415,48 @@
       ],
       "createdAt": "2026-06-26T01:51:40",
       "updatedAt": "2026-06-26T01:51:40"
+    },
+    {
+      "id": "ba0d58d2c5684b8e860b48ae9329a26a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "325660",
+        "Tên Bưu cục": "BCP Nghĩa Lộ",
+        "Họ và tên người sử dụng": "Sa Thị Sen",
+        "Mã HRM": "00066365",
+        "Bộ phận / Phòng ban": "Nhân viên XLNV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "6DW8H32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "F8:BC:12:A6:1B:F3"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": "NDMA429385"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "RoHS",
+          "serial": "MC364601003924"
+        }
+      ],
+      "createdAt": "2026-06-26T01:52:31",
+      "updatedAt": "2026-06-26T01:52:31"
     }
   ]
 }
