@@ -4139,6 +4139,37 @@
       ],
       "createdAt": "2026-06-26T07:43:29",
       "updatedAt": "2026-06-26T07:43:29"
+    },
+    {
+      "id": "57d33ebedb664b6898953a1414c625a5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3223",
+        "Tên Xã": "Xuân Ái",
+        "Mã Bưu cục": "324100",
+        "Tên Bưu cục": "BC VP",
+        "Họ và tên người sử dụng": "Nguyễn Thành Nam",
+        "Mã HRM": "00226829",
+        "Bộ phận / Phòng ban": "GĐX Xuân Ái",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXXUANAI",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7D46",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19041",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.0.106",
+        "MAC Address": "04:7C:16:06:DB:1D"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T07:44:36",
+      "updatedAt": "2026-06-26T07:44:36"
     }
   ]
 }
