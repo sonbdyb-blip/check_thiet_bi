@@ -2700,6 +2700,37 @@
       ],
       "createdAt": "2026-06-26T03:45:24",
       "updatedAt": "2026-06-26T03:45:24"
+    },
+    {
+      "id": "754d201a5344447d8baa42337235ce0b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "330100",
+        "Tên Bưu cục": "TTVH- Khai thác lào cai 2",
+        "Họ và tên người sử dụng": "Đặng Thu Hương",
+        "Mã HRM": "00043732",
+        "Bộ phận / Phòng ban": "tổ khai thác",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-KTVC-TBC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B2GGH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.106.189",
+        "MAC Address": "64:00:6A:01:E5:D7"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T03:46:32",
+      "updatedAt": "2026-06-26T03:46:32"
     }
   ]
 }
