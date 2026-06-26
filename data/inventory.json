@@ -2304,6 +2304,43 @@
       ],
       "createdAt": "2026-06-26T03:01:55",
       "updatedAt": "2026-06-26T03:01:55"
+    },
+    {
+      "id": "07eeb011a7384af9bf3ca2460a18d0db",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "333680",
+        "Tên Bưu cục": "pom hán",
+        "Họ và tên người sử dụng": "Bùi Thị Hồng Huệ",
+        "Mã HRM": "00043406",
+        "Bộ phận / Phòng ban": "giao dịch viên tại điểm",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-TK_POMHAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP Compaq 6200 Pro SFF PC",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH218QX13",
+        "CPU": "Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz",
+        "RAM": "1.9 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19041",
+        "Office": "Microsoft Office Professional 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.203.103",
+        "MAC Address": "E8:39:35:3C:E8:7F"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Máy in canon2900",
+          "serial": "L11121E"
+        }
+      ],
+      "createdAt": "2026-06-26T03:01:58",
+      "updatedAt": "2026-06-26T03:01:58"
     }
   ]
 }
