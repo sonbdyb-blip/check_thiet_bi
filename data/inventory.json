@@ -4375,6 +4375,43 @@
       ],
       "createdAt": "2026-06-26T09:34:41",
       "updatedAt": "2026-06-26T09:34:41"
+    },
+    {
+      "id": "e1b1e8cb109e487d8a6b682ce5213521",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "330100",
+        "Tên Bưu cục": "Khai thác Lào Cai 2",
+        "Họ và tên người sử dụng": "Phạm Hồng Thái",
+        "Mã HRM": "00259063",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-KTVC-KT05",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B2LHH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "464 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn - vi-vn",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.106.110",
+        "MAC Address": "64:00:6A:01:E6:AB"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "Winson WNI-6213B/V",
+          "serial": "0"
+        }
+      ],
+      "createdAt": "2026-06-26T09:42:13",
+      "updatedAt": "2026-06-26T09:42:13"
     }
   ]
 }
