@@ -1687,6 +1687,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T02:07:10",
       "updatedAt": "2026-06-26T02:07:10"
+    },
+    {
+      "id": "8878d1afeef84080ae69fb66f83158e5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Trung Tâm Kinh Doanh",
+        "Họ và tên người sử dụng": "Nguyễn Ngọc Vinh",
+        "Mã HRM": "00066454",
+        "Bộ phận / Phòng ban": "Trung Tâm Kinh Doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHKD-VINH",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.32.73",
+        "MAC Address": "58:11:22:9A:C8:54"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T02:07:49",
+      "updatedAt": "2026-06-26T02:07:49"
     }
   ]
 }
