@@ -1457,6 +1457,43 @@
       ],
       "createdAt": "2026-06-26T01:52:31",
       "updatedAt": "2026-06-26T01:52:31"
+    },
+    {
+      "id": "924f2292fc864e60bcf1c9236368ce67",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "323350",
+        "Tên Bưu cục": "BCVH Trấn Yên",
+        "Họ và tên người sử dụng": "Đào Thị Hồ Bắc",
+        "Mã HRM": "00066188",
+        "Bộ phận / Phòng ban": "Giám đốc BCVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Desktop 390-0xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "8CG8352HJG",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "448 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.18",
+        "MAC Address": "F4:39:09:21:A7:D7"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon151",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T01:53:56",
+      "updatedAt": "2026-06-26T01:53:56"
     }
   ]
 }
