@@ -4485,6 +4485,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T09:48:22",
       "updatedAt": "2026-06-26T09:48:22"
+    },
+    {
+      "id": "f6e21de1c9a846be89ed732286cd9731",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "324725",
+        "Tên Bưu cục": "bưu điện xã Văn Chấn",
+        "Họ và tên người sử dụng": "Nguyễn Văn Hậu",
+        "Mã HRM": "00220892",
+        "Bộ phận / Phòng ban": "NVKD",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YENBAI_VANCHAN_",
+        "Loại máy": "",
+        "Hãng": "SKYWORTH",
+        "Model": "",
+        "Năm sản xuất": "2011",
+        "Serial Number": "",
+        "CPU": "INTEL(R)",
+        "RAM": "4096MB",
+        "Ổ cứng": "",
+        "Hệ điều hành": "WINDOWS 7",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T09:53:24",
+      "updatedAt": "2026-06-26T09:53:24"
     }
   ]
 }
