@@ -3685,6 +3685,53 @@
       ],
       "createdAt": "2026-06-24T17:36:25",
       "updatedAt": "2026-06-24T17:36:25"
+    },
+    {
+      "id": "46ef773198114328bf72e93c63ea395d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3257",
+        "Tên Xã": "Lục Yên",
+        "Mã Bưu cục": "322600",
+        "Tên Bưu cục": "Bưu Cục Lục Yên",
+        "Họ và tên người sử dụng": "Hoàng Thị Phương Thảo",
+        "Mã HRM": "00066081",
+        "Bộ phận / Phòng ban": "Giao Dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LUCYEN-THAO",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B2WV8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "B8:85:84:B1:2B:D7"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Cannon2900",
+          "serial": "NMYA927299"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Gprinter",
+          "serial": "S-A170720A1593"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "LS2208-SR20001R",
+          "serial": "Z49C58"
+        }
+      ],
+      "createdAt": "2026-06-26T04:46:38",
+      "updatedAt": "2026-06-26T04:46:38"
     }
   ]
 }
