@@ -2851,6 +2851,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T03:49:00",
       "updatedAt": "2026-06-26T03:49:00"
+    },
+    {
+      "id": "66ca0812401a44aeb34b402811ad7196",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "322600",
+        "Tên Bưu cục": "Bưu điện xã Lục Yên",
+        "Họ và tên người sử dụng": "Hoàng Quốc Dũng",
+        "Mã HRM": "00066332",
+        "Bộ phận / Phòng ban": "Bộ phận quản lý - Bưu điện xã Lục Yên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-LUCYEN-DUNG",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop PC 570-p0xx",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV81709R6",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "1042 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office 365 ProPlus - en-us",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.31",
+        "MAC Address": "80:CE:62:EF:9E:7C"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T03:47:00",
+      "updatedAt": "2026-06-26T03:47:00"
     }
   ]
 }
