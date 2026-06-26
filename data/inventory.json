@@ -3978,6 +3978,37 @@
       ],
       "createdAt": "2026-06-26T07:19:25",
       "updatedAt": "2026-06-26T07:19:25"
+    },
+    {
+      "id": "d9851b759a2246c596521d06cd19fa9f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3222",
+        "Tên Xã": "Mậu A",
+        "Mã Bưu cục": "324100",
+        "Tên Bưu cục": "VP BĐH Văn Yên",
+        "Họ và tên người sử dụng": "Trần Quốc Tuấn Anh",
+        "Mã HRM": "00272019",
+        "Bộ phận / Phòng ban": "Kinh doanh BĐ xã Mậu A",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-VAN04II",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "232 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.0.124",
+        "MAC Address": "10:7C:61:24:F3:98"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T07:25:39",
+      "updatedAt": "2026-06-26T07:25:39"
     }
   ]
 }
