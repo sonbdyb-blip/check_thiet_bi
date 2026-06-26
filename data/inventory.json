@@ -1541,6 +1541,37 @@
       ],
       "createdAt": "2026-06-26T01:56:05",
       "updatedAt": "2026-06-26T01:56:05"
+    },
+    {
+      "id": "82633d5f8186429f9a5d17ee0f9c394b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "324701",
+        "Tên Bưu cục": "Bưu cục văn phòng bưu điện xã Văn Chấn",
+        "Họ và tên người sử dụng": "Hoàng Nhật Hoàng",
+        "Mã HRM": "00116144",
+        "Bộ phận / Phòng ban": "Văn phòng",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YBI-VANCHAN-HOA",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP EliteDesk 800 G6 Desktop Mini PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC0451PJF",
+        "CPU": "Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.9.103",
+        "MAC Address": "34:C9:3D:E5:46:83"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T02:00:58",
+      "updatedAt": "2026-06-26T02:00:58"
     }
   ]
 }
