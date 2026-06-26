@@ -3411,6 +3411,43 @@
       ],
       "createdAt": "2026-06-26T04:28:43",
       "updatedAt": "2026-06-26T04:28:43"
+    },
+    {
+      "id": "b369a6fd437f43258e9615aabab34f62",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3257",
+        "Tên Bưu cục": "BC VP Lục Yên",
+        "Họ và tên người sử dụng": "Nguyễn Thị Quỳnh Trang",
+        "Mã HRM": "00066338",
+        "Bộ phận / Phòng ban": "Bộ phận Kế toán Lục Yên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-A947R0D",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "1170 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.28",
+        "MAC Address": "E8:9C:25:27:FB:AF"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Máy in HP",
+          "serial": "PHCX710211"
+        }
+      ],
+      "createdAt": "2026-06-26T04:27:03",
+      "updatedAt": "2026-06-26T04:27:03"
     }
   ]
 }
