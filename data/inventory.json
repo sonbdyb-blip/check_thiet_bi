@@ -2778,6 +2778,48 @@
       ],
       "createdAt": "2026-06-26T03:47:38",
       "updatedAt": "2026-06-26T03:47:38"
+    },
+    {
+      "id": "d90e93f928c542cc86570326c931c19c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "324940",
+        "Tên Bưu cục": "Ba Khe",
+        "Họ và tên người sử dụng": "Nguyễn Thanh Xuân",
+        "Mã HRM": "00066289",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "PGD-BAKHE",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SFS0FM00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM08GFXD",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "1169 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "38:7A:0E:8D:7F:A2"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon2900",
+          "serial": "MGQA742586"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "58IIHBU24081968"
+        }
+      ],
+      "createdAt": "2026-06-26T03:48:52",
+      "updatedAt": "2026-06-26T03:48:52"
     }
   ]
 }
