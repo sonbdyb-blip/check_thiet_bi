@@ -3332,6 +3332,48 @@
       "attachments": [],
       "createdAt": "2026-06-26T04:11:30",
       "updatedAt": "2026-06-26T04:11:30"
+    },
+    {
+      "id": "f0388d1bb5cd421a96e5c9e834b59ffe",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "330100",
+        "Tên Bưu cục": "Khai thác lào cai 2",
+        "Họ và tên người sử dụng": "Đặng Thu Hương",
+        "Mã HRM": "00043732",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-KTVC-TBC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B2GGH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.106.189",
+        "MAC Address": "64:00:6A:01:E5:D7"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M404dw",
+          "serial": "0"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Honeywell",
+          "serial": "0"
+        }
+      ],
+      "createdAt": "2026-06-26T04:21:23",
+      "updatedAt": "2026-06-26T04:21:23"
     }
   ]
 }
