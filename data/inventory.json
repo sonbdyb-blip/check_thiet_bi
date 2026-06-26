@@ -1619,6 +1619,43 @@
       ],
       "createdAt": "2026-06-26T02:04:02",
       "updatedAt": "2026-06-26T02:04:02"
+    },
+    {
+      "id": "ef0216517fef404eaec896e47ee5733e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Trung tâm Kinh doanh",
+        "Họ và tên người sử dụng": "Lưu Thế Anh",
+        "Mã HRM": "00065932",
+        "Bộ phận / Phòng ban": "Trung tâm Kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-KTNV-THEANH",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H410M H V2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+        "RAM": "15,9 GB",
+        "Ổ cứng": "574 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.32.231",
+        "MAC Address": "18:C0:4D:EF:F1:5B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP246dw",
+          "serial": "PBXA022109"
+        }
+      ],
+      "createdAt": "2026-06-26T02:08:38",
+      "updatedAt": "2026-06-26T02:08:38"
     }
   ]
 }
