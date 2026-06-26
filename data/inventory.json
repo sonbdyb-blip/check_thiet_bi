@@ -4102,6 +4102,43 @@
       "attachments": [],
       "createdAt": "2026-06-26T07:40:12",
       "updatedAt": "2026-06-26T07:40:12"
+    },
+    {
+      "id": "afd27ecb6c264d25a2e7d0da090fdbc0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Trung tâm Kinh Doanh",
+        "Họ và tên người sử dụng": "Trần Thị Thu Hương",
+        "Mã HRM": "00066046",
+        "Bộ phận / Phòng ban": "Trung tâm Kinh Doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-THANHPHO-HUO",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP EliteDesk 800 G6 Desktop Mini PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC137501S",
+        "CPU": "Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.26.31.162",
+        "MAC Address": "50:81:40:99:7C:B8"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HPM201DW",
+          "serial": "VNC3308674"
+        }
+      ],
+      "createdAt": "2026-06-26T07:43:29",
+      "updatedAt": "2026-06-26T07:43:29"
     }
   ]
 }
