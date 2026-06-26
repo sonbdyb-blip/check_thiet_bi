@@ -4212,6 +4212,53 @@
       ],
       "createdAt": "2026-06-26T08:10:39",
       "updatedAt": "2026-06-26T08:10:39"
+    },
+    {
+      "id": "46033b368c8842c0b78214bdd5de0aac",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3220",
+        "Tên Xã": "Đông Cuông",
+        "Mã Bưu cục": "324170",
+        "Tên Bưu cục": "VHX Đông Cuông",
+        "Họ và tên người sử dụng": "Hà Thị Nguyệt",
+        "Mã HRM": "00066216",
+        "Bộ phận / Phòng ban": "Nhân viên VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-VANYEN-VHXDO",
+        "Loại máy": "Desktop",
+        "Hãng": "Intel",
+        "Model": "H610M Plus",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "1166 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional 2016 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.32",
+        "MAC Address": "00:E0:1A:B6:20:E0"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON 6030",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "honeywel",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T08:48:11",
+      "updatedAt": "2026-06-26T08:48:11"
     }
   ]
 }
