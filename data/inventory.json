@@ -3894,6 +3894,48 @@
       ],
       "createdAt": "2026-06-26T06:55:05",
       "updatedAt": "2026-06-26T06:55:05"
+    },
+    {
+      "id": "4f75cdcac94c479289c495fbcaeee583",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "331000",
+        "Tên Xã": "Bưu điện xã Bắc Hà",
+        "Mã Bưu cục": "331000",
+        "Tên Bưu cục": "Bắc Hà",
+        "Họ và tên người sử dụng": "Hoàng thị Hương",
+        "Mã HRM": "00043350",
+        "Bộ phận / Phòng ban": "Bưu điện xã Bắc Hà",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-BHA-HUONGHT",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Inspiron 3543",
+        "Năm sản xuất": "",
+        "Serial Number": "76H0C32",
+        "CPU": "Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "1049 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.10.16",
+        "MAC Address": "AC:D1:B8:C9:16:D1"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Brpther DCP- L25200",
+          "serial": "E73800L7N791655"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "XPrinter",
+          "serial": "58iihbbu55070527"
+        }
+      ],
+      "createdAt": "2026-06-26T07:08:19",
+      "updatedAt": "2026-06-26T07:08:19"
     }
   ]
 }
