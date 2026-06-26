@@ -4009,6 +4009,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T07:25:39",
       "updatedAt": "2026-06-26T07:25:39"
+    },
+    {
+      "id": "781bd527b58a4160890371acc829ff76",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Trung tâm kinh doanh",
+        "Họ và tên người sử dụng": "Phạm Thị Ngọc Thảo",
+        "Mã HRM": "00263479",
+        "Bộ phận / Phòng ban": "Trung tâm kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TTKD-THAO",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "BCJV8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "11.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.26.32.78",
+        "MAC Address": "B8:85:84:AF:5A:68"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T07:37:55",
+      "updatedAt": "2026-06-26T07:37:55"
     }
   ]
 }
