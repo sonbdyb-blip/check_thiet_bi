@@ -3123,6 +3123,53 @@
       ],
       "createdAt": "2026-06-26T04:00:37",
       "updatedAt": "2026-06-26T04:00:37"
+    },
+    {
+      "id": "b7781a9d81ad4813a0367cf6a3c0ebdc",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu điện xã Xuân Quang",
+        "Mã Bưu cục": "334360",
+        "Tên Bưu cục": "Bưu cục Xuân Quang",
+        "Họ và tên người sử dụng": "Phạm Khánh Linh",
+        "Mã HRM": "00106733",
+        "Bộ phận / Phòng ban": "Bưu điện Cụm Bảo Thắng - Văn Bàn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-XUANQUANG",
+        "Loại máy": "Để bàn",
+        "Hãng": "hp",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "48:4D:7E:DE:2B:53"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Honeywell PC42d",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra ds22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T04:00:44",
+      "updatedAt": "2026-06-26T04:00:44"
     }
   ]
 }
