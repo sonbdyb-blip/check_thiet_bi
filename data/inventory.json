@@ -1922,6 +1922,37 @@
       ],
       "createdAt": "2026-06-26T02:15:26",
       "updatedAt": "2026-06-26T02:15:26"
+    },
+    {
+      "id": "4e5a88ff12084c20b5030851bad869d1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Trung tâm Kinh Doanh",
+        "Họ và tên người sử dụng": "Phạm Thị Hải Hà",
+        "Mã HRM": "00065912",
+        "Bộ phận / Phòng ban": "Trung tâm Kinh Doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHKD-HAIHA",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+        "RAM": "15.9 GB",
+        "Ổ cứng": "702 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.26.32.75",
+        "MAC Address": "50:EB:F6:56:86:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T02:16:52",
+      "updatedAt": "2026-06-26T02:16:52"
     }
   ]
 }
