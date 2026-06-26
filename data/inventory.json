@@ -2073,6 +2073,37 @@
       ],
       "createdAt": "2026-06-26T02:33:04",
       "updatedAt": "2026-06-26T02:33:04"
+    },
+    {
+      "id": "0498457e932647738187d1b5ac867982",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "333680",
+        "Tên Bưu cục": "Pom Hán",
+        "Họ và tên người sử dụng": "Bùi Thị Hà",
+        "Mã HRM": "00043410",
+        "Bộ phận / Phòng ban": "Bưu điện phường Cam Đường",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN33",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 15-3568",
+        "Năm sản xuất": "",
+        "Serial Number": "F5GJ5F2",
+        "CPU": "Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.0.117",
+        "MAC Address": "3C:F8:62:61:BC:73"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T02:41:43",
+      "updatedAt": "2026-06-26T02:41:43"
     }
   ]
 }
