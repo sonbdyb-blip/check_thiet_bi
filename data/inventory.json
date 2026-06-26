@@ -1749,6 +1749,43 @@
       "attachments": [],
       "createdAt": "2026-06-26T02:08:32",
       "updatedAt": "2026-06-26T02:08:32"
+    },
+    {
+      "id": "84bd0e2f1e4d4edf8f673cff8c6348d3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Trung tâm kinh doanh",
+        "Họ và tên người sử dụng": "Bùi Mạnh Linh",
+        "Mã HRM": "00065916",
+        "Bộ phận / Phòng ban": "Trung tâm kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TTKD-LINH",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "700 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.26.32.74",
+        "MAC Address": "A0:36:BC:B8:82:5B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP 223DW",
+          "serial": "NQRA112783"
+        }
+      ],
+      "createdAt": "2026-06-26T02:10:28",
+      "updatedAt": "2026-06-26T02:10:28"
     }
   ]
 }
