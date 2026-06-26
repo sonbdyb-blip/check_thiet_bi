@@ -1310,6 +1310,43 @@
       "attachments": [],
       "createdAt": "2026-06-26T01:35:04",
       "updatedAt": "2026-06-26T01:35:04"
+    },
+    {
+      "id": "b21db9f6d64c4f65929f3d8a1415261b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "MÙ CANG CHẢI",
+        "Mã Bưu cục": "326100",
+        "Tên Bưu cục": "MÙ CANG CHẢI",
+        "Họ và tên người sử dụng": "ĐẶNG THỊ THU HIỀN",
+        "Mã HRM": "00265134",
+        "Bộ phận / Phòng ban": "GIAO DỊCH VIÊN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "CAS-MCC",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "579 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "60:45:CB:83:72:35"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": "041C1720012"
+        }
+      ],
+      "createdAt": "2026-06-26T01:45:47",
+      "updatedAt": "2026-06-26T01:45:47"
     }
   ]
 }
