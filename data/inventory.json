@@ -2822,35 +2822,35 @@
       "updatedAt": "2026-06-26T03:48:52"
     },
     {
-      "id": "4c4b1f3263364b55b65ca46f05e1a07b",
-      "category": "4A. Máy In Laser",
+      "id": "170260ef41364a90a26a2e8d1658149f",
+      "category": "3. Máy Tính",
       "fields": {
-        "Mã Tỉnh": "",
-        "Tên Tỉnh": "",
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "323350",
-        "Tên Bưu cục": "BCVH Trấn Yên",
-        "Họ và tên người sử dụng": "Trần Thị Anh Đào",
-        "Mã HRM": "00066090",
-        "Bộ phận / Phòng ban": "BC KT, BCP Trấn Yên",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
-        "Tên tài sản\n(Theo danh mục CCDC)": "Máy in A4",
-        "Khổ giấy": "A4",
-        "Hãng": "Canon2900",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
         "Model": "",
         "Năm sản xuất": "",
         "Serial Number": "",
-        "Kết nối": "",
-        "Nước sản xuất": "",
-        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
-        "Năm sử dụng": "2021",
-        "Thời gian bảo hành (Còn/Hết)": ""
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
       "attachments": [],
-      "createdAt": "2026-06-26T03:48:58",
-      "updatedAt": "2026-06-26T03:48:58"
+      "createdAt": "2026-06-26T03:49:00",
+      "updatedAt": "2026-06-26T03:49:00"
     }
   ]
 }
