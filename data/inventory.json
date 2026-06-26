@@ -1279,6 +1279,37 @@
       ],
       "createdAt": "2026-06-26T01:02:35",
       "updatedAt": "2026-06-26T01:02:35"
+    },
+    {
+      "id": "0109d5a3b68e465bb288a1c0a63a0a38",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Phòng Tài chính - Kế hoạch",
+        "Họ và tên người sử dụng": "Cao Thị Huyền Trang",
+        "Mã HRM": "00227630",
+        "Bộ phận / Phòng ban": "Phòng Tài chính - Kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-KETOAN-CAOTR",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7D48",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "15,8 GB",
+        "Ổ cứng": "268 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "",
+        "IP Address": "10.26.32.38",
+        "MAC Address": "34:5A:60:69:58:EC"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T01:35:04",
+      "updatedAt": "2026-06-26T01:35:04"
     }
   ]
 }
