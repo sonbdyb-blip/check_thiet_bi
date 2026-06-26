@@ -4636,6 +4636,43 @@
       "attachments": [],
       "createdAt": "2026-06-26T10:00:17",
       "updatedAt": "2026-06-26T10:00:17"
+    },
+    {
+      "id": "6e8adf65bfab494a8848e57b0c979d3b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3257",
+        "Tên Bưu cục": "BĐX Lục Yên",
+        "Họ và tên người sử dụng": "Phạm Huyền Trang",
+        "Mã HRM": "00231708",
+        "Bộ phận / Phòng ban": "GDX Mường Lai",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-4972VAO",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "BCQN8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.30",
+        "MAC Address": "B8:85:84:B1:4A:44"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon2900",
+          "serial": "NPFA400063"
+        }
+      ],
+      "createdAt": "2026-06-26T10:08:17",
+      "updatedAt": "2026-06-26T10:08:17"
     }
   ]
 }
