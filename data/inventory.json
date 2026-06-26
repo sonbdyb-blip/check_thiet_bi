@@ -2986,6 +2986,39 @@
       "attachments": [],
       "createdAt": "2026-06-26T03:50:21",
       "updatedAt": "2026-06-26T03:50:21"
+    },
+    {
+      "id": "a7f7f8d4e227427382ddf3d5bfa0c8a0",
+      "category": "8. Thiết Bị Khác",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "323350",
+        "Tên Bưu cục": "BCVH Trấn Yên",
+        "Họ và tên người sử dụng": "Trần Thị Anh Đào",
+        "Mã HRM": "00066090",
+        "Bộ phận / Phòng ban": "BC KT, BCP Trấn Yên",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Máy điện thoại IP Phone",
+        "Loại thiết bị": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "Vị trí sử dụng": "",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": "",
+        "Tình trạng": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T03:51:00",
+      "updatedAt": "2026-06-26T03:51:00"
     }
   ]
 }
