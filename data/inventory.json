@@ -2731,6 +2731,53 @@
       "attachments": [],
       "createdAt": "2026-06-26T03:46:32",
       "updatedAt": "2026-06-26T03:46:32"
+    },
+    {
+      "id": "260e64c2d7394a328ca1feb1d6e31ed9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3260",
+        "Tên Xã": "BĐ xã Trấn Yên",
+        "Mã Bưu cục": "323350",
+        "Tên Bưu cục": "BCVH Trấn Yên",
+        "Họ và tên người sử dụng": "Trần Thị Anh Đào",
+        "Mã HRM": "00066090",
+        "Bộ phận / Phòng ban": "BC KT, BCP Trấn Yên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KTTRANYEN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "7GW8H32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.151",
+        "MAC Address": "F8:BC:12:A6:1B:ED"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Đầu đọc không dây symbol",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T03:47:38",
+      "updatedAt": "2026-06-26T03:47:38"
     }
   ]
 }
