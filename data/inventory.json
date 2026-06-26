@@ -4071,6 +4071,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T07:39:29",
       "updatedAt": "2026-06-26T07:39:29"
+    },
+    {
+      "id": "e354237c6e4f47cc86021e89ca5461b7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3222",
+        "Tên Xã": "Mậu A",
+        "Mã Bưu cục": "324100",
+        "Tên Bưu cục": "VP Mậu A",
+        "Họ và tên người sử dụng": "Nguyễn Mạnh Linh",
+        "Mã HRM": "00066261",
+        "Bộ phận / Phòng ban": "GĐX Đông Cuông- BH Chuyên Trách",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-VY-LINHKD",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "584 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.47",
+        "MAC Address": "34:97:F6:37:E9:CB"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T07:40:12",
+      "updatedAt": "2026-06-26T07:40:12"
     }
   ]
 }
