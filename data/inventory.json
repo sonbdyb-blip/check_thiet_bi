@@ -2104,6 +2104,43 @@
       "attachments": [],
       "createdAt": "2026-06-26T02:41:43",
       "updatedAt": "2026-06-26T02:41:43"
+    },
+    {
+      "id": "242a870842de4797930744b521b1e8e7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "33",
+        "Tên Xã": "Trung Tâm VH",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Trung Tâm VH",
+        "Họ và tên người sử dụng": "Nguyễn Thị Như Quỳnh",
+        "Mã HRM": "00066057",
+        "Bộ phận / Phòng ban": "Trung Tâm VH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "MAYIN2010",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132CD",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.26.32.13",
+        "MAC Address": "38:22:E2:18:92:74"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M201DW",
+          "serial": "VNC3307498"
+        }
+      ],
+      "createdAt": "2026-06-26T02:41:55",
+      "updatedAt": "2026-06-26T02:41:55"
     }
   ]
 }
