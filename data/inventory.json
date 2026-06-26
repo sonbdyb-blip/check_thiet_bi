@@ -4563,6 +4563,48 @@
       ],
       "createdAt": "2026-06-26T09:54:34",
       "updatedAt": "2026-06-26T09:54:34"
+    },
+    {
+      "id": "a16fc47918b3404cbf1862bca8a02bda",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "330100",
+        "Tên Bưu cục": "Khai thác Lào Cai 2",
+        "Họ và tên người sử dụng": "Nguyễn Đức Anh",
+        "Mã HRM": "00043759",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-KTVC-KT06",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B14LH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn - vi-vn",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.106.111",
+        "MAC Address": "64:00:6A:01:E3:D3"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Intermec PC43d",
+          "serial": "0"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Winson WNI-6213B/V",
+          "serial": "0"
+        }
+      ],
+      "createdAt": "2026-06-26T09:54:47",
+      "updatedAt": "2026-06-26T09:54:47"
     }
   ]
 }
