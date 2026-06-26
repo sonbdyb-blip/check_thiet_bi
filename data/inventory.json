@@ -2388,6 +2388,37 @@
       ],
       "createdAt": "2026-06-26T03:13:58",
       "updatedAt": "2026-06-26T03:13:58"
+    },
+    {
+      "id": "27f7a3c0fc73483e81138b0f4f96b50e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Trung tâm Kinh doanh",
+        "Họ và tên người sử dụng": "Vũ Thị Mai Phương",
+        "Mã HRM": "00107849",
+        "Bộ phận / Phòng ban": "Trung tâm Kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "Vũ Thị Mai Phương",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H610M H V3 DDR4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "15.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.26.32.68",
+        "MAC Address": "30:56:0F:23:1E:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T03:12:48",
+      "updatedAt": "2026-06-26T03:12:48"
     }
   ]
 }
