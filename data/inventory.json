@@ -3763,6 +3763,53 @@
       "attachments": [],
       "createdAt": "2026-06-26T05:06:06",
       "updatedAt": "2026-06-26T05:06:06"
+    },
+    {
+      "id": "cfe0c44be96e49a1adb921f013993385",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu điện xã Xuân Quang",
+        "Mã Bưu cục": "334520",
+        "Tên Bưu cục": "Bưu điện VHX Phong Niên",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hằng",
+        "Mã HRM": "00251204",
+        "Bộ phận / Phòng ban": "Bưu điện cụm Bảo Thắng - Văn Bàn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-BT-PNIEN",
+        "Loại máy": "Để Bàn",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "50:AF:73:38:1E:35"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Laser Jet Pro M201dw loại máy hp",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Zebra ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra ds22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T06:41:02",
+      "updatedAt": "2026-06-26T06:41:02"
     }
   ]
 }
