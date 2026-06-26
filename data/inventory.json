@@ -1378,6 +1378,43 @@
       "attachments": [],
       "createdAt": "2026-06-26T01:48:27",
       "updatedAt": "2026-06-26T01:48:27"
+    },
+    {
+      "id": "da37d410e96d422daed5c4df4c8ff3a3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Trung Tâm Vận Hành",
+        "Họ và tên người sử dụng": "Nguyễn Duy Anh",
+        "Mã HRM": "00262991",
+        "Bộ phận / Phòng ban": "Trung Tâm Vận Hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DUYANH-TTVH-LCI",
+        "Loại máy": "Laptop",
+        "Hãng": "LENOVO",
+        "Model": "83GS",
+        "Năm sản xuất": "",
+        "Serial Number": "MP2RJ228",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12450HX",
+        "RAM": "27.7 GB",
+        "Ổ cứng": "490 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.110.81",
+        "MAC Address": "70:08:94:D5:A2:77"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "Canon MF240 Series",
+          "serial": "WQN93285"
+        }
+      ],
+      "createdAt": "2026-06-26T01:51:40",
+      "updatedAt": "2026-06-26T01:51:40"
     }
   ]
 }
