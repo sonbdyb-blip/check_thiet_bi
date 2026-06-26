@@ -2820,6 +2820,37 @@
       ],
       "createdAt": "2026-06-26T03:48:52",
       "updatedAt": "2026-06-26T03:48:52"
+    },
+    {
+      "id": "4c4b1f3263364b55b65ca46f05e1a07b",
+      "category": "4A. Máy In Laser",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "323350",
+        "Tên Bưu cục": "BCVH Trấn Yên",
+        "Họ và tên người sử dụng": "Trần Thị Anh Đào",
+        "Mã HRM": "00066090",
+        "Bộ phận / Phòng ban": "BC KT, BCP Trấn Yên",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Máy in A4",
+        "Khổ giấy": "A4",
+        "Hãng": "Canon2900",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "Kết nối": "",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "2021",
+        "Thời gian bảo hành (Còn/Hết)": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T03:48:58",
+      "updatedAt": "2026-06-26T03:48:58"
     }
   ]
 }
