@@ -4673,6 +4673,48 @@
       ],
       "createdAt": "2026-06-26T10:08:17",
       "updatedAt": "2026-06-26T10:08:17"
+    },
+    {
+      "id": "c89911fa029848e1ab4e2b9ff240fb22",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu điện xã Tằng Loỏng",
+        "Mã Bưu cục": "334130",
+        "Tên Bưu cục": "Bưu cục Tằng Loỏng",
+        "Họ và tên người sử dụng": "Đặng Thị Nhàn",
+        "Mã HRM": "00043147",
+        "Bộ phận / Phòng ban": "Bưu điện cụm Bảo Thắng - Văn Bàn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-BT-TLG-BCP",
+        "Loại máy": "Để bàn",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B1GJH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn - vi-vn",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.113.16",
+        "MAC Address": "64:00:6A:01:E3:AD"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBp 2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T10:12:08",
+      "updatedAt": "2026-06-26T10:12:08"
     }
   ]
 }
