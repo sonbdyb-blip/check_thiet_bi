@@ -3936,6 +3936,48 @@
       ],
       "createdAt": "2026-06-26T07:08:19",
       "updatedAt": "2026-06-26T07:08:19"
+    },
+    {
+      "id": "4ef606339eed46fe9d5df3b1bf14380a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3213",
+        "Tên Xã": "Bưu điện xã Thượng Bằng La",
+        "Mã Bưu cục": "324980",
+        "Tên Bưu cục": "VHX Trần Phú",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hòa",
+        "Mã HRM": "00066302",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YenBai_VHXTranPhu",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Prodesk 600",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Core i3-4150",
+        "RAM": "2GB",
+        "Ổ cứng": "HDD 500GB",
+        "Hệ điều hành": "Windows 7",
+        "Office": "Microsoft Office 2007",
+        "Antivirus": "",
+        "IP Address": "10.200.21.162",
+        "MAC Address": "40-A8-F0-61-3B-84"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Máy in nhiệt Xprinter 58",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "tên đầu đọc là gì điền vào đây",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T07:19:25",
+      "updatedAt": "2026-06-26T07:19:25"
     }
   ]
 }
