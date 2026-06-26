@@ -2544,6 +2544,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T03:23:53",
       "updatedAt": "2026-06-26T03:23:53"
+    },
+    {
+      "id": "7db1d92aca464973925cee6244eb94c1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Phòng Tổ chức - Hành chính",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thùy Trang",
+        "Mã HRM": "00106251",
+        "Bộ phận / Phòng ban": "Phòng Tổ chức - Hành chính",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-MJ0G7NU",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Inspiron 15 3530",
+        "Năm sản xuất": "",
+        "Serial Number": "68ZZ874",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-1305U",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "921 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional 2016 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.19.200.105",
+        "MAC Address": "C8:A3:E8:53:48:2F"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T03:26:56",
+      "updatedAt": "2026-06-26T03:26:56"
     }
   ]
 }
