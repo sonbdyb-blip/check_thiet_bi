@@ -2178,6 +2178,43 @@
       ],
       "createdAt": "2026-06-26T02:46:01",
       "updatedAt": "2026-06-26T02:46:01"
+    },
+    {
+      "id": "75998087c59b43cf80a5827afceed072",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "321090",
+        "Tên Xã": "Bưu Cục Phát Yên Bái",
+        "Mã Bưu cục": "321090",
+        "Tên Bưu cục": "Bưu Cục Phát Yên Bái",
+        "Họ và tên người sử dụng": "Lê Thành Đức",
+        "Mã HRM": "00081693",
+        "Bộ phận / Phòng ban": "Bưu cục vận hành Yên Bái",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-KTT-MATDT",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M K",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.35.61",
+        "MAC Address": "74:56:3C:25:A8:D2"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "MC-3003HRB",
+          "serial": "S/N:MC364601003877"
+        }
+      ],
+      "createdAt": "2026-06-26T02:47:30",
+      "updatedAt": "2026-06-26T02:47:30"
     }
   ]
 }
