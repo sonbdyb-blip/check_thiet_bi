@@ -3638,6 +3638,53 @@
       ],
       "createdAt": "2026-06-26T04:43:19",
       "updatedAt": "2026-06-26T04:43:19"
+    },
+    {
+      "id": "5bb095cdfde64cbeaf741880c6a73019",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "330900",
+        "Tên Bưu cục": "Hệ 1 Lào Cai",
+        "Họ và tên người sử dụng": "Bùi Thị Thủy",
+        "Mã HRM": "00043758",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-KTVC-KT03",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B2CJH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn - vi-vn",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.106.107",
+        "MAC Address": "64:00:6A:01:E5:4B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M201dw",
+          "serial": "0"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Intermec PC43d",
+          "serial": "0"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra DS22",
+          "serial": "0"
+        }
+      ],
+      "createdAt": "2026-06-24T17:36:25",
+      "updatedAt": "2026-06-24T17:36:25"
     }
   ]
 }
