@@ -4259,6 +4259,43 @@
       ],
       "createdAt": "2026-06-26T08:48:11",
       "updatedAt": "2026-06-26T08:48:11"
+    },
+    {
+      "id": "ce62f8fdeab349d9997c995fe8ffc138",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "330100",
+        "Tên Bưu cục": "Khai thác Lào Cai 2",
+        "Họ và tên người sử dụng": "Nguyễn Đức Anh",
+        "Mã HRM": "00043759",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-KTVC-KT01",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3XV41H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "457 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Home and Student 2016 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.106.185",
+        "MAC Address": "48:4D:7E:DE:7E:F5"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "Winson WNI-6213B/V",
+          "serial": "0"
+        }
+      ],
+      "createdAt": "2026-06-26T08:55:40",
+      "updatedAt": "2026-06-26T08:55:40"
     }
   ]
 }
