@@ -1817,6 +1817,37 @@
       "attachments": [],
       "createdAt": "2026-06-26T02:12:38",
       "updatedAt": "2026-06-26T02:12:38"
+    },
+    {
+      "id": "bb817a012db245bc9e2c51e75826c0cb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "TRUNG TÂM KINH DOANH",
+        "Họ và tên người sử dụng": "NGÔ THỊ THANH XUÂN",
+        "Mã HRM": "00065919",
+        "Bộ phận / Phòng ban": "TRUNG TÂM KINH DOANH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHKD-XUAN",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop PC 570-p0xx",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV81709R0",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "1051 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.32.71",
+        "MAC Address": "80:CE:62:EF:A0:20"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T02:14:29",
+      "updatedAt": "2026-06-26T02:14:29"
     }
   ]
 }
