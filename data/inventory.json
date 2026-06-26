@@ -1494,6 +1494,53 @@
       ],
       "createdAt": "2026-06-26T01:53:56",
       "updatedAt": "2026-06-26T01:53:56"
+    },
+    {
+      "id": "7698939cae594f01aede04b4ee3ba388",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Mù cang Chải",
+        "Mã Bưu cục": "326170",
+        "Tên Bưu cục": "BCP Mù Cang Chải",
+        "Họ và tên người sử dụng": "Giàng thị Dung",
+        "Mã HRM": "00264561",
+        "Bộ phận / Phòng ban": "TRưởng bưu cục",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "MCC-KSV",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H110M-DS2V",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "586 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.13",
+        "MAC Address": "E0:D5:5E:15:D2:CE"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XP-5811H",
+          "serial": "5811IIHBUB010182"
+        },
+        {
+          "type": "photocopier",
+          "name": "canon",
+          "serial": "RU5-8247"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": "Z0EGPB"
+        }
+      ],
+      "createdAt": "2026-06-26T01:56:05",
+      "updatedAt": "2026-06-26T01:56:05"
     }
   ]
 }
