@@ -3021,51 +3021,35 @@
       "updatedAt": "2026-06-26T03:51:00"
     },
     {
-      "id": "404008ac132543e68bb0c127a9c489fc",
+      "id": "c0a539d055d34bc0b5125bc6f035b224",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "324810",
-        "Tên Bưu cục": "BC Thái Lão",
-        "Họ và tên người sử dụng": "Nguyễn Thị Quỳnh Nga",
-        "Mã HRM": "00066282",
-        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "THAILAO",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "OptiPlex 3070",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "3F6N643",
-        "CPU": "Intel(R) Core(TM) i5-9500T CPU @ 2.20GHz",
-        "RAM": "3.8 GB",
-        "Ổ cứng": "586 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
-        "Office": "Microsoft Office Office 64-bit Components 2010",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
-        "IP Address": "192.168.1.4",
-        "MAC Address": "A4:BB:6D:B3:5E:BB"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "Canon2900",
-          "serial": "L11121E"
-        },
-        {
-          "type": "thermal_printer",
-          "name": "Xprinter - XP58IIW",
-          "serial": "58W02106990"
-        },
-        {
-          "type": "barcode_reader",
-          "name": "1450G",
-          "serial": "16257B4557"
-        }
-      ],
-      "createdAt": "2026-06-26T03:53:54",
-      "updatedAt": "2026-06-26T03:53:54"
+      "attachments": [],
+      "createdAt": "2026-06-26T03:53:56",
+      "updatedAt": "2026-06-26T03:53:56"
     }
   ]
 }
