@@ -1656,6 +1656,37 @@
       ],
       "createdAt": "2026-06-26T02:08:38",
       "updatedAt": "2026-06-26T02:08:38"
+    },
+    {
+      "id": "c104d4ee9a2f4745a7abe57110b0ad1f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "324760",
+        "Tên Bưu cục": "BCVH văn chấn",
+        "Họ và tên người sử dụng": "hà anh tuấn",
+        "Mã HRM": "00258602",
+        "Bộ phận / Phòng ban": "nvxl nv - bcvh văn chấn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-VANCHAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "CPV8H32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.7",
+        "MAC Address": "F8:BC:12:A6:14:DA"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T02:07:10",
+      "updatedAt": "2026-06-26T02:07:10"
     }
   ]
 }
