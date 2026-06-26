@@ -1200,6 +1200,43 @@
       "attachments": [],
       "createdAt": "2026-06-25T10:02:41",
       "updatedAt": "2026-06-25T10:02:41"
+    },
+    {
+      "id": "87b05bb4bbcb47ffa3045230119ef2e0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Phòng Tài chính - Kế hoạch",
+        "Họ và tên người sử dụng": "Nguyễn Thị Tuyết Mai",
+        "Mã HRM": "00065920",
+        "Bộ phận / Phòng ban": "00065920",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KT-MAI",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H610M H V2 DDR4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400F",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "476 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro N 10.0.26200",
+        "Office": "Microsoft Office Professional 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.32.44",
+        "MAC Address": "74:56:3C:54:AD:70"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP 226dw",
+          "serial": "NPZA080543"
+        }
+      ],
+      "createdAt": "2026-06-26T01:01:10",
+      "updatedAt": "2026-06-26T01:01:10"
     }
   ]
 }
