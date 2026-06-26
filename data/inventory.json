@@ -2215,6 +2215,48 @@
       ],
       "createdAt": "2026-06-26T02:47:30",
       "updatedAt": "2026-06-26T02:47:30"
+    },
+    {
+      "id": "9f3bd786851c43ef990d53c9c6b45369",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "321090",
+        "Tên Xã": "BCP YÊN BÁI",
+        "Mã Bưu cục": "321090",
+        "Tên Bưu cục": "BCP Yên Bái",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thanh Hoa",
+        "Mã HRM": "00066476",
+        "Bộ phận / Phòng ban": "TT BC VAN HANH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-KTT-HOABCP",
+        "Loại máy": "Desktop",
+        "Hãng": "To Be Filled By O.E.M.",
+        "Model": "To Be Filled By O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To Be Filled By O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.26.35.62",
+        "MAC Address": "70:85:C2:2E:B8:A7"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "hp laser jet pro M201 dw",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "mờ ko thấy",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T02:55:16",
+      "updatedAt": "2026-06-26T02:55:16"
     }
   ]
 }
