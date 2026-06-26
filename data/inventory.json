@@ -1237,6 +1237,48 @@
       ],
       "createdAt": "2026-06-26T01:01:10",
       "updatedAt": "2026-06-26T01:01:10"
+    },
+    {
+      "id": "a9f4e315e97641f88943ad96933ee67a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "331900",
+        "Tên Xã": "Xã Mường Khương",
+        "Mã Bưu cục": "332040",
+        "Tên Bưu cục": "Bưu cục phát Mường Khương",
+        "Họ và tên người sử dụng": "Nguyễn Văn Hùng",
+        "Mã HRM": "00043251",
+        "Bộ phận / Phòng ban": "Trung tâm Vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "Optiplex 3040",
+        "Loại máy": "Cây",
+        "Hãng": "Intel",
+        "Model": "D10U",
+        "Năm sản xuất": "2015",
+        "Serial Number": "",
+        "CPU": "Intel(R)core(TM) i3-6100 CPU@3.20GHz",
+        "RAM": "4GB",
+        "Ổ cứng": "223GB",
+        "Hệ điều hành": "Windows 10 Pro",
+        "Office": "Xuất hiện nhiều viền đen trên mang hình máy tính",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "HP Jet Pro M201 Dw",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA ds22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T01:02:35",
+      "updatedAt": "2026-06-26T01:02:35"
     }
   ]
 }
