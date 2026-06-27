@@ -4794,6 +4794,48 @@
       ],
       "createdAt": "2026-06-27T01:55:59",
       "updatedAt": "2026-06-27T01:55:59"
+    },
+    {
+      "id": "4ba2914bc9874a47ae9994f17f120bce",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "325600",
+        "Tên Bưu cục": "BƯU CỤC GIAO DỊCH BƯU ĐIỆN P TRUNG TÂM",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ THÚY",
+        "Mã HRM": "00066366",
+        "Bộ phận / Phòng ban": "TỔ GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "NGHIALO-GIAODIC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3070",
+        "Năm sản xuất": "",
+        "Serial Number": "3F1Q643",
+        "CPU": "Intel(R) Core(TM) i5-9500T CPU @ 2.20GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "591 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.49",
+        "MAC Address": "A4:BB:6D:B3:F1:63"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-27T02:18:03",
+      "updatedAt": "2026-06-27T02:18:03"
     }
   ]
 }
