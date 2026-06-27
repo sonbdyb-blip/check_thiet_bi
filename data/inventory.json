@@ -5555,6 +5555,43 @@
       ],
       "createdAt": "2026-06-27T04:22:25",
       "updatedAt": "2026-06-27T04:22:25"
+    },
+    {
+      "id": "c3be3e580d4a42dbbff2914b93441c54",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3308",
+        "Tên Bưu cục": "BĐ phường Lào Cai",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thanh Xuân",
+        "Mã HRM": "00043381",
+        "Bộ phận / Phòng ban": "BĐ phường Lào Cai",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-FGCR7P7",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Inspiron 3543",
+        "Năm sản xuất": "",
+        "Serial Number": "3CPCD32",
+        "CPU": "Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "1049 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.20.111",
+        "MAC Address": "AC:D1:B8:CE:D7:B9"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-27T04:51:44",
+      "updatedAt": "2026-06-27T04:51:44"
     }
   ]
 }
