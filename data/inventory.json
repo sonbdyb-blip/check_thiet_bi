@@ -5075,6 +5075,37 @@
       "attachments": [],
       "createdAt": "2026-06-27T02:43:11",
       "updatedAt": "2026-06-27T02:43:11"
+    },
+    {
+      "id": "719f309386f643a2b23010d4ab09b4ee",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "TTVH",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thao",
+        "Mã HRM": "00043387",
+        "Bộ phận / Phòng ban": "TTVH Lào Cai",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-KTNV-HATB",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3671",
+        "Năm sản xuất": "",
+        "Serial Number": "2583R13",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.102.166",
+        "MAC Address": "40:23:43:6B:AF:CB"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-27T02:45:06",
+      "updatedAt": "2026-06-27T02:45:06"
     }
   ]
 }
