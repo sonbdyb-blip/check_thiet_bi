@@ -5137,6 +5137,43 @@
       "attachments": [],
       "createdAt": "2026-06-27T03:01:01",
       "updatedAt": "2026-06-27T03:01:01"
+    },
+    {
+      "id": "d61369ea8bc54601ba5060387d82e592",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3308",
+        "Tên Bưu cục": "BĐ phường Lào Cai",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thanh Hoa",
+        "Mã HRM": "00089559",
+        "Bộ phận / Phòng ban": "BĐ phường Lào Cai",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-KTNV-HOANTT",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Latitude 3460",
+        "Năm sản xuất": "",
+        "Serial Number": "9L0T3C2",
+        "CPU": "Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.20.109",
+        "MAC Address": "58:FB:84:03:C8:0C"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 3300",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-27T03:20:10",
+      "updatedAt": "2026-06-27T03:20:10"
     }
   ]
 }
