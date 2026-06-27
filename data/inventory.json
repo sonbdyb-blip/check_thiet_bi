@@ -4929,6 +4929,37 @@
       "attachments": [],
       "createdAt": "2026-06-27T02:31:12",
       "updatedAt": "2026-06-27T02:31:12"
+    },
+    {
+      "id": "01d82bf939f04ab288b4c5035b288913",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Bưu điện tỉnh Lào Cai",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thúy Vân",
+        "Mã HRM": "00043073",
+        "Bộ phận / Phòng ban": "Phòng Tài chính Kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-TCKT-VANNTT",
+        "Loại máy": "Laptop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion x360 2-in-1 Laptop 14-ek0xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "8CG23885J1",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-1215U",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "488 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.200.222",
+        "MAC Address": "14:D4:24:34:2D:19"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-27T02:33:28",
+      "updatedAt": "2026-06-27T02:33:28"
     }
   ]
 }
