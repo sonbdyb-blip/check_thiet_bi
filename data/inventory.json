@@ -4836,6 +4836,37 @@
       ],
       "createdAt": "2026-06-27T02:18:03",
       "updatedAt": "2026-06-27T02:18:03"
+    },
+    {
+      "id": "8ecd793ab4f0479c95ba51a1c06b49cf",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Trung tâm Kinh doanh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hương Quỳnh",
+        "Mã HRM": "00074618",
+        "Bộ phận / Phòng ban": "Trung tâm Kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HUONGQUYNH",
+        "Loại máy": "Laptop",
+        "Hãng": "HP",
+        "Model": "HP Laptop 15s-fq2xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "5CD2449BX3",
+        "CPU": "11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.110.24",
+        "MAC Address": "10:B1:DF:CC:60:7F"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-27T02:28:28",
+      "updatedAt": "2026-06-27T02:28:28"
     }
   ]
 }
