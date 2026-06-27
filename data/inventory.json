@@ -5285,6 +5285,43 @@
       ],
       "createdAt": "2026-06-27T03:22:46",
       "updatedAt": "2026-06-27T03:22:46"
+    },
+    {
+      "id": "c434354c52bf4cf8a7f3d75c1c859805",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3237",
+        "Tên Xã": "Bưu điện Phường Yên Bái",
+        "Mã Bưu cục": "3237",
+        "Tên Bưu cục": "Bưu điện Phường Yên Bái",
+        "Họ và tên người sử dụng": "Lê Thị Thu Hà",
+        "Mã HRM": "00249029",
+        "Bộ phận / Phòng ban": "phòng TCKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HA-THUQUY",
+        "Loại máy": "Desktop",
+        "Hãng": "Intel",
+        "Model": "H610M4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "476 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.26.32.154",
+        "MAC Address": "00:E0:1B:32:91:53"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon LPP2009(11121E)",
+          "serial": "050972-11"
+        }
+      ],
+      "createdAt": "2026-06-27T03:25:27",
+      "updatedAt": "2026-06-27T03:25:27"
     }
   ]
 }
