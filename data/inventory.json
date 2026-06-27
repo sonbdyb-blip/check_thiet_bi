@@ -5475,6 +5475,39 @@
       ],
       "createdAt": "2026-06-27T04:10:40",
       "updatedAt": "2026-06-27T04:10:40"
+    },
+    {
+      "id": "43d3a66f8d87433fb1f4cae142322386",
+      "category": "8. Thiết Bị Khác",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Phòng TCKH",
+        "Họ và tên người sử dụng": "Vũ Thị Thanh Tú",
+        "Mã HRM": "00043416",
+        "Bộ phận / Phòng ban": "Phòng TCKH",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Máy đếm tiền",
+        "Loại thiết bị": "",
+        "Hãng": "Balion",
+        "Model": "DV 6868",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "Vị trí sử dụng": "",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": "",
+        "Tình trạng": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-27T04:11:52",
+      "updatedAt": "2026-06-27T04:11:52"
     }
   ]
 }
