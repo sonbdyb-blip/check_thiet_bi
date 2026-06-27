@@ -5639,6 +5639,43 @@
       ],
       "createdAt": "2026-06-27T06:51:39",
       "updatedAt": "2026-06-27T06:51:39"
+    },
+    {
+      "id": "80fa6e1a034c4a0983521ddf19db6bca",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "334420",
+        "Tên Bưu cục": "Bưu cục Gia Phú",
+        "Họ và tên người sử dụng": "Trần Xuân Lâm",
+        "Mã HRM": "00043353",
+        "Bộ phận / Phòng ban": "Bưu điện cụm Bảo Thắng - Văn Bàn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "WINDOWS-10",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3405",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "AMD Ryzen 7 3700U with Radeon Vega Mobile Gfx",
+        "RAM": "5.9 GB",
+        "Ổ cứng": "475 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional 2016 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.101",
+        "MAC Address": "18:47:3D:BB:97:93"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Máy in Canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-27T09:35:13",
+      "updatedAt": "2026-06-27T09:35:13"
     }
   ]
 }
