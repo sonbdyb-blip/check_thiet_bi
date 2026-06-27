@@ -5438,6 +5438,43 @@
       ],
       "createdAt": "2026-06-27T03:48:42",
       "updatedAt": "2026-06-27T03:48:42"
+    },
+    {
+      "id": "d68ad79cf1574a5eb8fd89ec47949c34",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Phòng TCKH",
+        "Họ và tên người sử dụng": "Vũ Thị Thanh Tú",
+        "Mã HRM": "00043416",
+        "Bộ phận / Phòng ban": "Phòng TCKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-TCKH-TU",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "G1XBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.20.102",
+        "MAC Address": "F8:BC:12:A2:54:42"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-27T04:10:40",
+      "updatedAt": "2026-06-27T04:10:40"
     }
   ]
 }
