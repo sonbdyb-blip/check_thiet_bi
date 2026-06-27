@@ -5396,6 +5396,48 @@
       ],
       "createdAt": "2026-06-27T03:31:38",
       "updatedAt": "2026-06-27T03:31:38"
+    },
+    {
+      "id": "53af51a1f0a147bc8c7d84d0077a778c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "333680",
+        "Tên Bưu cục": "Bưu cục Pom Hán",
+        "Họ và tên người sử dụng": "Bùi Thị Hồng Huệ",
+        "Mã HRM": "00043406",
+        "Bộ phận / Phòng ban": "Nhân viên kinh doanh tại điểm",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-TPO-PH-CAS",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821180123",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.203.129",
+        "MAC Address": "50:AF:73:38:1D:8B"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "canon 2900",
+          "serial": "IEC60950-1"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "honeywell",
+          "serial": "17074B3C9C"
+        }
+      ],
+      "createdAt": "2026-06-27T03:48:42",
+      "updatedAt": "2026-06-27T03:48:42"
     }
   ]
 }
