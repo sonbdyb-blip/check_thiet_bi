@@ -5723,6 +5723,58 @@
       ],
       "createdAt": "2026-06-27T09:39:59",
       "updatedAt": "2026-06-27T09:39:59"
+    },
+    {
+      "id": "f8781b5402ec4445acb1a1da9e3db382",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "334460",
+        "Tên Bưu cục": "bưu điện xã gia phú",
+        "Họ và tên người sử dụng": "trương thị xoa",
+        "Mã HRM": "000267176",
+        "Bộ phận / Phòng ban": "cụm bưu điện bảo thắng văn bàn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-BT-GIAPHU",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "BWJG8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "217 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "18:66:DA:29:0F:14"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "zibra",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "honeywell",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-27T10:00:15",
+      "updatedAt": "2026-06-27T10:00:15"
     }
   ]
 }
