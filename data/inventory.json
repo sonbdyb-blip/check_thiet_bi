@@ -4715,6 +4715,43 @@
       ],
       "createdAt": "2026-06-26T10:12:08",
       "updatedAt": "2026-06-26T10:12:08"
+    },
+    {
+      "id": "275fcbdea5404ed28cda267aa47cdf06",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "330100",
+        "Tên Bưu cục": "Khai thác Lào Cai 2",
+        "Họ và tên người sử dụng": "Lê Thị Hồng Thơm",
+        "Mã HRM": "00043769",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-KTVC-KT09",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9WGV8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "464 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19043",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.106.211",
+        "MAC Address": "B8:85:84:AF:12:64"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "ATS-RW10S",
+          "serial": "0"
+        }
+      ],
+      "createdAt": "2026-06-27T01:33:19",
+      "updatedAt": "2026-06-27T01:33:19"
     }
   ]
 }
