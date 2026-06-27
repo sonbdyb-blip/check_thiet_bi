@@ -5359,6 +5359,43 @@
       ],
       "createdAt": "2026-06-27T03:28:10",
       "updatedAt": "2026-06-27T03:28:10"
+    },
+    {
+      "id": "f0c20f97859e48afb92cb36e8f9dd766",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3308",
+        "Tên Bưu cục": "BĐ phường Lào Cai",
+        "Họ và tên người sử dụng": "Đặng Diệu Linh",
+        "Mã HRM": "00043391",
+        "Bộ phận / Phòng ban": "BĐ phường Lào Cai",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-LCBX-GIAMDO",
+        "Loại máy": "Laptop",
+        "Hãng": "HP",
+        "Model": "HP Laptop 15s-fq2xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "5CD3200HHW",
+        "CPU": "11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.231.17",
+        "MAC Address": "74:97:79:B2:32:75"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M127",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-27T03:31:38",
+      "updatedAt": "2026-06-27T03:31:38"
     }
   ]
 }
