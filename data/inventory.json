@@ -5592,6 +5592,53 @@
       ],
       "createdAt": "2026-06-27T04:51:44",
       "updatedAt": "2026-06-27T04:51:44"
+    },
+    {
+      "id": "d8414b79342f41d79e8c93ef33f9fdc3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu điện xã Bảo Thắng",
+        "Mã Bưu cục": "334100",
+        "Tên Bưu cục": "Bưu cục Bảo Thắng",
+        "Họ và tên người sử dụng": "Vũ Thị Nương",
+        "Mã HRM": "00043134",
+        "Bộ phận / Phòng ban": "Bưu điện cụm Bảo Thắng - Văn Bàn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "WINDOWS-10",
+        "Loại máy": "Máy  để bàn",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.19.111.202",
+        "MAC Address": "B8:85:84:B0:FF:D1"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Máy in Canon lbp 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZeBRa ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA ds22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-27T06:51:39",
+      "updatedAt": "2026-06-27T06:51:39"
     }
   ]
 }
