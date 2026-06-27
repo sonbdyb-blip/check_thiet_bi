@@ -5676,6 +5676,53 @@
       ],
       "createdAt": "2026-06-27T09:35:13",
       "updatedAt": "2026-06-27T09:35:13"
+    },
+    {
+      "id": "58a03076f02b445881228219e77c00b6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "336000",
+        "Tên Bưu cục": "Trần Hưng Đạo",
+        "Họ và tên người sử dụng": "Đới Thị Huế",
+        "Mã HRM": "00043403",
+        "Bộ phận / Phòng ban": "Nhân viên kinh doan tại điểm",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "WINDOWS-10",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3VZ31H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "282 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn - vi-vn",
+        "Antivirus": "",
+        "IP Address": "10.19.206.10",
+        "MAC Address": "48:4D:7E:DB:77:79"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "intermec PC43d",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra ds22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-27T09:39:59",
+      "updatedAt": "2026-06-27T09:39:59"
     }
   ]
 }
