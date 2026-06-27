@@ -4898,6 +4898,37 @@
       "attachments": [],
       "createdAt": "2026-06-27T02:29:48",
       "updatedAt": "2026-06-27T02:29:48"
+    },
+    {
+      "id": "20a5182e71d544ca8105b16aa658c8cd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Bưu điện tỉnh Lào Cai",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thúy Vân",
+        "Mã HRM": "00043073",
+        "Bộ phận / Phòng ban": "Phòng Tài chính Kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "15.7 GB",
+        "Ổ cứng": "253 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.19.200.170",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-27T02:31:12",
+      "updatedAt": "2026-06-27T02:31:12"
     }
   ]
 }
