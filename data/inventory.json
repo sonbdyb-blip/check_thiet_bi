@@ -5508,6 +5508,53 @@
       "attachments": [],
       "createdAt": "2026-06-27T04:11:52",
       "updatedAt": "2026-06-27T04:11:52"
+    },
+    {
+      "id": "cac9102366774eb39e3bf76400e1318e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "333570",
+        "Tên Bưu cục": "Kim Tân",
+        "Họ và tên người sử dụng": "Nguyễn Thị Khánh Linh",
+        "Mã HRM": "00043417",
+        "Bộ phận / Phòng ban": "BĐ phường Lào Cai",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-TPO-KIMTAN",
+        "Loại máy": "",
+        "Hãng": "HP",
+        "Model": "HP ProDesk G600 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Core 2 Duo E8400",
+        "RAM": "4 GB",
+        "Ổ cứng": "400 GB",
+        "Hệ điều hành": "Microsoft Windows 7 Ultimate 32-bit",
+        "Office": "Microsoft Office Enterprise 2007",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Zebra ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Honey",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-27T04:22:25",
+      "updatedAt": "2026-06-27T04:22:25"
     }
   ]
 }
