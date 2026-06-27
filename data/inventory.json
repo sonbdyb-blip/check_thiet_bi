@@ -5211,6 +5211,43 @@
       ],
       "createdAt": "2026-06-27T03:20:38",
       "updatedAt": "2026-06-27T03:20:38"
+    },
+    {
+      "id": "c8e2d443a8c7491d838385f78fe78650",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3237",
+        "Tên Xã": "Bưu điện phường Yên Bái",
+        "Mã Bưu cục": "3237",
+        "Tên Bưu cục": "Bưu điện phường Yên Bái",
+        "Họ và tên người sử dụng": "Trần Thùy Trang",
+        "Mã HRM": "00264446",
+        "Bộ phận / Phòng ban": "Phòng Tài chính - Kế Hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-THANHPHO-TRA",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop PC 570-p0xx",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV8080DC8",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "11.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.26.32.153",
+        "MAC Address": "80:CE:62:ED:18:8B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LPB233dw (F176500)",
+          "serial": "NYHA215897"
+        }
+      ],
+      "createdAt": "2026-06-27T03:21:48",
+      "updatedAt": "2026-06-27T03:21:48"
     }
   ]
 }
