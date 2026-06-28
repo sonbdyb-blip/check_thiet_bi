@@ -5806,6 +5806,37 @@
       "attachments": [],
       "createdAt": "2026-06-28T01:47:09",
       "updatedAt": "2026-06-28T01:47:09"
+    },
+    {
+      "id": "46ce77a3dec244b284542f09fb1305c1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "33",
+        "Tên Xã": "xã Hợp thành",
+        "Mã Bưu cục": "333950",
+        "Tên Bưu cục": "VHX Tả Phời",
+        "Họ và tên người sử dụng": "Sầm Thị Thoan",
+        "Mã HRM": "00043426",
+        "Bộ phận / Phòng ban": "Nhân viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HP M201 dw",
+        "Loại máy": "",
+        "Hãng": "china",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-28T08:19:20",
+      "updatedAt": "2026-06-28T08:19:20"
     }
   ]
 }
