@@ -5837,6 +5837,37 @@
       "attachments": [],
       "createdAt": "2026-06-28T08:19:20",
       "updatedAt": "2026-06-28T08:19:20"
+    },
+    {
+      "id": "10d9e73d35dc4629b59d2dcb3dc0edcb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "TTVH Lào Cai",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thao",
+        "Mã HRM": "00043387",
+        "Bộ phận / Phòng ban": "TTVH Lào Cai",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "WINDOWS-10",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Latitude 3540",
+        "Năm sản xuất": "",
+        "Serial Number": "9KTFSZ1",
+        "CPU": "Intel(R) Core(TM) i3-4010U CPU @ 1.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn - vi-vn",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.20.103",
+        "MAC Address": "30:68:93:7B:27:82"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-28T16:10:46",
+      "updatedAt": "2026-06-28T16:10:46"
     }
   ]
 }
