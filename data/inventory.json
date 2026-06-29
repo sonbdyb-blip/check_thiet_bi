@@ -8573,6 +8573,53 @@
       "attachments": [],
       "createdAt": "2026-06-29T07:23:57",
       "updatedAt": "2026-06-29T07:23:57"
+    },
+    {
+      "id": "97ffc4a898f64e3ca894b658a48644f0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "322750",
+        "Tên Bưu cục": "Bưu Điện Xã Minh Tiến",
+        "Họ và tên người sử dụng": "Đỗ Thanh Huyên",
+        "Mã HRM": "00066093",
+        "Bộ phận / Phòng ban": "Nhân viên VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-LY-MINHTIEN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3YS51H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "48:4D:7E:D7:89:BC"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon2900",
+          "serial": "LPMA302535"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Cprinter",
+          "serial": "S-B170717A0711"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Voyager 1250g",
+          "serial": "3k14361697"
+        }
+      ],
+      "createdAt": "2026-06-29T07:26:18",
+      "updatedAt": "2026-06-29T07:26:18"
     }
   ]
 }
