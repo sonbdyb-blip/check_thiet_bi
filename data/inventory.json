@@ -10105,6 +10105,43 @@
       ],
       "createdAt": "2026-06-29T09:28:29",
       "updatedAt": "2026-06-29T09:28:29"
+    },
+    {
+      "id": "28daf3ac8b4e4d93bb8ea935cf259163",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "321980",
+        "Tên Bưu cục": "BCP Yên Bình",
+        "Họ và tên người sử dụng": "LÊ THỊ THÚY HẰNG",
+        "Mã HRM": "0065973",
+        "Bộ phận / Phòng ban": "BCP Yên Bình",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YENBINH-BCP",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop PC 570-p0xx",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV8080DD5",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19043",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.11",
+        "MAC Address": "80:CE:62:ED:22:F3"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M203d",
+          "serial": "VNP4D00491"
+        }
+      ],
+      "createdAt": "2026-06-29T09:31:59",
+      "updatedAt": "2026-06-29T09:31:59"
     }
   ]
 }
