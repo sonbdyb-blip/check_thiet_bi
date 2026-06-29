@@ -7148,6 +7148,53 @@
       ],
       "createdAt": "2026-06-29T03:10:07",
       "updatedAt": "2026-06-29T03:10:07"
+    },
+    {
+      "id": "15820e2c104f4b498ccf4fd5cae229da",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "324510",
+        "Tên Xã": "Bưu Điện Đông An - xã Đông Cuông",
+        "Mã Bưu cục": "324510",
+        "Tên Bưu cục": "Bưu Điện Đông An",
+        "Họ và tên người sử dụng": "Trần Thị Thanh",
+        "Mã HRM": "00258677",
+        "Bộ phận / Phòng ban": "Nhân viên kinh doanh tại điểm phục vụ BĐ Đông An",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXDONGAN",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop PC 570-p0xx",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV81709S4",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "353 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.21.142",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "203d",
+          "serial": "VNP4D01815"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Spinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "LS2208",
+          "serial": "Z3VAG5"
+        }
+      ],
+      "createdAt": "2026-06-29T03:10:33",
+      "updatedAt": "2026-06-29T03:10:33"
     }
   ]
 }
