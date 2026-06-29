@@ -9432,6 +9432,43 @@
       "attachments": [],
       "createdAt": "2026-06-29T08:19:39",
       "updatedAt": "2026-06-29T08:19:39"
+    },
+    {
+      "id": "d258279c2fe046d1b40e5125fb386cc0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Phòng TCKH",
+        "Họ và tên người sử dụng": "Lê Hải Yến",
+        "Mã HRM": "00043374",
+        "Bộ phận / Phòng ban": "Phòng TCKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H610M H V3 DDR4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.19.231.6",
+        "MAC Address": "30:56:0F:24:4A:7D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M201dw",
+          "serial": "VNC3G12216"
+        }
+      ],
+      "createdAt": "2026-06-29T08:20:00",
+      "updatedAt": "2026-06-29T08:20:00"
     }
   ]
 }
