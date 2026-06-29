@@ -7825,6 +7825,43 @@
       "attachments": [],
       "createdAt": "2026-06-29T03:37:00",
       "updatedAt": "2026-06-29T03:37:00"
+    },
+    {
+      "id": "b6cbe610da244566a9e691258a5c0f79",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "324100",
+        "Tên Xã": "Mậu A",
+        "Mã Bưu cục": "324100",
+        "Tên Bưu cục": "BC VP",
+        "Họ và tên người sử dụng": "Đặng Thùy Dương",
+        "Mã HRM": "00066258",
+        "Bộ phận / Phòng ban": "Giám đốc xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-TPQLODP",
+        "Loại máy": "Laptop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion x360 Convertible 14-dw0xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "5CG026359B",
+        "CPU": "Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz",
+        "RAM": "3.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office 365 ProPlus - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.69.100",
+        "MAC Address": "A8:7E:EA:D4:B2:E1"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Cannon LBP 264dw",
+          "serial": "PBXA028160"
+        }
+      ],
+      "createdAt": "2026-06-29T03:39:00",
+      "updatedAt": "2026-06-29T03:39:00"
     }
   ]
 }
