@@ -6512,6 +6512,43 @@
       ],
       "createdAt": "2026-06-29T02:13:47",
       "updatedAt": "2026-06-29T02:13:47"
+    },
+    {
+      "id": "9f83f0b5f4754839a92b6eacadeff49b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3308",
+        "Tên Xã": "Phường Lào Cai",
+        "Mã Bưu cục": "330000",
+        "Tên Bưu cục": "Bưu cục trung tâm",
+        "Họ và tên người sử dụng": "Đặng Hải Yến",
+        "Mã HRM": "00043050",
+        "Bộ phận / Phòng ban": "Nhân viên kinh doanh tại điểm giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-TP-GDTT08",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "0",
+        "Serial Number": "BCRV8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.102.188",
+        "MAC Address": "B8:85:84:AF:5A:76"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-29T02:17:18",
+      "updatedAt": "2026-06-29T02:17:18"
     }
   ]
 }
