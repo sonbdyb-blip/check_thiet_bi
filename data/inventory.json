@@ -10063,6 +10063,48 @@
       ],
       "createdAt": "2026-06-29T09:28:16",
       "updatedAt": "2026-06-29T09:28:16"
+    },
+    {
+      "id": "608b59b3b09c410b9acf3c67376dd86e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "321800",
+        "Tên Bưu cục": "BC KHL Yên Bái",
+        "Họ và tên người sử dụng": "Nguyễn Hoàng Quyên",
+        "Mã HRM": "00066461",
+        "Bộ phận / Phòng ban": "BC Vận Hành YB",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BDTP_QUYEN",
+        "Loại máy": "Desktop",
+        "Hãng": "To Be Filled By O.E.M.",
+        "Model": "To Be Filled By O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To Be Filled By O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G3260 @ 3.30GHz",
+        "RAM": "3.2 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.26.35.111",
+        "MAC Address": "70:85:C2:4F:A6:A4"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter 420B",
+          "serial": "254LUE22060977"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "DATAMAX",
+          "serial": "BỊ MỜ"
+        }
+      ],
+      "createdAt": "2026-06-29T09:28:29",
+      "updatedAt": "2026-06-29T09:28:29"
     }
   ]
 }
