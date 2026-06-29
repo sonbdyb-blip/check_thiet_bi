@@ -7453,6 +7453,53 @@
       ],
       "createdAt": "2026-06-29T03:19:34",
       "updatedAt": "2026-06-29T03:19:34"
+    },
+    {
+      "id": "f79bfc1a62234b29b60bd742ac59d6fe",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "322730",
+        "Tên Bưu cục": "Vĩnh Lạc",
+        "Họ và tên người sử dụng": "Hoàng Thị Khiếu",
+        "Mã HRM": "00072848",
+        "Bộ phận / Phòng ban": "Văn hóa xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXVINHLAC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9YQV8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "120 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "B8:85:84:B0:FA:58"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon2900",
+          "serial": "NMYA383315"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "2200E210310834"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol",
+          "serial": "Z3VAG7"
+        }
+      ],
+      "createdAt": "2026-06-29T03:23:00",
+      "updatedAt": "2026-06-29T03:23:00"
     }
   ]
 }
