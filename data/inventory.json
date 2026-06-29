@@ -9139,6 +9139,48 @@
       "attachments": [],
       "createdAt": "2026-06-29T08:05:57",
       "updatedAt": "2026-06-29T08:05:57"
+    },
+    {
+      "id": "69488c3978fc4f85b686fecb78792e3c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "321800",
+        "Tên Bưu cục": "KHL",
+        "Họ và tên người sử dụng": "Lê Trang Thu",
+        "Mã HRM": "00107857",
+        "Bộ phận / Phòng ban": "Bưu cục vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TMDT-3",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132Y1",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22000",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.26.35.121",
+        "MAC Address": "38:22:E2:18:95:44"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter DT-425B",
+          "serial": "425BUW213110112"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol",
+          "serial": "232534230"
+        }
+      ],
+      "createdAt": "2026-06-29T08:16:48",
+      "updatedAt": "2026-06-29T08:16:48"
     }
   ]
 }
