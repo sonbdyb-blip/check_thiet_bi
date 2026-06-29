@@ -7264,6 +7264,37 @@
       ],
       "createdAt": "2026-06-29T03:16:12",
       "updatedAt": "2026-06-29T03:16:12"
+    },
+    {
+      "id": "6e7e6e6031ca43ff889daea1ee33d6a9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "323300",
+        "Tên Bưu cục": "BC Trấn Yên",
+        "Họ và tên người sử dụng": "Vũ Ngọc Minh",
+        "Mã HRM": "00265211",
+        "Bộ phận / Phòng ban": "Kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-TRANYEN-KHL",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop PC 570-p0xx",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV8080D7V",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "11.9 GB",
+        "Ổ cứng": "905 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.7",
+        "MAC Address": "80:CE:62:ED:13:23"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-29T03:16:46",
+      "updatedAt": "2026-06-29T03:16:46"
     }
   ]
 }
