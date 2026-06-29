@@ -8099,6 +8099,53 @@
       ],
       "createdAt": "2026-06-29T03:46:37",
       "updatedAt": "2026-06-29T03:46:37"
+    },
+    {
+      "id": "990a8ebdfdd54dd4a74c4823225978c0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Bưu Cục Trái Hút - Đông Cuông",
+        "Tên Xã": "Đông Cuông",
+        "Mã Bưu cục": "324210",
+        "Tên Bưu cục": "Bưu Cục Trái Hút",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hương Giang",
+        "Mã HRM": "00277022",
+        "Bộ phận / Phòng ban": "Nhân Viên kinh doanh tại điểm phục vụ Bưu cục Trái Hút - Đông Cuông",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TRAIHUTCAS",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop PC 570-p0xx",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV8080DC3",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "933 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "80:CE:62:ED:24:36"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": "đã mất mã dán trên máy"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xpinter",
+          "serial": "58TTHBU52124417"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "LS2208",
+          "serial": "16257B453E"
+        }
+      ],
+      "createdAt": "2026-06-29T03:54:21",
+      "updatedAt": "2026-06-29T03:54:21"
     }
   ]
 }
