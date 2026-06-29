@@ -8146,6 +8146,38 @@
       ],
       "createdAt": "2026-06-29T03:54:21",
       "updatedAt": "2026-06-29T03:54:21"
+    },
+    {
+      "id": "1b15ed26b9fb44cb87d055a8208b8468",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "Lào Cai",
+        "Mã BĐ Xã": "324210",
+        "Tên Xã": "Bưu Cục Trái Hút xã Đông Cuông",
+        "Mã Bưu cục": "324210",
+        "Tên Bưu cục": "Bưu Cục Trái Hút",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hương Giang",
+        "Mã HRM": "00277022",
+        "Bộ phận / Phòng ban": "Nhân Viên kinh doanh tại điểm phục vụ Bưu cục Trái Hút - Đông Cuông",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân Điện Tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "cân bàn",
+        "Hãng sản xuất": "không có",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "vẫn hoạt động được",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-29T03:56:28",
+      "updatedAt": "2026-06-29T03:56:28"
     }
   ]
 }
