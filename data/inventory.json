@@ -8462,6 +8462,43 @@
       ],
       "createdAt": "2026-06-29T04:09:06",
       "updatedAt": "2026-06-29T04:09:06"
+    },
+    {
+      "id": "24c3981d025140dd86caee2b530dc544",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3333",
+        "Tên Xã": "Bưu điện phường Sa Pa",
+        "Mã Bưu cục": "333100",
+        "Tên Bưu cục": "Bưu cục Sa Pa",
+        "Họ và tên người sử dụng": "Hứa Hồng Ngọc",
+        "Mã HRM": "00089557",
+        "Bộ phận / Phòng ban": "Giám đốc Bưu điện phường Sa Pa",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAPTOP-V6M7NFM7",
+        "Loại máy": "Laptop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion 14 Laptop PC HP Pavilion Laptop 14-dv",
+        "Năm sản xuất": "",
+        "Serial Number": "5CD151F9RD",
+        "CPU": "11th Gen Intel(R) Core(TM) i3-1125G4 @ 2.00GHz",
+        "RAM": "3,8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.19.124.15",
+        "MAC Address": "10:6F:D9:8B:B9:8D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP laser jet pro M203d",
+          "serial": "VNP4D01307"
+        }
+      ],
+      "createdAt": "2026-06-29T04:09:18",
+      "updatedAt": "2026-06-29T04:09:18"
     }
   ]
 }
