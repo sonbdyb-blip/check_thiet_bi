@@ -6549,6 +6549,48 @@
       ],
       "createdAt": "2026-06-29T02:17:18",
       "updatedAt": "2026-06-29T02:17:18"
+    },
+    {
+      "id": "22f25a96865d4473a5749b132669e7eb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "331660",
+        "Tên Bưu cục": "BCP Si Ma Cai",
+        "Họ và tên người sử dụng": "Nguyễn Thị Kim Yến/ Lại Thị Huệ",
+        "Mã HRM": "0043355/0043354",
+        "Bộ phận / Phòng ban": "Trung tâm vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-SMC-BCP",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "i3-4150",
+        "RAM": "4 GB",
+        "Ổ cứng": "250 GB",
+        "Hệ điều hành": "Microsoft Windows 7 Ultimate 32-bit",
+        "Office": "Microsoft Office Professional 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA",
+          "serial": "ZD620"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": "DS22"
+        }
+      ],
+      "createdAt": "2026-06-29T02:30:40",
+      "updatedAt": "2026-06-29T02:30:40"
     }
   ]
 }
