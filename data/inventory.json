@@ -10771,6 +10771,48 @@
       "attachments": [],
       "createdAt": "2026-06-29T10:26:41",
       "updatedAt": "2026-06-29T10:26:41"
+    },
+    {
+      "id": "2acb36506f35483abcccc24ec36cd855",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3313",
+        "Tên Xã": "bưu điện xã trịnh tường",
+        "Mã Bưu cục": "332770",
+        "Tên Bưu cục": "bưu cuc trịnh tường",
+        "Họ và tên người sử dụng": "vũ thị tơ",
+        "Mã HRM": "0004304",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-D7B74PT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "BCNW8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "464 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.93.60",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "lpb 2900",
+          "serial": "L1121E"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": "DS22"
+        }
+      ],
+      "createdAt": "2026-06-29T10:34:51",
+      "updatedAt": "2026-06-29T10:34:51"
     }
   ]
 }
