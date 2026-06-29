@@ -7227,6 +7227,43 @@
       "attachments": [],
       "createdAt": "2026-06-29T03:12:57",
       "updatedAt": "2026-06-29T03:12:57"
+    },
+    {
+      "id": "64ddb7634df54b23b162d93a736fb93f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3318",
+        "Tên Xã": "Xã Bảo Yên",
+        "Mã Bưu cục": "335350",
+        "Tên Bưu cục": "Văn phòng BĐX Bảo Yên",
+        "Họ và tên người sử dụng": "Đặng Thị Thanh Huyền",
+        "Mã HRM": "00043184",
+        "Bộ phận / Phòng ban": "Kế toán bưu điện xã Bảo Yên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-DBK629O",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "749 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22000",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.116.1",
+        "MAC Address": "04:D9:F5:21:E0:38"
+      },
+      "attachments": [
+        {
+          "type": "ups",
+          "name": "Cyber Power",
+          "serial": "3202250Z30000734"
+        }
+      ],
+      "createdAt": "2026-06-29T03:16:12",
+      "updatedAt": "2026-06-29T03:16:12"
     }
   ]
 }
