@@ -10457,6 +10457,43 @@
       "attachments": [],
       "createdAt": "2026-06-29T09:48:29",
       "updatedAt": "2026-06-29T09:48:29"
+    },
+    {
+      "id": "d7e8cb67c36542b3806ffce558c2cab2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "320100",
+        "Tên Bưu cục": "KTC1 YÊN BÁI",
+        "Họ và tên người sử dụng": "HOÀNG THỊ QUYẾT",
+        "Mã HRM": "00065956",
+        "Bộ phận / Phòng ban": "TRUNG TÂM VẬN HÀNH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TTKT-QUYET",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H410M H V2",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz",
+        "RAM": "15.9 GB",
+        "Ổ cứng": "584 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.26.35.3",
+        "MAC Address": "18:C0:4D:EF:F2:F8"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON F176500",
+          "serial": "PBXA021081"
+        }
+      ],
+      "createdAt": "2026-06-29T09:48:49",
+      "updatedAt": "2026-06-29T09:48:49"
     }
   ]
 }
