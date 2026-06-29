@@ -9737,6 +9737,43 @@
       "attachments": [],
       "createdAt": "2026-06-29T09:04:06",
       "updatedAt": "2026-06-29T09:04:06"
+    },
+    {
+      "id": "73b94c84084b42798f6d9649c0be9680",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "324490",
+        "Tên Xã": "Viễn Sơn",
+        "Mã Bưu cục": "324490",
+        "Tên Bưu cục": "Viễn Sơn",
+        "Họ và tên người sử dụng": "Trần Thị Hương Giang",
+        "Mã HRM": "00066247",
+        "Bộ phận / Phòng ban": "VHX Viễn Sơn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXVIENSON",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H610M H V3 DDR4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "15.8 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.21.141",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "58IIHBU43254551"
+        }
+      ],
+      "createdAt": "2026-06-29T08:48:14",
+      "updatedAt": "2026-06-29T08:48:14"
     }
   ]
 }
