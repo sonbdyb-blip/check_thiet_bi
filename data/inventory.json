@@ -10711,35 +10711,35 @@
       "updatedAt": "2026-06-29T10:25:58"
     },
     {
-      "id": "d33bac52fd69415cae8b4123041f9215",
+      "id": "c47c37ea131440b093df7f78a4302efa",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "33",
-        "Tên Bưu cục": "Phòng Tài chính kế hoạch",
-        "Họ và tên người sử dụng": "Trần Lan Anh",
-        "Mã HRM": "00246721",
-        "Bộ phận / Phòng ban": "Phòng Tài chính kế hoạch",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "LCI-TCKH-LANANH",
-        "Loại máy": "Desktop",
-        "Hãng": "Gigabyte Technology Co., Ltd.",
-        "Model": "H610M H V3 DDR4",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "Default string",
-        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
-        "RAM": "7.8 GB",
-        "Ổ cứng": "238 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
-        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
-        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
-        "IP Address": "10.19.200.158",
-        "MAC Address": "30:56:0F:23:BB:A7"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
       "attachments": [],
-      "createdAt": "2026-06-29T10:26:01",
-      "updatedAt": "2026-06-29T10:26:01"
+      "createdAt": "2026-06-29T10:26:03",
+      "updatedAt": "2026-06-29T10:26:03"
     }
   ]
 }
