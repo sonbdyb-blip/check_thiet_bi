@@ -11038,6 +11038,53 @@
       ],
       "createdAt": "2026-06-29T12:53:44",
       "updatedAt": "2026-06-29T12:53:44"
+    },
+    {
+      "id": "fc217a8140684fb6a3eadfedfe989321",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "324130",
+        "Tên Xã": "Mậu Đông",
+        "Mã Bưu cục": "324130",
+        "Tên Bưu cục": "Mậu Đông",
+        "Họ và tên người sử dụng": "Đỗ Thị Duyên",
+        "Mã HRM": "00265484",
+        "Bộ phận / Phòng ban": "VHX Mậu Đông",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YBI-VANYEN-VHX-",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7E05",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "1158 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "04:7C:16:D6:A4:14"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2009",
+          "serial": "NMYA860595"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "58IIHBU2C030310"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Rohs",
+          "serial": "MC364601003950"
+        }
+      ],
+      "createdAt": "2026-06-29T13:53:38",
+      "updatedAt": "2026-06-29T13:53:38"
     }
   ]
 }
