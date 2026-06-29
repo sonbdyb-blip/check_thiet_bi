@@ -9060,6 +9060,53 @@
       ],
       "createdAt": "2026-06-29T08:01:35",
       "updatedAt": "2026-06-29T08:01:35"
+    },
+    {
+      "id": "a83893d0a09d4ba3abd830477cce92f8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "324060",
+        "Tên Xã": "Ngòi A",
+        "Mã Bưu cục": "324060",
+        "Tên Bưu cục": "Ngòi A",
+        "Họ và tên người sử dụng": "Triệu Thị Hồng Nhung",
+        "Mã HRM": "00104665",
+        "Bộ phận / Phòng ban": "VHX Ngòi A",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXNGOIA",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "BCLV8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro for Workstations 10.0.16299",
+        "Office": "Microsoft Office Standard 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.24",
+        "MAC Address": "B8:85:84:B1:44:44"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Cannon2009",
+          "serial": "NMYA540478"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "58IIHBU49110316"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": "Z4CP25"
+        }
+      ],
+      "createdAt": "2026-06-29T08:03:17",
+      "updatedAt": "2026-06-29T08:03:17"
     }
   ]
 }
