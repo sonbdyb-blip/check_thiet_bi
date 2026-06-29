@@ -7931,6 +7931,43 @@
       "attachments": [],
       "createdAt": "2026-06-29T03:41:14",
       "updatedAt": "2026-06-29T03:41:14"
+    },
+    {
+      "id": "81114f0cbc5040b2ac195668e9bd570d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3226",
+        "Tên Xã": "",
+        "Mã Bưu cục": "322680",
+        "Tên Bưu cục": "BCP Lục Yên",
+        "Họ và tên người sử dụng": "Phạm Tiến Đông",
+        "Mã HRM": "00066070",
+        "Bộ phận / Phòng ban": "BCVH Lục Yên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BCP-LY2",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H610M H V3 DDR4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "15.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.62",
+        "MAC Address": "30:56:0F:22:ED:D0"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "P?N;2d-Úb-Black",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-29T03:42:21",
+      "updatedAt": "2026-06-29T03:42:21"
     }
   ]
 }
