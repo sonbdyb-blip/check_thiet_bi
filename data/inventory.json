@@ -11085,6 +11085,53 @@
       ],
       "createdAt": "2026-06-29T13:53:38",
       "updatedAt": "2026-06-29T13:53:38"
+    },
+    {
+      "id": "30fd1a37f6ea452c882469b2c592da07",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "324090",
+        "Tên Xã": "Yên Thái",
+        "Mã Bưu cục": "324090",
+        "Tên Bưu cục": "Yên Thái",
+        "Họ và tên người sử dụng": "Trần Thuý Ngân",
+        "Mã HRM": "00066211",
+        "Bộ phận / Phòng ban": "VHX Yên Thái",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHX-YENTHAI",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7D22",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "D8:BB:C1:71:AF:A2"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2009",
+          "serial": "NMYA861402"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "58IIHBU4B010082"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol",
+          "serial": "Z48MMAN"
+        }
+      ],
+      "createdAt": "2026-06-29T13:59:44",
+      "updatedAt": "2026-06-29T13:59:44"
     }
   ]
 }
