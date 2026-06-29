@@ -8220,6 +8220,38 @@
       ],
       "createdAt": "2026-06-29T03:56:54",
       "updatedAt": "2026-06-29T03:56:54"
+    },
+    {
+      "id": "a92a2ca0143041379efcb4bb0ac95592",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "Lào Cai",
+        "Mã BĐ Xã": "3217",
+        "Tên Xã": "Phong Dụ Hạ- Dụ Thượng",
+        "Mã Bưu cục": "324550",
+        "Tên Bưu cục": "BC Dụ Hạ",
+        "Họ và tên người sử dụng": "Mạc Thị Anh Đào",
+        "Mã HRM": "00252221",
+        "Bộ phận / Phòng ban": "VHX Dụ Hạ",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân bàn",
+        "Hãng sản xuất": "",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30KG",
+        "Serial Number": "200254929",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "Bình Thường",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-29T03:58:42",
+      "updatedAt": "2026-06-29T03:58:42"
     }
   ]
 }
