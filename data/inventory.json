@@ -6628,6 +6628,53 @@
       ],
       "createdAt": "2026-06-29T02:41:47",
       "updatedAt": "2026-06-29T02:41:47"
+    },
+    {
+      "id": "4b62e0db91464e41ab4892b185bdcdf6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "1900",
+        "Tên Bưu cục": "Bưu cục Mường khương",
+        "Họ và tên người sử dụng": "Phạm Thị Hải Yến",
+        "Mã HRM": "00248584",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-MK-TT-BCCP",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9ZKN8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "560 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19041",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.122.207",
+        "MAC Address": "B8:85:84:AF:39:DA"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LaserJef 1010",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Zebra ZD620",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "HoneyWell",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-29T02:44:11",
+      "updatedAt": "2026-06-29T02:44:11"
     }
   ]
 }
