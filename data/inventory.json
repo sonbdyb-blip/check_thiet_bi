@@ -8709,6 +8709,53 @@
       ],
       "createdAt": "2026-06-29T07:29:29",
       "updatedAt": "2026-06-29T07:29:29"
+    },
+    {
+      "id": "76dd47e100094482a43aa9b29fb67ea2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "322710",
+        "Tên Bưu cục": "vhx Mường Lai",
+        "Họ và tên người sử dụng": "Quyền Thị Khánh Linh",
+        "Mã HRM": "00251663",
+        "Bộ phận / Phòng ban": "nhân viên vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YENBAI-075",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "579 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.21.60",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon2900",
+          "serial": "NDMA765413"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "5811HBU43254557"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": "DS2208"
+        }
+      ],
+      "createdAt": "2026-06-29T07:33:26",
+      "updatedAt": "2026-06-29T07:33:26"
     }
   ]
 }
