@@ -8425,6 +8425,43 @@
       ],
       "createdAt": "2026-06-29T03:49:21",
       "updatedAt": "2026-06-29T03:49:21"
+    },
+    {
+      "id": "0a9e54d54c71462c959e0484b719220a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3235",
+        "Tên Xã": "Bưu điện xã Bảo Ái",
+        "Mã Bưu cục": "3235",
+        "Tên Bưu cục": "Bưu điện xã Bảo Ái",
+        "Họ và tên người sử dụng": "Khuất Thị Hồng Hạnh",
+        "Mã HRM": "00066123",
+        "Bộ phận / Phòng ban": "GĐX Bảo ái",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "CHIHANH",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP EliteDesk 800 G6 Desktop Mini PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC0451PKG",
+        "CPU": "Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "F8:0D:AC:2B:A1:0E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP Laser Jet Pro M203d",
+          "serial": "VNP4D00490"
+        }
+      ],
+      "createdAt": "2026-06-29T04:09:06",
+      "updatedAt": "2026-06-29T04:09:06"
     }
   ]
 }
