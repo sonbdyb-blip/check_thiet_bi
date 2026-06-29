@@ -6339,6 +6339,43 @@
       ],
       "createdAt": "2026-06-29T02:09:04",
       "updatedAt": "2026-06-29T02:09:04"
+    },
+    {
+      "id": "d77b2552b01441dea175702b56756f15",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3315",
+        "Tên Xã": "Bưu điện Xã Bát Xát",
+        "Mã Bưu cục": "332500",
+        "Tên Bưu cục": "Bưu cục Bát Xát",
+        "Họ và tên người sử dụng": "Nguyễn Thị Bình",
+        "Mã HRM": "00116882",
+        "Bộ phận / Phòng ban": "Nhân viên kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-5RFV4MH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9ZRN8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "10.19.109.210",
+        "MAC Address": "E4:B9:7A:F3:A9:A4"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LASERJET PRO M203DN",
+          "serial": "VNC5801244"
+        }
+      ],
+      "createdAt": "2026-06-29T02:09:35",
+      "updatedAt": "2026-06-29T02:09:35"
     }
   ]
 }
