@@ -8840,6 +8840,48 @@
       ],
       "createdAt": "2026-06-29T07:47:23",
       "updatedAt": "2026-06-29T07:47:23"
+    },
+    {
+      "id": "052bae4a915a4593a4b0a6b41f009dc1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "321800",
+        "Tên Bưu cục": "KHL Yên Bái",
+        "Họ và tên người sử dụng": "Lưu Thị Hồng Linh",
+        "Mã HRM": "00065947",
+        "Bộ phận / Phòng ban": "Bưu cục vận hành Yên Bái",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KM6-2",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22621",
+        "Office": "Microsoft Office Professional 2016 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.35.113",
+        "MAC Address": "D8:5E:D3:DD:3B:F5"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XP-480B",
+          "serial": "S48OBUW23A160031"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol Z44W1T",
+          "serial": "LS2208-SR20001R-UR"
+        }
+      ],
+      "createdAt": "2026-06-29T07:54:54",
+      "updatedAt": "2026-06-29T07:54:54"
     }
   ]
 }
