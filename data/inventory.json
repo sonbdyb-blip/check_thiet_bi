@@ -10907,6 +10907,43 @@
       ],
       "createdAt": "2026-06-29T10:51:21",
       "updatedAt": "2026-06-29T10:51:21"
+    },
+    {
+      "id": "ca91abf26d2b43baa17b0e431541fc6c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3313",
+        "Tên Xã": "Bưu điện Xã Trịnh Tường",
+        "Mã Bưu cục": "332740",
+        "Tên Bưu cục": "VHX Cốc Mỳ",
+        "Họ và tên người sử dụng": "Vàng Thị Hà",
+        "Mã HRM": "00229882",
+        "Bộ phận / Phòng ban": "Nhân viên Văn Hóa xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "5eb7b2z2drrkhx4",
+        "Loại máy": "HEWLETT-PACKARD",
+        "Hãng": "HP PRODESK 600 G1 SFF",
+        "Model": "HP PRODESK 600 G1 SFF",
+        "Năm sản xuất": "2010",
+        "Serial Number": "3743MBUSED",
+        "CPU": "DIRECTX 11",
+        "RAM": "3743MB399MB",
+        "Ổ cứng": "WINDOWS 7 UTIMATE 32- BIT",
+        "Hệ điều hành": "WINDOWS 7 UTIMATE 32- BIT",
+        "Office": "WINDOWS 7 UTIMATE 32- BIT",
+        "Antivirus": "WINDOWS 7 UTIMATE 32- BIT",
+        "IP Address": "WINDOWS 7 UTIMATE 32- BIT",
+        "MAC Address": "WINDOWS 7 UTIMATE 32- BIT"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LASER JET PRO M203DN",
+          "serial": "VNP4D01709"
+        }
+      ],
+      "createdAt": "2026-06-29T10:55:16",
+      "updatedAt": "2026-06-29T10:55:16"
     }
   ]
 }
