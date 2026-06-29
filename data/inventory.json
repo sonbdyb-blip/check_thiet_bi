@@ -10991,6 +10991,53 @@
       ],
       "createdAt": "2026-06-29T11:11:03",
       "updatedAt": "2026-06-29T11:11:03"
+    },
+    {
+      "id": "e5685113ae14489b9578296b4fe544fd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "335120",
+        "Tên Xã": "xã Võ Lao",
+        "Mã Bưu cục": "335120",
+        "Tên Bưu cục": "Bưu điện xã Võ Lao",
+        "Họ và tên người sử dụng": "Nguyễn Thị Sinh",
+        "Mã HRM": "0043216",
+        "Bộ phận / Phòng ban": "Bưu điện cụm Bảo Thắng -Văn Bàn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-VB-VOLAO",
+        "Loại máy": "POSBANK",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821181900",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-29T12:53:44",
+      "updatedAt": "2026-06-29T12:53:44"
     }
   ]
 }
