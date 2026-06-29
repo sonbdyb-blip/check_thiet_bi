@@ -7794,6 +7794,37 @@
       ],
       "createdAt": "2026-06-29T03:32:48",
       "updatedAt": "2026-06-29T03:32:48"
+    },
+    {
+      "id": "2ac851afd830490b946a3676eb41d7d6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "321988",
+        "Tên Bưu cục": "BC Văn Phòng Yên Bình",
+        "Họ và tên người sử dụng": "Lương Ngọc Tuân",
+        "Mã HRM": "00101184",
+        "Bộ phận / Phòng ban": "Xã Thác Bà",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-YENB-TUAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7D48",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "15.8 GB",
+        "Ổ cứng": "347 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.15",
+        "MAC Address": "34:5A:60:69:58:D2"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-29T03:37:00",
+      "updatedAt": "2026-06-29T03:37:00"
     }
   ]
 }
