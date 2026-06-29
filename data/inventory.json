@@ -8178,6 +8178,48 @@
       "attachments": [],
       "createdAt": "2026-06-29T03:56:28",
       "updatedAt": "2026-06-29T03:56:28"
+    },
+    {
+      "id": "7d118e642471421487714e648b7e10e7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3217",
+        "Tên Xã": "Phong Dụ Hạ- Dụ Thượng",
+        "Mã Bưu cục": "324550",
+        "Tên Bưu cục": "BC Dụ Hạ",
+        "Họ và tên người sử dụng": "Mạc Thị Anh Đào",
+        "Mã HRM": "00252221",
+        "Bộ phận / Phòng ban": "VHX Dụ Hạ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXDUHA",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "BD7R8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro for Workstations 10.0.16299",
+        "Office": "Microsoft Office Standard 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "B8:85:84:B0:FD:48"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon L11121E",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "XP-58IIH",
+          "serial": "58IIHBU46270911"
+        }
+      ],
+      "createdAt": "2026-06-29T03:56:54",
+      "updatedAt": "2026-06-29T03:56:54"
     }
   ]
 }
