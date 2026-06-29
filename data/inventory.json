@@ -7652,6 +7652,38 @@
       ],
       "createdAt": "2026-06-29T03:28:48",
       "updatedAt": "2026-06-29T03:28:48"
+    },
+    {
+      "id": "95b3a7d3e2794b79a9983f312341e677",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "Lào Cai",
+        "Mã BĐ Xã": "324200",
+        "Tên Xã": "Bưu Điện Quang Minh",
+        "Mã Bưu cục": "324200",
+        "Tên Bưu cục": "Bưu Điện Quang Minh - BĐ Đông Cuông",
+        "Họ và tên người sử dụng": "Nguyễn Thị Tố Uyên",
+        "Mã HRM": "00267279",
+        "Bộ phận / Phòng ban": "Nhân viên kinh doanh tại điểm phục vụ BĐ Quang Minh",
+        "Mã vật tư": "Cân điện tử",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "không còn nhìn được nữa",
+        "Năm sản xuất": "2010",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "tại điểm BĐ Quang Minh",
+        "Tình trạng hoạt động": "vẫn dùng được",
+        "Ghi chú": "cân đã được cấp lâu rồi , đã cũ nhưng vẫn hoạt động được nên chưa xin cấp máy mới"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-29T03:30:09",
+      "updatedAt": "2026-06-29T03:30:09"
     }
   ]
 }
