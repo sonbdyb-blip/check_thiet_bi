@@ -7684,6 +7684,38 @@
       "attachments": [],
       "createdAt": "2026-06-29T03:30:09",
       "updatedAt": "2026-06-29T03:30:09"
+    },
+    {
+      "id": "4e3f0321fd34442187c630d90b864c74",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "330000",
+        "Tên Bưu cục": "GD Trung Tâm Lào Cai",
+        "Họ và tên người sử dụng": "Trần Thị Thu Hương",
+        "Mã HRM": "00228528",
+        "Bộ phận / Phòng ban": "Bưu điện phường Lào Cai",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân bàn",
+        "Hãng sản xuất": "Casio",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30 Kg",
+        "Serial Number": "200255138",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-29T03:31:39",
+      "updatedAt": "2026-06-29T03:31:39"
     }
   ]
 }
