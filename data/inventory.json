@@ -10026,6 +10026,43 @@
       ],
       "createdAt": "2026-06-29T09:25:17",
       "updatedAt": "2026-06-29T09:25:17"
+    },
+    {
+      "id": "a161e9d6a3c0450980521bef653a51a8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "TT Vận Hành",
+        "Họ và tên người sử dụng": "Ngô Quang Sơn",
+        "Mã HRM": "00065938",
+        "Bộ phận / Phòng ban": "TT Vận Hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "SON-NQ",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "670 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.32.56",
+        "MAC Address": "74:56:3C:2D:33:86"
+      },
+      "attachments": [
+        {
+          "type": "ups",
+          "name": "Santak",
+          "serial": "S015245872"
+        }
+      ],
+      "createdAt": "2026-06-29T09:28:16",
+      "updatedAt": "2026-06-29T09:28:16"
     }
   ]
 }
