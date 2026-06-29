@@ -10142,6 +10142,48 @@
       ],
       "createdAt": "2026-06-29T09:31:59",
       "updatedAt": "2026-06-29T09:31:59"
+    },
+    {
+      "id": "1ec3fb4c169d4d878865a1d6354df892",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "320900",
+        "Tên Bưu cục": "BC HỆ 1 YÊN BÁI",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thanh Thủy",
+        "Mã HRM": "00262717",
+        "Bộ phận / Phòng ban": "BC HỆ 1 YÊN BÁI",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-KTT-KTH1",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "584 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.35.11",
+        "MAC Address": "34:97:F6:37:E9:17"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M201DW",
+          "serial": "VNC3306454"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER DT426B",
+          "serial": "426BUG244250019"
+        }
+      ],
+      "createdAt": "2026-06-29T09:33:52",
+      "updatedAt": "2026-06-29T09:33:52"
     }
   ]
 }
