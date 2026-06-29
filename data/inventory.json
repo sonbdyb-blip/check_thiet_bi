@@ -7195,6 +7195,38 @@
       ],
       "createdAt": "2026-06-29T03:10:33",
       "updatedAt": "2026-06-29T03:10:33"
+    },
+    {
+      "id": "51198b66ab1f4fef950b2723a4097be4",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "324510",
+        "Tên Bưu cục": "Bưu Điện Đông An",
+        "Họ và tên người sử dụng": "Trần Thị Thanh",
+        "Mã HRM": "00258677",
+        "Bộ phận / Phòng ban": "Nhân viên kinh doanh tại điểm phục vụ BĐ Đông An",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân Điện Tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân Bàn",
+        "Hãng sản xuất": "CAS",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "Đã Hỏng đang xin cấp mới",
+        "Ghi chú": "hỏng 2 tháng rồi tạm dùng máy của gia đình , đang xin cấp mới"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-29T03:12:57",
+      "updatedAt": "2026-06-29T03:12:57"
     }
   ]
 }
