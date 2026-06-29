@@ -8252,6 +8252,37 @@
       "attachments": [],
       "createdAt": "2026-06-29T03:58:42",
       "updatedAt": "2026-06-29T03:58:42"
+    },
+    {
+      "id": "c1b06d470ba9424b8942d8aad46578bc",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Bưu Cục Vận Hành",
+        "Tên Xã": "Mậu A",
+        "Mã Bưu cục": "324080",
+        "Tên Bưu cục": "Bưu Cục Vận Hành",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thu Thủy",
+        "Mã HRM": "00066270",
+        "Bộ phận / Phòng ban": "Bưu Cục Vận Hành Văn Yên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VANYEN-KHAITHAC",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Slim Desktop S01-pF2xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE334B672",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.14",
+        "MAC Address": "E0:73:E7:BA:84:42"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-29T03:41:44",
+      "updatedAt": "2026-06-29T03:41:44"
     }
   ]
 }
