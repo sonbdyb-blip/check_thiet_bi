@@ -9274,6 +9274,48 @@
       "attachments": [],
       "createdAt": "2026-06-29T08:23:18",
       "updatedAt": "2026-06-29T08:23:18"
+    },
+    {
+      "id": "62e07a601f5c4b2a84eade143a9f00e9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "321800",
+        "Tên Bưu cục": "BC KHL Yên Bái",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thu Hương",
+        "Mã HRM": "00228500",
+        "Bộ phận / Phòng ban": "BC Vận hành Yên Bái",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-THANHPHO-KHL",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop PC 570-p0xx",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV80805VJ",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "1041 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.35.117",
+        "MAC Address": "80:CE:62:EC:E3:5D"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter XP-DT425B",
+          "serial": "425BUW213110111"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEYWELL 1450G",
+          "serial": "16257B4556"
+        }
+      ],
+      "createdAt": "2026-06-29T08:17:14",
+      "updatedAt": "2026-06-29T08:17:14"
     }
   ]
 }
