@@ -8351,6 +8351,43 @@
       ],
       "createdAt": "2026-06-29T03:45:54",
       "updatedAt": "2026-06-29T03:45:54"
+    },
+    {
+      "id": "cc403b82d97e4270b2622771840ba976",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Bưu Cục Vận Hành",
+        "Tên Xã": "Mậu A",
+        "Mã Bưu cục": "324080",
+        "Tên Bưu cục": "Bưu Cục Vận Hành",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thu Thủy",
+        "Mã HRM": "00066270",
+        "Bộ phận / Phòng ban": "Bưu Cục Vận Hành Văn Yên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VANYEN-KHAITHAC",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "429BUW252260019"
+        }
+      ],
+      "createdAt": "2026-06-29T03:47:35",
+      "updatedAt": "2026-06-29T03:47:35"
     }
   ]
 }
