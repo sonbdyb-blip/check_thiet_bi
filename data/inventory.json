@@ -11165,6 +11165,38 @@
       "attachments": [],
       "createdAt": "2026-06-29T14:03:01",
       "updatedAt": "2026-06-29T14:03:01"
+    },
+    {
+      "id": "e685ea36e42043b6b55d9845a7b45dba",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "Lào Cai",
+        "Mã BĐ Xã": "324090",
+        "Tên Xã": "Yên Thái",
+        "Mã Bưu cục": "324090",
+        "Tên Bưu cục": "Yên Thái",
+        "Họ và tên người sử dụng": "Trần Thuý Ngân",
+        "Mã HRM": "00066211",
+        "Bộ phận / Phòng ban": "VHX Yên Thái",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân bàn",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "03606",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "Bình",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-29T14:04:24",
+      "updatedAt": "2026-06-29T14:04:24"
     }
   ]
 }
