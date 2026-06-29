@@ -7747,6 +7747,53 @@
       "attachments": [],
       "createdAt": "2026-06-29T03:32:33",
       "updatedAt": "2026-06-29T03:32:33"
+    },
+    {
+      "id": "4db9e0bd8f5443cf942741e971b747d6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3203",
+        "Tên Xã": "Tú Lệ",
+        "Mã Bưu cục": "325360",
+        "Tên Bưu cục": "VHX Tú Lệ",
+        "Họ và tên người sử dụng": "Sùng A Già",
+        "Mã HRM": "00225377",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXTULE",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H610M H V3 DDR4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.35",
+        "MAC Address": "30:56:0F:22:ED:C6"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LPB2900",
+          "serial": "NMYA616063"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter XP-58IIH",
+          "serial": "58IIHBU36031039"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": "CBAU01S07ZAR"
+        }
+      ],
+      "createdAt": "2026-06-29T03:32:48",
+      "updatedAt": "2026-06-29T03:32:48"
     }
   ]
 }
