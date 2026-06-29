@@ -6067,6 +6067,53 @@
       ],
       "createdAt": "2026-06-29T01:49:33",
       "updatedAt": "2026-06-29T01:49:33"
+    },
+    {
+      "id": "18a7b9edc8f2428aae20eb55ab87774d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "333890",
+        "Tên Bưu cục": "vhx vạn hoà",
+        "Họ và tên người sử dụng": "Nông Thị Hoa",
+        "Mã HRM": "00084360",
+        "Bộ phận / Phòng ban": "gdv",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VANHOA",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132C9",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn - vi-vn",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.19.202.104",
+        "MAC Address": "38:22:E2:18:92:75"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "xpriter",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "laserjetpro m201dw",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "honeywell",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-29T01:52:52",
+      "updatedAt": "2026-06-29T01:52:52"
     }
   ]
 }
