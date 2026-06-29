@@ -8541,6 +8541,38 @@
       ],
       "createdAt": "2026-06-29T07:21:42",
       "updatedAt": "2026-06-29T07:21:42"
+    },
+    {
+      "id": "95c53d83daa94a45a1e7b2a83a42259f",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "336000",
+        "Tên Bưu cục": "TRẦN HƯNG ĐẠO",
+        "Họ và tên người sử dụng": "VŨ THỊ HẢI YẾN",
+        "Mã HRM": "00043400",
+        "Bộ phận / Phòng ban": "Bưu điện phường Cam Đường",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân bàn",
+        "Hãng sản xuất": "Casio",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "200256979",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-29T07:23:57",
+      "updatedAt": "2026-06-29T07:23:57"
     }
   ]
 }
