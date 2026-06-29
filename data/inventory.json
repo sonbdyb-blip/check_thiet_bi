@@ -10860,6 +10860,53 @@
       ],
       "createdAt": "2026-06-29T10:49:03",
       "updatedAt": "2026-06-29T10:49:03"
+    },
+    {
+      "id": "ea39232a75f041739d3d35cd5e92e5cb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3257",
+        "Tên Xã": "Lục Yên",
+        "Mã Bưu cục": "322600",
+        "Tên Bưu cục": "Bưu cục Lục Yên",
+        "Họ và tên người sử dụng": "Đỗ Xuân Bắc",
+        "Mã HRM": "00278311",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LY-CAS",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "1044 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.21.52",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON LBP2900",
+          "serial": "MGQA389882"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER",
+          "serial": "420BUE21B220379"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": "20213010558506"
+        }
+      ],
+      "createdAt": "2026-06-29T10:51:21",
+      "updatedAt": "2026-06-29T10:51:21"
     }
   ]
 }
