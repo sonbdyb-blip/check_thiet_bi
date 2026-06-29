@@ -7502,46 +7502,35 @@
       "updatedAt": "2026-06-29T03:23:00"
     },
     {
-      "id": "b98e8dfbde5f47389a68e59b1253302d",
+      "id": "b7f5a4e6796d4de1aef859f13f6ac3db",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "324430",
-        "Tên Xã": "Xuân Ái",
-        "Mã Bưu cục": "324430",
-        "Tên Bưu cục": "Xuân Ái",
-        "Họ và tên người sử dụng": "Trần Xuân Bính",
-        "Mã HRM": "00066242",
-        "Bộ phận / Phòng ban": "VHX Xuân Ái",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "VHX-XUANAI",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "OptiPlex 3040",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "3V741H2",
-        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
-        "RAM": "5.9 GB",
-        "Ổ cứng": "120 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
-        "Office": "Microsoft Office Professional Plus 2019 - en-us",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus",
-        "IP Address": "192.168.1.38",
-        "MAC Address": "48:4D:7E:D7:2E:FC"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "thermal_printer",
-          "name": "Xprinter",
-          "serial": "58IIHBU2C030311"
-        },
-        {
-          "type": "barcode_reader",
-          "name": "Honeywell",
-          "serial": "16257B453F"
-        }
-      ],
-      "createdAt": "2026-06-29T03:24:13",
-      "updatedAt": "2026-06-29T03:24:13"
+      "attachments": [],
+      "createdAt": "2026-06-29T03:24:15",
+      "updatedAt": "2026-06-29T03:24:15"
     }
   ]
 }
