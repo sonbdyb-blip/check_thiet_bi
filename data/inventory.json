@@ -9316,6 +9316,48 @@
       ],
       "createdAt": "2026-06-29T08:17:14",
       "updatedAt": "2026-06-29T08:17:14"
+    },
+    {
+      "id": "937f9d064e4f4e3099a6552349c24297",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "324330",
+        "Tên Xã": "An Thịnh",
+        "Mã Bưu cục": "324330",
+        "Tên Bưu cục": "An Thịnh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hà",
+        "Mã HRM": "00095023",
+        "Bộ phận / Phòng ban": "VHX An Thịnh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXANTHINH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3ZF91H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "120 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.12",
+        "MAC Address": "48:4D:7E:D7:DB:64"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2009",
+          "serial": "NMYA781072"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "58IIHBU52124376"
+        }
+      ],
+      "createdAt": "2026-06-29T08:18:12",
+      "updatedAt": "2026-06-29T08:18:12"
     }
   ]
 }
