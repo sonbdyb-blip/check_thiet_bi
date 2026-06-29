@@ -6470,6 +6470,48 @@
       ],
       "createdAt": "2026-06-29T02:11:20",
       "updatedAt": "2026-06-29T02:11:20"
+    },
+    {
+      "id": "c4ada4c651774a22ad852774ae679dad",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Gia Hội",
+        "Mã Bưu cục": "325340",
+        "Tên Bưu cục": "VHX Nậm Búng",
+        "Họ và tên người sử dụng": "Đinh Thị Yến",
+        "Mã HRM": "00066384",
+        "Bộ phận / Phòng ban": "Nhân Viên VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-M3TNEBR",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop PC 570-p0xx",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV8080DBF",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.36",
+        "MAC Address": "80:CE:62:ED:24:35"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "honeywell",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-29T02:13:47",
+      "updatedAt": "2026-06-29T02:13:47"
     }
   ]
 }
