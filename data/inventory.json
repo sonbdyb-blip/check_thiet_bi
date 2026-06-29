@@ -10310,6 +10310,48 @@
       ],
       "createdAt": "2026-06-29T09:40:55",
       "updatedAt": "2026-06-29T09:40:55"
+    },
+    {
+      "id": "50abf7a2c19c4bba8e08c5c27d27ab4d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3221",
+        "Tên Xã": "xã Nà Hẩu",
+        "Mã Bưu cục": "324390",
+        "Tên Bưu cục": "Bưu điện xã Nà Hẩu",
+        "Họ và tên người sử dụng": "Sùng Thị Ky",
+        "Mã HRM": "00264117",
+        "Bộ phận / Phòng ban": "Nhân viên kinh doanh tại điểm phục vụ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DLVY-NH",
+        "Loại máy": "Laptop",
+        "Hãng": "LENOVO",
+        "Model": "81D0",
+        "Năm sản xuất": "",
+        "Serial Number": "PF2APY15",
+        "CPU": "Intel(R) Celeron(R) N4100 CPU @ 1.10GHz",
+        "RAM": "3,8 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.18363",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.0.102",
+        "MAC Address": "3C:58:C2:B0:B5:53"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP",
+          "serial": "VNC5801325"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter 58IIH",
+          "serial": "58IIHBU52124380"
+        }
+      ],
+      "createdAt": "2026-06-29T09:41:40",
+      "updatedAt": "2026-06-29T09:41:40"
     }
   ]
 }
