@@ -9705,6 +9705,38 @@
       ],
       "createdAt": "2026-06-29T09:02:48",
       "updatedAt": "2026-06-29T09:02:48"
+    },
+    {
+      "id": "d9accd27dcc04383abfef8c30276141d",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "Lào Cai",
+        "Mã BĐ Xã": "324470",
+        "Tên Xã": "Yên Phú",
+        "Mã Bưu cục": "324470",
+        "Tên Bưu cục": "Yên Phú",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hương",
+        "Mã HRM": "00066245",
+        "Bộ phận / Phòng ban": "VHX Yên Phú",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân Bàn",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-29T09:04:06",
+      "updatedAt": "2026-06-29T09:04:06"
     }
   ]
 }
