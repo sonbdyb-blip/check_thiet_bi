@@ -10426,6 +10426,37 @@
       ],
       "createdAt": "2026-06-29T09:44:31",
       "updatedAt": "2026-06-29T09:44:31"
+    },
+    {
+      "id": "0405e95eac284e188d3100a172910f4f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "321090",
+        "Tên Xã": "BCVH Yên Bái",
+        "Mã Bưu cục": "321090",
+        "Tên Bưu cục": "BCVH Yên Bái",
+        "Họ và tên người sử dụng": "Dùng Chung",
+        "Mã HRM": "0",
+        "Bộ phận / Phòng ban": "BCP Yên Bái",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BCP-BUUTA",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M K",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.26.35.65",
+        "MAC Address": "74:56:3C:25:A8:AF"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-29T09:48:29",
+      "updatedAt": "2026-06-29T09:48:29"
     }
   ]
 }
