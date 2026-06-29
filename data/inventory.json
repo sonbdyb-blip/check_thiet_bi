@@ -10531,6 +10531,43 @@
       ],
       "createdAt": "2026-06-29T09:49:57",
       "updatedAt": "2026-06-29T09:49:57"
+    },
+    {
+      "id": "a8fc2a90240147f59e120d9fc61472dc",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "321090",
+        "Tên Xã": "BCVH Yên Bái",
+        "Mã Bưu cục": "321090",
+        "Tên Bưu cục": "BCVH Yên Bái",
+        "Họ và tên người sử dụng": "Dùng chung",
+        "Mã HRM": "0",
+        "Bộ phận / Phòng ban": "BCP Yên Bái",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-KTT-BCP01",
+        "Loại máy": "Desktop",
+        "Hãng": "To Be Filled By O.E.M.",
+        "Model": "H510M-HVS R2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "To Be Filled By O.E.M.",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "7.6 GB",
+        "Ổ cứng": "1154 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.35.64",
+        "MAC Address": "A8:A1:59:F4:FC:EE"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "USB",
+          "serial": "0"
+        }
+      ],
+      "createdAt": "2026-06-29T09:52:08",
+      "updatedAt": "2026-06-29T09:52:08"
     }
   ]
 }
