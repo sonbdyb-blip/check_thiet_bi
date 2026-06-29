@@ -10813,6 +10813,53 @@
       ],
       "createdAt": "2026-06-29T10:34:51",
       "updatedAt": "2026-06-29T10:34:51"
+    },
+    {
+      "id": "196918731627422b8d12855342d680a1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3257",
+        "Tên Xã": "XÃ LỤC YÊN",
+        "Mã Bưu cục": "322600",
+        "Tên Bưu cục": "BƯU CỤC LỤC YÊN",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ KHÁNH QUỲNH",
+        "Mã HRM": "00269066",
+        "Bộ phận / Phòng ban": "QUẦY GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LUCYEN_GD",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 7010",
+        "Năm sản xuất": "",
+        "Serial Number": "4X8C6Z1",
+        "CPU": "Intel(R) Core(TM) i5-3570 CPU @ 3.40GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "151 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.112",
+        "MAC Address": "F8:B1:56:AC:74:A6"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON LBP2900",
+          "serial": "NMYA065167"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "1 MÁY ZEBRA ZD620, 1 MÁY XPRINTER",
+          "serial": "D3J204204346 ,  58IIHBU44112275"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEYWELL",
+          "serial": "16257B4518"
+        }
+      ],
+      "createdAt": "2026-06-29T10:49:03",
+      "updatedAt": "2026-06-29T10:49:03"
     }
   ]
 }
