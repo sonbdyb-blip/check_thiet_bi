@@ -9243,6 +9243,48 @@
       "attachments": [],
       "createdAt": "2026-06-29T08:11:55",
       "updatedAt": "2026-06-29T08:11:55"
+    },
+    {
+      "id": "cc2c2e81361e4985a3c5bf65c80e3642",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "321800",
+        "Tên Bưu cục": "BC KHL YB",
+        "Họ và tên người sử dụng": "Nguyễn Văn Toàn",
+        "Mã HRM": "00250098",
+        "Bộ phận / Phòng ban": "BC Vận hành Yên Bái",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-THANHPHO-TMD",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop PC 570-p0xx",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV81709GF",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.35.114",
+        "MAC Address": "80:CE:62:EF:96:7D"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XP-420B",
+          "serial": "S420BUH20B110100"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "iMarcone MC-3003HRB",
+          "serial": "MC364601003892"
+        }
+      ],
+      "createdAt": "2026-06-29T08:14:02",
+      "updatedAt": "2026-06-29T08:14:02"
     }
   ]
 }
