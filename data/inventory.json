@@ -8499,6 +8499,48 @@
       ],
       "createdAt": "2026-06-29T04:09:18",
       "updatedAt": "2026-06-29T04:09:18"
+    },
+    {
+      "id": "1e079f8736cc4ff7a6e1710ee89f5a98",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "336000",
+        "Tên Bưu cục": "TRẦN HƯNG ĐẠO",
+        "Họ và tên người sử dụng": "Đới Thị Huế",
+        "Mã HRM": "00043403",
+        "Bộ phận / Phòng ban": "Bưu điện phường Cam Đường",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-TP-THD-YEN",
+        "Loại máy": "DESKTOP",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "i3-4150",
+        "RAM": "4 GB",
+        "Ổ cứng": "400 GB",
+        "Hệ điều hành": "Microsoft Windows 7 Ultimate 32-bit",
+        "Office": "Microsoft Office Professional 2010",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M201dw",
+          "serial": "VNC3G 12236"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra DS2208",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-29T07:21:42",
+      "updatedAt": "2026-06-29T07:21:42"
     }
   ]
 }
