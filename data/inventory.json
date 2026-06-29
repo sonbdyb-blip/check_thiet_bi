@@ -10184,6 +10184,43 @@
       ],
       "createdAt": "2026-06-29T09:33:52",
       "updatedAt": "2026-06-29T09:33:52"
+    },
+    {
+      "id": "b66c26b2e0c34e489961a269d6b5979f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "321090",
+        "Tên Bưu cục": "BC Hệ 1 Yên Bái",
+        "Họ và tên người sử dụng": "Hoàng Thị Quyết",
+        "Mã HRM": "00065956",
+        "Bộ phận / Phòng ban": "Trung Tâm Vận Hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H610M H V3 DDR4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "15.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.35.12",
+        "MAC Address": "30:56:0F:53:3B:E9"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "Zebra DS2278",
+          "serial": "25164523704092"
+        }
+      ],
+      "createdAt": "2026-06-29T09:36:30",
+      "updatedAt": "2026-06-29T09:36:30"
     }
   ]
 }
