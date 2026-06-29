@@ -7568,6 +7568,53 @@
       ],
       "createdAt": "2026-06-29T03:26:10",
       "updatedAt": "2026-06-29T03:26:10"
+    },
+    {
+      "id": "fd2aca61a75f4bec823065ad4001fe27",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "330000",
+        "Tên Bưu cục": "GD Trung Tâm Lào Cai",
+        "Họ và tên người sử dụng": "Trần Thị Thu Hương",
+        "Mã HRM": "00228528",
+        "Bộ phận / Phòng ban": "Bưu điện phường Lào Cai",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-TPO-TT-CNBG",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "2ZX80T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22621",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.102.207",
+        "MAC Address": "B8:85:84:AA:FA:19"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": "NDMA307323"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "254LLE231130287"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra LI2278",
+          "serial": "1526000502330"
+        }
+      ],
+      "createdAt": "2026-06-29T03:29:14",
+      "updatedAt": "2026-06-29T03:29:14"
     }
   ]
 }
