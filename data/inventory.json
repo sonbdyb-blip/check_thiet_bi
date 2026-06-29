@@ -6030,6 +6030,43 @@
       ],
       "createdAt": "2026-06-29T01:39:54",
       "updatedAt": "2026-06-29T01:39:54"
+    },
+    {
+      "id": "495187682b724bf6832f9e96519e07a8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3216",
+        "Tên Xã": "Bưu điện xã Văn Chấn",
+        "Mã Bưu cục": "324701",
+        "Tên Bưu cục": "Bưu cục Văn phòng",
+        "Họ và tên người sử dụng": "Đinh Thị Thanh",
+        "Mã HRM": "00066397",
+        "Bộ phận / Phòng ban": "Phòng Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-VANCHAN-THAN",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop PC 570-p0xx",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV74805P6",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "3,9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18362",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.0.108",
+        "MAC Address": "98:22:EF:8B:A2:99"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": "L11121E"
+        }
+      ],
+      "createdAt": "2026-06-29T01:49:33",
+      "updatedAt": "2026-06-29T01:49:33"
     }
   ]
 }
