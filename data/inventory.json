@@ -9989,6 +9989,43 @@
       "attachments": [],
       "createdAt": "2026-06-29T09:19:27",
       "updatedAt": "2026-06-29T09:19:27"
+    },
+    {
+      "id": "015494ec35a4439693871d8fcd622a20",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "321980",
+        "Tên Bưu cục": "BCP Yên Bình",
+        "Họ và tên người sử dụng": "Thái Thị Hảo",
+        "Mã HRM": "00066124",
+        "Bộ phận / Phòng ban": "BCVH Yên Bình",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YENBINH-KSV",
+        "Loại máy": "Desktop",
+        "Hãng": "Intel",
+        "Model": "H610M4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "492 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.18",
+        "MAC Address": "00:E0:1B:33:E1:49"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M203d",
+          "serial": "VNP4D01907"
+        }
+      ],
+      "createdAt": "2026-06-29T09:25:17",
+      "updatedAt": "2026-06-29T09:25:17"
     }
   ]
 }
