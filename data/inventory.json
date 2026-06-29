@@ -10352,6 +10352,43 @@
       ],
       "createdAt": "2026-06-29T09:41:40",
       "updatedAt": "2026-06-29T09:41:40"
+    },
+    {
+      "id": "c88d7d8a390844df9698b7fd77a67c51",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "321090",
+        "Tên Xã": "BCVH Yen Bai - BCP Yen Bai",
+        "Mã Bưu cục": "321090",
+        "Tên Bưu cục": "BCVH Yen Bai - BCP Yen Bai",
+        "Họ và tên người sử dụng": "Dung chung",
+        "Mã HRM": "0",
+        "Bộ phận / Phòng ban": "BCP Yen Bai",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-TTKTVC-BCP",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop PC 570-p0xx",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV808066M",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.35.63",
+        "MAC Address": "80:CE:62:EC:E2:55"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP246dw",
+          "serial": "0"
+        }
+      ],
+      "createdAt": "2026-06-29T09:44:02",
+      "updatedAt": "2026-06-29T09:44:02"
     }
   ]
 }
