@@ -7864,35 +7864,41 @@
       "updatedAt": "2026-06-29T03:39:00"
     },
     {
-      "id": "dae7096e48f54a938d6df2db55e37c45",
+      "id": "083d189b0fb6483ea2fd8ccf582a15bf",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "330000",
-        "Tên Bưu cục": "GD Trung tâm Lào Cai",
-        "Họ và tên người sử dụng": "Trần Thị Thu Hương",
-        "Mã HRM": "00228528",
-        "Bộ phận / Phòng ban": "Bưu điện phường Lào Cai",
+        "Mã BĐ Xã": "3217",
+        "Tên Xã": "Phong Dụ Hạ- Dụ Thượng",
+        "Mã Bưu cục": "324560",
+        "Tên Bưu cục": "BC Dụ Thượng",
+        "Họ và tên người sử dụng": "Hoàng Thị Chỉ",
+        "Mã HRM": "00264119",
+        "Bộ phận / Phòng ban": "VHX Dụ Thượng",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "LCI-TPO-TT-BHXH",
+        "Tên máy (Hostname)": "04423_DUTHUONG2",
         "Loại máy": "Desktop",
-        "Hãng": "RealBom",
-        "Model": "RB-P101G",
+        "Hãng": "FPT Elead",
+        "Model": "PRIME H310M2 R2.0/FPT II",
         "Năm sản xuất": "",
-        "Serial Number": "P101GV6821181652",
-        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
         "RAM": "3.9 GB",
-        "Ổ cứng": "121 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
-        "Office": "Microsoft Office Office 64-bit Components 2010",
-        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
-        "IP Address": "10.19.102.189",
-        "MAC Address": "50:AF:73:38:21:5A"
+        "Ổ cứng": "932 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "FortiClient AntiVirus",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "F0:2F:74:81:E0:C5"
       },
-      "attachments": [],
-      "createdAt": "2026-06-29T03:31:58",
-      "updatedAt": "2026-06-29T03:31:58"
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Laser jet pro m203dn",
+          "serial": "VNC0851256"
+        }
+      ],
+      "createdAt": "2026-06-29T03:38:27",
+      "updatedAt": "2026-06-29T03:38:27"
     }
   ]
 }
