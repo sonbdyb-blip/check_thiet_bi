@@ -7716,6 +7716,37 @@
       "attachments": [],
       "createdAt": "2026-06-29T03:31:39",
       "updatedAt": "2026-06-29T03:31:39"
+    },
+    {
+      "id": "5b43555232d24907bc419f71493716df",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "322680",
+        "Tên Bưu cục": "BCP Lục Yên",
+        "Họ và tên người sử dụng": "Trần Thu Hà",
+        "Mã HRM": "00066334",
+        "Bộ phận / Phòng ban": "BCVH Lục Yên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-LUCYEN-HA",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "6WT8H32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Kaspersky Endpoint Security for Windows, 360 Total Security",
+        "IP Address": "192.168.1.13",
+        "MAC Address": "F8:BC:12:A5:7D:5F"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-29T03:32:33",
+      "updatedAt": "2026-06-29T03:32:33"
     }
   ]
 }
