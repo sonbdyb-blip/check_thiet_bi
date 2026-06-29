@@ -8756,6 +8756,48 @@
       ],
       "createdAt": "2026-06-29T07:33:26",
       "updatedAt": "2026-06-29T07:33:26"
+    },
+    {
+      "id": "cc8b5a76e2364090959417124fbabfb4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "336000",
+        "Tên Bưu cục": "TRẦN HƯNG ĐẠO",
+        "Họ và tên người sử dụng": "VŨ THỊ HẢI YẾN",
+        "Mã HRM": "00043400",
+        "Bộ phận / Phòng ban": "Bưu điện phường Cam Đường",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-BCTRANHUNGDAO",
+        "Loại máy": "DESKTOP",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Core 2 Quad CPU Q8200",
+        "RAM": "4 GB",
+        "Ổ cứng": "80 GB",
+        "Hệ điều hành": "Microsoft Windows 7 Ultimate 32-bit",
+        "Office": "Microsoft Office Professional 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": "MQCA583903"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol",
+          "serial": "ZDEF33"
+        }
+      ],
+      "createdAt": "2026-06-29T07:39:59",
+      "updatedAt": "2026-06-29T07:39:59"
     }
   ]
 }
