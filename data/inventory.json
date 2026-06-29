@@ -9212,6 +9212,37 @@
       "attachments": [],
       "createdAt": "2026-06-29T08:10:36",
       "updatedAt": "2026-06-29T08:10:36"
+    },
+    {
+      "id": "ce9755b45af548849671db7605375e2c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3337",
+        "Tên Xã": "Xã Bắc Hà",
+        "Mã Bưu cục": "331000",
+        "Tên Bưu cục": "Bắc Hà",
+        "Họ và tên người sử dụng": "Lê Thị Nhạn",
+        "Mã HRM": "00276933",
+        "Bộ phận / Phòng ban": "Tài Chính Và kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-BH-KTT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B1CS8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.119.221",
+        "MAC Address": "B8:85:84:AF:3A:09"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-29T08:11:55",
+      "updatedAt": "2026-06-29T08:11:55"
     }
   ]
 }
