@@ -8882,6 +8882,53 @@
       ],
       "createdAt": "2026-06-29T07:54:54",
       "updatedAt": "2026-06-29T07:54:54"
+    },
+    {
+      "id": "c218b49aba51426b9089182df9c0d559",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "321800",
+        "Tên Bưu cục": "Bưu cục KHL Yên Bái",
+        "Họ và tên người sử dụng": "Dùng chung",
+        "Mã HRM": "0",
+        "Bộ phận / Phòng ban": "Bưu cục vận hành Yên Bái",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KHL-VIETANH",
+        "Loại máy": "Desktop",
+        "Hãng": "Intel",
+        "Model": "H610M4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "477 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.26.35.116",
+        "MAC Address": "00:E0:1B:32:91:55"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANNON F161900",
+          "serial": "NEHA098420"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "XP-420B",
+          "serial": "S420BUH236211278"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS2278",
+          "serial": "21270523401047"
+        }
+      ],
+      "createdAt": "2026-06-29T07:55:08",
+      "updatedAt": "2026-06-29T07:55:08"
     }
   ]
 }
