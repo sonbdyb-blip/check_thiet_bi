@@ -5993,6 +5993,43 @@
       "attachments": [],
       "createdAt": "2026-06-29T01:37:15",
       "updatedAt": "2026-06-29T01:37:15"
+    },
+    {
+      "id": "5809f96e38db42219ec4513c8a602bf3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3216",
+        "Tên Xã": "Văn Chấn",
+        "Mã Bưu cục": "324701",
+        "Tên Bưu cục": "Văn Phòng",
+        "Họ và tên người sử dụng": "Hà Thu Huyền",
+        "Mã HRM": "00066399",
+        "Bộ phận / Phòng ban": "Kế Toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YBI-VANCHAN-HUY",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP EliteDesk 800 G6 Desktop Mini PC",
+        "Năm sản xuất": "2021",
+        "Serial Number": "8CC0451PJ0",
+        "CPU": "Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz",
+        "RAM": "7,8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.0.102",
+        "MAC Address": "34:C9:3D:A7:25:9C"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": "L11121E"
+        }
+      ],
+      "createdAt": "2026-06-29T01:39:54",
+      "updatedAt": "2026-06-29T01:39:54"
     }
   ]
 }
