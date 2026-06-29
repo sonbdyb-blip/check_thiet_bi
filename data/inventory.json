@@ -9621,6 +9621,43 @@
       "attachments": [],
       "createdAt": "2026-06-29T08:30:27",
       "updatedAt": "2026-06-29T08:30:27"
+    },
+    {
+      "id": "fdf089a3f5c946aebdb8d5fb5f7e9332",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Phòng TCKH",
+        "Họ và tên người sử dụng": "Nguyễn Thị Liên",
+        "Mã HRM": "00043069",
+        "Bộ phận / Phòng ban": "Phòng TCKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-TP-KT-YENLH",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H81M-DS2",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.231.14",
+        "MAC Address": "74:D4:35:59:55:47"
+      },
+      "attachments": [
+        {
+          "type": "scanner",
+          "name": "HP Scanjet Pro 300 S3",
+          "serial": "CN755B607C"
+        }
+      ],
+      "createdAt": "2026-06-29T08:26:40",
+      "updatedAt": "2026-06-29T08:26:40"
     }
   ]
 }
