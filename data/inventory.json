@@ -9890,6 +9890,43 @@
       ],
       "createdAt": "2026-06-29T09:02:03",
       "updatedAt": "2026-06-29T09:02:03"
+    },
+    {
+      "id": "e5be6e86e840452aada0ab73eb672f8f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3221",
+        "Tên Xã": "Đại Sơn",
+        "Mã Bưu cục": "324370",
+        "Tên Bưu cục": "Bưu điên xã Đại Sơn",
+        "Họ và tên người sử dụng": "Bàn Thị Phương",
+        "Mã HRM": "00066234",
+        "Bộ phận / Phòng ban": "Nhân viên kinh doanh tại điểm phục vụ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXDAISON",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B53S8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "120 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.21.134",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "LS2208-SR20001R-UR",
+          "serial": "Z49C56"
+        }
+      ],
+      "createdAt": "2026-06-29T09:14:30",
+      "updatedAt": "2026-06-29T09:14:30"
     }
   ]
 }
