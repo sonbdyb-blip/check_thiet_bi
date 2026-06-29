@@ -6911,6 +6911,58 @@
       ],
       "createdAt": "2026-06-29T02:56:48",
       "updatedAt": "2026-06-29T02:56:48"
+    },
+    {
+      "id": "ff8b39141ae74d36b6c5afbdd4fae1e1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "00225377",
+        "Tên Xã": "Xã Tú Lệ. Tỉnh Lào Cai",
+        "Mã Bưu cục": "00225377",
+        "Tên Bưu cục": "Bưu điện văn hóa xã Tú Lệ",
+        "Họ và tên người sử dụng": "Sùng A Già",
+        "Mã HRM": "00225377",
+        "Bộ phận / Phòng ban": "Giám đốc xã Tú Lệ",
+        "Mã vật tư": "0",
+        "Tên máy (Hostname)": "0",
+        "Loại máy": "0",
+        "Hãng": "0",
+        "Model": "0",
+        "Năm sản xuất": "0",
+        "Serial Number": "0",
+        "CPU": "0",
+        "RAM": "0",
+        "Ổ cứng": "0",
+        "Hệ điều hành": "0",
+        "Office": "0",
+        "Antivirus": "0",
+        "IP Address": "0",
+        "MAC Address": "0"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "1",
+          "serial": "0"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "1",
+          "serial": "0"
+        },
+        {
+          "type": "ups",
+          "name": "0",
+          "serial": "0"
+        }
+      ],
+      "createdAt": "2026-06-29T02:59:05",
+      "updatedAt": "2026-06-29T02:59:05"
     }
   ]
 }
