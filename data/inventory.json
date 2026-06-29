@@ -6591,6 +6591,43 @@
       ],
       "createdAt": "2026-06-29T02:30:40",
       "updatedAt": "2026-06-29T02:30:40"
+    },
+    {
+      "id": "1016f629347041639840fbaaf850ef22",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "330000",
+        "Tên Bưu cục": "GD Trung tâm Lào Cai",
+        "Họ và tên người sử dụng": "Trần Thị Hiền",
+        "Mã HRM": "00081764",
+        "Bộ phận / Phòng ban": "Bưu điện phường Lào Cai",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-TPO-TT-TKBD",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132DQ",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "118 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.102.220",
+        "MAC Address": "38:22:E2:18:95:6F"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M404dw",
+          "serial": "PHFYC00325"
+        }
+      ],
+      "createdAt": "2026-06-29T02:41:47",
+      "updatedAt": "2026-06-29T02:41:47"
     }
   ]
 }
