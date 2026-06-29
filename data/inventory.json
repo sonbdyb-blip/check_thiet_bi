@@ -7615,6 +7615,43 @@
       ],
       "createdAt": "2026-06-29T03:29:14",
       "updatedAt": "2026-06-29T03:29:14"
+    },
+    {
+      "id": "1005e4ce29b845318fd32278d5ae0488",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "322600",
+        "Tên Bưu cục": "Lục Yên",
+        "Họ và tên người sử dụng": "Lương Thị Bắc",
+        "Mã HRM": "00066066",
+        "Bộ phận / Phòng ban": "Giao Dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "PGD-LUCYEN",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SFS0FM00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM08HEYZ",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "1169 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.7",
+        "MAC Address": "88:AE:DD:5C:85:C4"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon2009",
+          "serial": "MGRA708983"
+        }
+      ],
+      "createdAt": "2026-06-29T03:28:48",
+      "updatedAt": "2026-06-29T03:28:48"
     }
   ]
 }
