@@ -10389,6 +10389,43 @@
       ],
       "createdAt": "2026-06-29T09:44:02",
       "updatedAt": "2026-06-29T09:44:02"
+    },
+    {
+      "id": "03d7c8d3067041d5bd83b1d734c84d02",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "333415",
+        "Tên Bưu cục": "BCP Trung Tâm",
+        "Họ và tên người sử dụng": "Hoàng Thị Vân",
+        "Mã HRM": "00043389",
+        "Bộ phận / Phòng ban": "Bưu cục Vận hành Lào Cai",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-BCVH3-TBC",
+        "Loại máy": "Laptop",
+        "Hãng": "HP",
+        "Model": "HP Notebook",
+        "Năm sản xuất": "",
+        "Serial Number": "CND5380VPB",
+        "CPU": "Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19041",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.108",
+        "MAC Address": "B0:5A:DA:9F:20:5C"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "zebra",
+          "serial": "DS22"
+        }
+      ],
+      "createdAt": "2026-06-29T09:44:31",
+      "updatedAt": "2026-06-29T09:44:31"
     }
   ]
 }
