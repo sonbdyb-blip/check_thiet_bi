@@ -9548,6 +9548,48 @@
       ],
       "createdAt": "2026-06-29T08:24:42",
       "updatedAt": "2026-06-29T08:24:42"
+    },
+    {
+      "id": "58ba93a7c2394573ad0d13f17548232a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "321800",
+        "Tên Bưu cục": "KHL Yên Bái",
+        "Họ và tên người sử dụng": "Lê Trang Thu",
+        "Mã HRM": "00107857",
+        "Bộ phận / Phòng ban": "Bưu cục vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-THANHPHO-KHL",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop PC 570-p0xx",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV8080DJS",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "1043 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.35.115",
+        "MAC Address": "80:CE:62:ED:24:D0"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "xprinter",
+          "serial": "S420BUH215030385"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL SBRE",
+          "serial": "Z44WDK"
+        }
+      ],
+      "createdAt": "2026-06-29T08:28:58",
+      "updatedAt": "2026-06-29T08:28:58"
     }
   ]
 }
