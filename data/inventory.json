@@ -6223,6 +6223,48 @@
       "attachments": [],
       "createdAt": "2026-06-29T02:02:20",
       "updatedAt": "2026-06-29T02:02:20"
+    },
+    {
+      "id": "1821404ae99f44788fad8d8f3e75b768",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "334850",
+        "Tên Bưu cục": "Bưu cục Vân Hành Văn Bàn",
+        "Họ và tên người sử dụng": "Hoàng Ngọc Huấn",
+        "Mã HRM": "00043220",
+        "Bộ phận / Phòng ban": "Bưu cục Vân Hành Văn Bàn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "dell",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "windows 10",
+        "Office": "ssd 120",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "zebra zd 6200",
+          "serial": "ZD62142-D0PF00EZ"
+        },
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-29T02:05:03",
+      "updatedAt": "2026-06-29T02:05:03"
     }
   ]
 }
