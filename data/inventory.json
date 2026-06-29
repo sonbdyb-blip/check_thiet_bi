@@ -6114,6 +6114,53 @@
       ],
       "createdAt": "2026-06-29T01:52:52",
       "updatedAt": "2026-06-29T01:52:52"
+    },
+    {
+      "id": "6288c405de4d4c0cb6e6f54f04dae61b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "325140",
+        "Tên Bưu cục": "325140",
+        "Họ và tên người sử dụng": "hoàng thị an",
+        "Mã HRM": "00066327",
+        "Bộ phận / Phòng ban": "nhân viên tại điêm phục vụ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXBINHTHUAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "BWHH8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "226 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.17",
+        "MAC Address": "18:66:DA:29:09:32"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "xprinter",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "laser jet pro m201 dw",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "honeywell",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-29T01:53:33",
+      "updatedAt": "2026-06-29T01:53:33"
     }
   ]
 }
