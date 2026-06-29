@@ -9774,6 +9774,38 @@
       ],
       "createdAt": "2026-06-29T08:48:14",
       "updatedAt": "2026-06-29T08:48:14"
+    },
+    {
+      "id": "3d6a2cbebd8b43358908fe5b7176f951",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "Lào Cai",
+        "Mã BĐ Xã": "324490",
+        "Tên Xã": "Viễn Sơn",
+        "Mã Bưu cục": "324490",
+        "Tên Bưu cục": "Viễn Sơn",
+        "Họ và tên người sử dụng": "Trần Thị Hương Giang",
+        "Mã HRM": "00066247",
+        "Bộ phận / Phòng ban": "VHX Viễn Sơn",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân Bàn",
+        "Hãng sản xuất": "",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "200254497",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-29T08:49:22",
+      "updatedAt": "2026-06-29T08:49:22"
     }
   ]
 }
