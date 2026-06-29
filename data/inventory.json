@@ -10268,6 +10268,48 @@
       ],
       "createdAt": "2026-06-29T09:38:28",
       "updatedAt": "2026-06-29T09:38:28"
+    },
+    {
+      "id": "43b610868e734bf78acef1bcd40f77f7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "321980",
+        "Tên Bưu cục": "BCP Yên Bình",
+        "Họ và tên người sử dụng": "Nguyễn Thị Loan",
+        "Mã HRM": "00268822",
+        "Bộ phận / Phòng ban": "BCP Yên Bình - XLNV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YENBINH-BCP2",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.16",
+        "MAC Address": "30:C5:99:5B:5F:DD"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON imageCLASS LBPb030",
+          "serial": "NTLA788389"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "MC 3003HRB",
+          "serial": "MC364601003878"
+        }
+      ],
+      "createdAt": "2026-06-29T09:40:55",
+      "updatedAt": "2026-06-29T09:40:55"
     }
   ]
 }
