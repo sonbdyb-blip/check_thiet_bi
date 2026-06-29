@@ -9806,6 +9806,48 @@
       "attachments": [],
       "createdAt": "2026-06-29T08:49:22",
       "updatedAt": "2026-06-29T08:49:22"
+    },
+    {
+      "id": "78bcba84f9374fdfa0f3b0f688f5df2e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3224",
+        "Tên Xã": "Mỏ Vàng",
+        "Mã Bưu cục": "325300",
+        "Tên Bưu cục": "BC An Lương",
+        "Họ và tên người sử dụng": "Lương Trọng Ngoạt",
+        "Mã HRM": "00066382",
+        "Bộ phận / Phòng ban": "VHX An Lương",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHX-ANLUONG",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9YMQ8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "241 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.150",
+        "MAC Address": "B8:85:84:AF:3A:2C"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP Laser jet pro M203d",
+          "serial": "VNP4D03578"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter 58-IIH",
+          "serial": "58IIHBU52124379"
+        }
+      ],
+      "createdAt": "2026-06-29T08:58:17",
+      "updatedAt": "2026-06-29T08:58:17"
     }
   ]
 }
