@@ -9013,6 +9013,53 @@
       ],
       "createdAt": "2026-06-29T08:00:54",
       "updatedAt": "2026-06-29T08:00:54"
+    },
+    {
+      "id": "ec7595888f3940b8b7ac9713943453d9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "322770",
+        "Tên Bưu cục": "VHX An Phú",
+        "Họ và tên người sử dụng": "Mã Thị Liên",
+        "Mã HRM": "00066097",
+        "Bộ phận / Phòng ban": "Nhân Viên VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H610M H V3 DDR4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "30:56:0F:1A:B4:EB"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": "NDMA115560"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "58IIHBU44112271"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": "sr20001r-ur"
+        }
+      ],
+      "createdAt": "2026-06-29T08:01:35",
+      "updatedAt": "2026-06-29T08:01:35"
     }
   ]
 }
