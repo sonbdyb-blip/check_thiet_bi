@@ -10630,6 +10630,48 @@
       "attachments": [],
       "createdAt": "2026-06-29T10:09:36",
       "updatedAt": "2026-06-29T10:09:36"
+    },
+    {
+      "id": "26c65a92e1f447e6aa6cd0f12d11f1bb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3221",
+        "Tên Xã": "Tân Hợp",
+        "Mã Bưu cục": "324150",
+        "Tên Bưu cục": "Bưu điện xã Tân Hợp",
+        "Họ và tên người sử dụng": "Vũ Thị Xuân",
+        "Mã HRM": "00278253",
+        "Bộ phận / Phòng ban": "nhân viên kinh doanh tại điểm phục vụ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXTANHOP",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7D22",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional 2016 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.21.123",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP",
+          "serial": "VNC5801330"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter 58IIH",
+          "serial": "58IIHBU24081963"
+        }
+      ],
+      "createdAt": "2026-06-29T10:20:47",
+      "updatedAt": "2026-06-29T10:20:47"
     }
   ]
 }
