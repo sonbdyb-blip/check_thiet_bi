@@ -8798,6 +8798,48 @@
       ],
       "createdAt": "2026-06-29T07:39:59",
       "updatedAt": "2026-06-29T07:39:59"
+    },
+    {
+      "id": "c86512d90b9644ba8e70a0e28daae961",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3255",
+        "Tên Xã": "Lâm Giang",
+        "Mã Bưu cục": "324230",
+        "Tên Bưu cục": "BC Lâm Giang",
+        "Họ và tên người sử dụng": "Đỗ Thị Ánh Nguyệt",
+        "Mã HRM": "00066221",
+        "Bộ phận / Phòng ban": "VHX Lâm Giang",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXLAMGIANG",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B03S8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows, 360 Total Security",
+        "IP Address": "10.200.21.128",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP Laser jet P2035",
+          "serial": "VNC3717249"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter- 58IIH",
+          "serial": "58IIHBU11160221"
+        }
+      ],
+      "createdAt": "2026-06-29T07:47:23",
+      "updatedAt": "2026-06-29T07:47:23"
     }
   ]
 }
