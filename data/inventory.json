@@ -9400,6 +9400,38 @@
       ],
       "createdAt": "2026-06-29T08:18:29",
       "updatedAt": "2026-06-29T08:18:29"
+    },
+    {
+      "id": "5d9a26f4397e42d8beb63813223e7950",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "Lào Cai",
+        "Mã BĐ Xã": "324330",
+        "Tên Xã": "An Thịnh",
+        "Mã Bưu cục": "324330",
+        "Tên Bưu cục": "An Thịnh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hà",
+        "Mã HRM": "00095023",
+        "Bộ phận / Phòng ban": "VHX An Thịnh",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân Bàn",
+        "Hãng sản xuất": "",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "200253312",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "Hỏng",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-29T08:19:39",
+      "updatedAt": "2026-06-29T08:19:39"
     }
   ]
 }
