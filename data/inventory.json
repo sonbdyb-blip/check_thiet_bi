@@ -9958,6 +9958,37 @@
       "attachments": [],
       "createdAt": "2026-06-29T09:16:49",
       "updatedAt": "2026-06-29T09:16:49"
+    },
+    {
+      "id": "9ad62a4945564d3a88c6cd48a89a6bde",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "TRUNG TÂM KINH DOANH",
+        "Họ và tên người sử dụng": "HOÀNG THỊ KIM TUYẾN",
+        "Mã HRM": "00268527",
+        "Bộ phận / Phòng ban": "TRUNG TÂM KINH DOANH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TUYẾN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B12CH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.26.32.77",
+        "MAC Address": "64:00:6A:01:E3:CA"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-29T09:19:27",
+      "updatedAt": "2026-06-29T09:19:27"
     }
   ]
 }
