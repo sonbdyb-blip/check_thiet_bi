@@ -8057,6 +8057,48 @@
       ],
       "createdAt": "2026-06-29T03:48:56",
       "updatedAt": "2026-06-29T03:48:56"
+    },
+    {
+      "id": "a2e1747ac3f94833b19fdb17ef98282d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3257",
+        "Tên Xã": "Lục Yên",
+        "Mã Bưu cục": "322680",
+        "Tên Bưu cục": "BCP Lục Yên",
+        "Họ và tên người sử dụng": "Hoàng Trung Kiên",
+        "Mã HRM": "00236000",
+        "Bộ phận / Phòng ban": "BC Vận Hành Lục Yên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KTLUCYEN",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP EliteDesk 800 G6 Desktop Mini PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC0451PGZ",
+        "CPU": "Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.63",
+        "MAC Address": "F8:0D:AC:2B:A8:39"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "RP411",
+          "serial": "A4110100060023"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZOZO",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-29T03:46:37",
+      "updatedAt": "2026-06-29T03:46:37"
     }
   ]
 }
