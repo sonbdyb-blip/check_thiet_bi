@@ -7531,6 +7531,43 @@
       "attachments": [],
       "createdAt": "2026-06-29T03:24:15",
       "updatedAt": "2026-06-29T03:24:15"
+    },
+    {
+      "id": "bbe2199f937444d58836682c71c8c5b2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "324200",
+        "Tên Xã": "Bưu Điện Quang Minh",
+        "Mã Bưu cục": "324200",
+        "Tên Bưu cục": "Bưu Điện Quang Minh - BĐ Đông Cuông",
+        "Họ và tên người sử dụng": "Nguyễn Thị Tố Uyên",
+        "Mã HRM": "00267279",
+        "Bộ phận / Phòng ban": "Nhân viên kinh doanh tại điểm phục vụ BĐ Quang Minh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXQUANGMINH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "BD4W8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.14",
+        "MAC Address": "B8:85:84:AF:51:1E"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": "không còn nữa do mất tem dán"
+        }
+      ],
+      "createdAt": "2026-06-29T03:26:10",
+      "updatedAt": "2026-06-29T03:26:10"
     }
   ]
 }
