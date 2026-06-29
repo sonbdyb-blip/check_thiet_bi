@@ -9590,6 +9590,37 @@
       ],
       "createdAt": "2026-06-29T08:28:58",
       "updatedAt": "2026-06-29T08:28:58"
+    },
+    {
+      "id": "87a068a61721404db8b85dcac4e4a0dc",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "xã Mậu A",
+        "Mã Bưu cục": "324100",
+        "Tên Bưu cục": "Bưu cục văn phòng",
+        "Họ và tên người sử dụng": "Nguyễn Thị Linh",
+        "Mã HRM": "00066255",
+        "Bộ phận / Phòng ban": "Kế toán địa bàn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VANYEN-LINHKT",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop PC 570-p0xx",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV81709RX",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "1163 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.26",
+        "MAC Address": "80:CE:62:EF:9F:48"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-29T08:30:27",
+      "updatedAt": "2026-06-29T08:30:27"
     }
   ]
 }
