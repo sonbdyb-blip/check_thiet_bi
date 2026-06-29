@@ -8971,6 +8971,48 @@
       ],
       "createdAt": "2026-06-29T08:00:21",
       "updatedAt": "2026-06-29T08:00:21"
+    },
+    {
+      "id": "f53088cd40214a089dcb31c6c8e1fced",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "321800",
+        "Tên Bưu cục": "Bưu cục KHL Yên Bái",
+        "Họ và tên người sử dụng": "Vũ Thành Minh",
+        "Mã HRM": "00118168",
+        "Bộ phận / Phòng ban": "BC Vận hành Yên Bái",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-THANHPHO-TMD",
+        "Loại máy": "Desktop",
+        "Hãng": "Winnfox",
+        "Model": "H81",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G3250 @ 3.20GHz",
+        "RAM": "1.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.17763",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.35.212",
+        "MAC Address": "00:E0:26:1D:20:F7"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XP-420B",
+          "serial": "S420BUH21A090471"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS2278",
+          "serial": "22131523419554"
+        }
+      ],
+      "createdAt": "2026-06-29T08:00:54",
+      "updatedAt": "2026-06-29T08:00:54"
     }
   ]
 }
