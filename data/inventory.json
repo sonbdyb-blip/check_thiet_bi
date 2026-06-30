@@ -14459,6 +14459,53 @@
       ],
       "createdAt": "2026-06-30T07:43:37",
       "updatedAt": "2026-06-30T07:43:37"
+    },
+    {
+      "id": "47c359b950c348bb961ae8b734abfa82",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "324880",
+        "Tên Xã": "BƯU ĐIỆN XÃ PHÚC SƠN",
+        "Mã Bưu cục": "324880",
+        "Tên Bưu cục": "BƯU ĐIỆN XÃ PHÚC SƠN",
+        "Họ và tên người sử dụng": "LƯỜNG THỊ TRANG",
+        "Mã HRM": "00271741",
+        "Bộ phận / Phòng ban": "NHÂM VIÊN GHÉP PHÁT XÃ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXPHUCSON",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP EliteDesk 800 G6 Desktop Mini PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC0451PHF",
+        "CPU": "Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.21.157",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LASERJETP2035T",
+          "serial": "VNC3717957"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620-XPRINTER",
+          "serial": "D3J204203381-USB58IIHBU2C030612"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": "Z44W1U"
+        }
+      ],
+      "createdAt": "2026-06-30T07:47:03",
+      "updatedAt": "2026-06-30T07:47:03"
     }
   ]
 }
