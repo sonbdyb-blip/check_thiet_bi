@@ -12105,6 +12105,48 @@
       ],
       "createdAt": "2026-06-30T02:00:39",
       "updatedAt": "2026-06-30T02:00:39"
+    },
+    {
+      "id": "3b46066a7b7a4537b5d5c926b8f0ac34",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "320100",
+        "Tên Xã": "",
+        "Mã Bưu cục": "320100",
+        "Tên Bưu cục": "BƯU CỤC KHAI THÁC TRUNG TÂM TỈNH 1",
+        "Họ và tên người sử dụng": "DÙNG CHUNG",
+        "Mã HRM": "0",
+        "Bộ phận / Phòng ban": "BƯU CỤC KHAI THÁC TRUNG TÂM TỈNH 1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-KTT-09",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Slim Desktop S01-pF2xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE334B659",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.35.30",
+        "MAC Address": "E0:73:E7:BA:88:5A"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER",
+          "serial": "S480BUW23B270141"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRADS22",
+          "serial": "25164523703872"
+        }
+      ],
+      "createdAt": "2026-06-30T02:02:46",
+      "updatedAt": "2026-06-30T02:02:46"
     }
   ]
 }
