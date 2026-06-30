@@ -15109,6 +15109,48 @@
       ],
       "createdAt": "2026-06-30T09:23:28",
       "updatedAt": "2026-06-30T09:23:28"
+    },
+    {
+      "id": "a976deaceb944abda2604a0478edfb46",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "323840",
+        "Tên Bưu cục": "VHX Hưng Thịnh",
+        "Họ và tên người sử dụng": "Hà Thị Dung",
+        "Mã HRM": "000000",
+        "Bộ phận / Phòng ban": "kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHX_HUNGTHINH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "41C81H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.21",
+        "MAC Address": "48:4D:7E:DB:7C:7C"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T09:27:11",
+      "updatedAt": "2026-06-30T09:27:11"
     }
   ]
 }
