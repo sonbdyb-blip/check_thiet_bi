@@ -15645,6 +15645,37 @@
       "attachments": [],
       "createdAt": "2026-06-30T09:54:44",
       "updatedAt": "2026-06-30T09:54:44"
+    },
+    {
+      "id": "6dca223c01ec422695a664ad4149d2c7",
+      "category": "4B. Máy In Nhiệt",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "Lào Cai",
+        "Mã BĐ Xã": "3222",
+        "Tên Xã": "Mậu A",
+        "Mã Bưu cục": "324000",
+        "Tên Bưu cục": "Mậu A",
+        "Họ và tên người sử dụng": "Phạm Thanh Hường",
+        "Mã HRM": "00277870",
+        "Bộ phận / Phòng ban": "Giao Dịch",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Máy In Nhiệt",
+        "Khổ giấy": "",
+        "Hãng": "Xprinter",
+        "Model": "XP- 420B",
+        "Năm sản xuất": "",
+        "Serial Number": "420BUE21B220383",
+        "Kết nối": "",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T09:56:38",
+      "updatedAt": "2026-06-30T09:56:38"
     }
   ]
 }
