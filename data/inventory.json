@@ -15802,6 +15802,43 @@
       ],
       "createdAt": "2026-06-30T10:08:56",
       "updatedAt": "2026-06-30T10:08:56"
+    },
+    {
+      "id": "55286b06c36a45a1a4cc89ba6a8fe072",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "003337",
+        "Tên Xã": "bắc hà",
+        "Mã Bưu cục": "331000",
+        "Tên Bưu cục": "bưu cục bắc hà",
+        "Họ và tên người sử dụng": "TRẦN VĂN LƯƠNG",
+        "Mã HRM": "00276565",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN XÃ BẮC HÀ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-BHA-TT-BCCP",
+        "Loại máy": "Desktop",
+        "Hãng": "OEM",
+        "Model": "OEM",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Celeron CPU G1630",
+        "RAM": "4 GB",
+        "Ổ cứng": "250 GB",
+        "Hệ điều hành": "Microsoft Windows 7 Ultimate 32-bit",
+        "Office": "Microsoft Office 2007",
+        "Antivirus": "Microsoft Office Professional Plus 2016",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS2208",
+          "serial": "0"
+        }
+      ],
+      "createdAt": "2026-06-30T10:10:18",
+      "updatedAt": "2026-06-30T10:10:18"
     }
   ]
 }
