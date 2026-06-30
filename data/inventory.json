@@ -15676,6 +15676,53 @@
       "attachments": [],
       "createdAt": "2026-06-30T09:56:38",
       "updatedAt": "2026-06-30T09:56:38"
+    },
+    {
+      "id": "5cdb370c5b7c41c3bf1159f69735af3e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3257",
+        "Tên Xã": "Lục Yên",
+        "Mã Bưu cục": "322630",
+        "Tên Bưu cục": "VHX Yên Thắng",
+        "Họ và tên người sử dụng": "Hoàng Thị Thu Dung",
+        "Mã HRM": "00234263",
+        "Bộ phận / Phòng ban": "BĐVH Xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXYENTHANG",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "BVNM8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.13",
+        "MAC Address": "18:66:DA:29:0E:59"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "camon2900",
+          "serial": "NDMA858525"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "gprinter",
+          "serial": "S-A170720A1595"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T10:01:12",
+      "updatedAt": "2026-06-30T10:01:12"
     }
   ]
 }
