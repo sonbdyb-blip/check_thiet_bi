@@ -13763,6 +13763,53 @@
       ],
       "createdAt": "2026-06-30T03:25:51",
       "updatedAt": "2026-06-30T03:25:51"
+    },
+    {
+      "id": "e0ac982b3fcd471e97556f7f7d187b62",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3235",
+        "Tên Xã": "Bưu điện xã Bảo Ái",
+        "Mã Bưu cục": "322350",
+        "Tên Bưu cục": "Bưu cục Cảm Ân",
+        "Họ và tên người sử dụng": "Trần Thị Bích",
+        "Mã HRM": "00065983",
+        "Bộ phận / Phòng ban": "GDV BC Cảm Ân",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "CAMAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3060",
+        "Năm sản xuất": "",
+        "Serial Number": "9WPBNX2",
+        "CPU": "Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "E4:54:E8:4F:CB:23"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symon",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T03:28:17",
+      "updatedAt": "2026-06-30T03:28:17"
     }
   ]
 }
