@@ -14590,6 +14590,48 @@
       ],
       "createdAt": "2026-06-30T07:58:31",
       "updatedAt": "2026-06-30T07:58:31"
+    },
+    {
+      "id": "f165a3411e7d4367b357c7fb8ba129b9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "325760",
+        "Tên Bưu cục": "văn hóa xã nghĩa phúc",
+        "Họ và tên người sử dụng": "đinh thị hiếu",
+        "Mã HRM": "00110589",
+        "Bộ phận / Phòng ban": "vhx nghĩa phúc",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXNGHIAPHUC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3070",
+        "Năm sản xuất": "",
+        "Serial Number": "3F8H643",
+        "CPU": "Intel(R) Core(TM) i5-9500T CPU @ 2.20GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "612 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.10",
+        "MAC Address": "A4:BB:6D:B4:13:95"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON2900",
+          "serial": "L11121E"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEYWEL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T07:59:09",
+      "updatedAt": "2026-06-30T07:59:09"
     }
   ]
 }
