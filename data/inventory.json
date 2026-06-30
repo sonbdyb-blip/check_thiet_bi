@@ -13653,6 +13653,37 @@
       ],
       "createdAt": "2026-06-30T03:14:53",
       "updatedAt": "2026-06-30T03:14:53"
+    },
+    {
+      "id": "06c35988cd82435692960ae1f72bf6bd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3235",
+        "Tên Xã": "Bưu điện xã Bảo Ái",
+        "Mã Bưu cục": "322400",
+        "Tên Bưu cục": "VHX Tân Nguyên",
+        "Họ và tên người sử dụng": "Vi Anh Nghĩa",
+        "Mã HRM": "00117868",
+        "Bộ phận / Phòng ban": "NV VHX 2",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-YENBINH-TANN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3XJ91H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "18:66:DA:22:BB:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T03:23:36",
+      "updatedAt": "2026-06-30T03:23:36"
     }
   ]
 }
