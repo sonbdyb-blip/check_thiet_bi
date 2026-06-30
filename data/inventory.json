@@ -11706,6 +11706,43 @@
       ],
       "createdAt": "2026-06-30T01:40:36",
       "updatedAt": "2026-06-30T01:40:36"
+    },
+    {
+      "id": "81b9a13e449941e3a683c4f1311481e9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3224",
+        "Tên Xã": "Mỏ Vàng",
+        "Mã Bưu cục": "324400",
+        "Tên Bưu cục": "Mỏ Vàng",
+        "Họ và tên người sử dụng": "Lý Tòn Rất",
+        "Mã HRM": "00275898",
+        "Bộ phận / Phòng ban": "VHX Mỏ Vàng",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHX-MOVANG",
+        "Loại máy": "Desktop",
+        "Hãng": "FPT Elead",
+        "Model": "PRIME H310M2 R2.0/FPT II",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "933 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro for Workstations 10.0.16299",
+        "Office": "Microsoft Office Standard 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.10",
+        "MAC Address": "F0:2F:74:81:DC:C4"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP Laser Jet Pro 4003d",
+          "serial": "PHMWP08715"
+        }
+      ],
+      "createdAt": "2026-06-30T01:41:39",
+      "updatedAt": "2026-06-30T01:41:39"
     }
   ]
 }
