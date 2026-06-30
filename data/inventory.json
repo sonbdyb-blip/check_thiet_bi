@@ -12221,6 +12221,37 @@
       ],
       "createdAt": "2026-06-30T02:06:19",
       "updatedAt": "2026-06-30T02:06:19"
+    },
+    {
+      "id": "3b9243bc8a3a467781b4ec614557bbf9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3257",
+        "Tên Xã": "Xã Lục Yên",
+        "Mã Bưu cục": "3226",
+        "Tên Bưu cục": "Bưu Cục Lục Yên",
+        "Họ và tên người sử dụng": "Đinh Ngọc Lâm",
+        "Mã HRM": "00071394",
+        "Bộ phận / Phòng ban": "Bộ Phận giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LUCYEN-LINH",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "1154 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.10",
+        "MAC Address": "74:56:3C:2D:A8:94"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T02:07:29",
+      "updatedAt": "2026-06-30T02:07:29"
     }
   ]
 }
