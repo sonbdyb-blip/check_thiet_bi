@@ -15187,6 +15187,53 @@
       ],
       "createdAt": "2026-06-30T09:28:21",
       "updatedAt": "2026-06-30T09:28:21"
+    },
+    {
+      "id": "fbcbdb80fc0c4c9cbcadbae419184a51",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3334",
+        "Tên Xã": "TTVH Lào Cai",
+        "Mã Bưu cục": "333546",
+        "Tên Bưu cục": "TMĐT Lào Cai",
+        "Họ và tên người sử dụng": "Lâm Thị Chinh",
+        "Mã HRM": "00249487",
+        "Bộ phận / Phòng ban": "BC TMĐT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-TPO-TMDT02",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3VS21H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "457 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19041",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.106.142",
+        "MAC Address": "48:4D:7E:DB:87:5B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Honeywell",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T09:28:37",
+      "updatedAt": "2026-06-30T09:28:37"
     }
   ]
 }
