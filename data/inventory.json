@@ -15140,6 +15140,53 @@
       "attachments": [],
       "createdAt": "2026-06-30T09:27:14",
       "updatedAt": "2026-06-30T09:27:14"
+    },
+    {
+      "id": "59c48785a0274a908156de6c8334519d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "322060",
+        "Tên Bưu cục": "VHX YÊN BÌNH",
+        "Họ và tên người sử dụng": "Phan Thị Thanh Minh",
+        "Mã HRM": "0006014",
+        "Bộ phận / Phòng ban": "Bưu Điện vhx Yên Bình",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "máy tính",
+        "Loại máy": "PROVISION",
+        "Hãng": "Made in china",
+        "Model": "PV191",
+        "Năm sản xuất": "2010",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "BWCK8F2",
+        "Hệ điều hành": "25900622750",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": "20160816"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "hp M201",
+          "serial": "CF456A"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "PÓ58",
+          "serial": "167090"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Antech",
+          "serial": "1280"
+        }
+      ],
+      "createdAt": "2026-06-30T09:28:21",
+      "updatedAt": "2026-06-30T09:28:21"
     }
   ]
 }
