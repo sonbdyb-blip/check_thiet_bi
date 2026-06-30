@@ -11553,6 +11553,38 @@
       ],
       "createdAt": "2026-06-30T01:18:54",
       "updatedAt": "2026-06-30T01:18:54"
+    },
+    {
+      "id": "9ad08b751d084ab79eeb704e45d0773b",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "333470",
+        "Tên Bưu cục": "Bưu cục Cốc Lếu",
+        "Họ và tên người sử dụng": "Vũ Thị Hồng",
+        "Mã HRM": "00106405",
+        "Bộ phận / Phòng ban": "Bưu điện phường Lào Cai",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T01:25:35",
+      "updatedAt": "2026-06-30T01:25:35"
     }
   ]
 }
