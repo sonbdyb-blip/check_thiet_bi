@@ -13218,6 +13218,48 @@
       ],
       "createdAt": "2026-06-30T03:00:33",
       "updatedAt": "2026-06-30T03:00:33"
+    },
+    {
+      "id": "40faf192cee54e8aa11800d48cdbedd6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3235",
+        "Tên Xã": "Bưu điện Bảo Ái",
+        "Mã Bưu cục": "322370",
+        "Tên Bưu cục": "VHX Bảo Ái 2",
+        "Họ và tên người sử dụng": "Vũ Khắc Dũng",
+        "Mã HRM": "00276472",
+        "Bộ phận / Phòng ban": "NV VHX 2",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-FOLBL1U",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B50T8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "110 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, 360 Total Security",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "B8:85:84:B0:FB:93"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "4006139828/ 2365684685"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "honeywell",
+          "serial": "16257B451A"
+        }
+      ],
+      "createdAt": "2026-06-30T03:01:54",
+      "updatedAt": "2026-06-30T03:01:54"
     }
   ]
 }
