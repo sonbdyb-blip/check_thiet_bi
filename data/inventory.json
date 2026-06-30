@@ -13606,6 +13606,53 @@
       ],
       "createdAt": "2026-06-30T03:13:51",
       "updatedAt": "2026-06-30T03:13:51"
+    },
+    {
+      "id": "6a28afba0eb243e9b2b2ac1a7e58f255",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3237",
+        "Tên Xã": "BĐ Phường Yên Bái",
+        "Mã Bưu cục": "321501",
+        "Tên Bưu cục": "Yên Hoà",
+        "Họ và tên người sử dụng": "Trịnh Thị Quỳnh Ngọc",
+        "Mã HRM": "00268364",
+        "Bộ phận / Phòng ban": "Yên Hoà- Quầy BCCP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B0ZDH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "8 GB",
+        "Ổ cứng": "226 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.26.32.102",
+        "MAC Address": "64:00:6A:01:E6:70"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Máy in A4 Canon 2900",
+          "serial": "MQCA526893"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Zebra ZD620",
+          "serial": "D3J183400383"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol-LS2208",
+          "serial": "Z0FGM0"
+        }
+      ],
+      "createdAt": "2026-06-30T03:14:53",
+      "updatedAt": "2026-06-30T03:14:53"
     }
   ]
 }
