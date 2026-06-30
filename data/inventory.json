@@ -13438,6 +13438,53 @@
       ],
       "createdAt": "2026-06-30T03:07:20",
       "updatedAt": "2026-06-30T03:07:20"
+    },
+    {
+      "id": "19d1f2b540544e858ec825787244e4d7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "324420",
+        "Tên Xã": "Yên Hợp",
+        "Mã Bưu cục": "324420",
+        "Tên Bưu cục": "Yên Hợp",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thu Hường",
+        "Mã HRM": "00072864",
+        "Bộ phận / Phòng ban": "VHX Yên Hợp",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHX-YENHOP",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "BWFM8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "5.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.21.137",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2009",
+          "serial": "NMYA907313"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "58IIHBU3B171826"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Honeywell",
+          "serial": "3K19372890"
+        }
+      ],
+      "createdAt": "2026-06-30T03:08:03",
+      "updatedAt": "2026-06-30T03:08:03"
     }
   ]
 }
