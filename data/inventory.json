@@ -12184,6 +12184,43 @@
       ],
       "createdAt": "2026-06-30T02:03:29",
       "updatedAt": "2026-06-30T02:03:29"
+    },
+    {
+      "id": "5de83881257f496a8931ad9691b6dbc0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "320100",
+        "Tên Xã": "BƯU CỤC KHAI THÁC TRUNG TÂM 1",
+        "Mã Bưu cục": "320100",
+        "Tên Bưu cục": "BƯU CỤC KHAI THÁC TRUNG TÂM 1",
+        "Họ và tên người sử dụng": "DÙNG CHUNG",
+        "Mã HRM": "0",
+        "Bộ phận / Phòng ban": "BƯU CỤC KHAI THÁC TRUNG TÂM 1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KTT005",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Slim Desktop S01-pF2xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE334B63G",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22621",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.26.35.29",
+        "MAC Address": "E0:73:E7:BA:89:D2"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRADS22",
+          "serial": "22197523415947"
+        }
+      ],
+      "createdAt": "2026-06-30T02:06:19",
+      "updatedAt": "2026-06-30T02:06:19"
     }
   ]
 }
