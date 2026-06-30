@@ -12147,6 +12147,43 @@
       ],
       "createdAt": "2026-06-30T02:02:46",
       "updatedAt": "2026-06-30T02:02:46"
+    },
+    {
+      "id": "33f0d6a617e843c3b49e7edeff45c449",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Động Quan",
+        "Mã Bưu cục": "323070",
+        "Tên Bưu cục": "VHX Đông Quan",
+        "Họ và tên người sử dụng": "Vũ Thị Hằng",
+        "Mã HRM": "00095037",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DELL",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T02:03:29",
+      "updatedAt": "2026-06-30T02:03:29"
     }
   ]
 }
