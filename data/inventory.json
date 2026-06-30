@@ -15339,6 +15339,38 @@
       ],
       "createdAt": "2026-06-30T09:41:58",
       "updatedAt": "2026-06-30T09:41:58"
+    },
+    {
+      "id": "553cd972ad674bc99a9c3fd525528172",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "Lào Cai",
+        "Mã BĐ Xã": "3222",
+        "Tên Xã": "Mậu A",
+        "Mã Bưu cục": "324000",
+        "Tên Bưu cục": "Mậu A",
+        "Họ và tên người sử dụng": "Nguyễn Thanh Huyền",
+        "Mã HRM": "00066260",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân Điện Tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân bưu kiện",
+        "Hãng sản xuất": "CAS PR-II",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "",
+        "Serial Number": "200253517",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "Bình thường",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T09:42:16",
+      "updatedAt": "2026-06-30T09:42:16"
     }
   ]
 }
