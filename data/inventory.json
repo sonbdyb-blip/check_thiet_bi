@@ -13684,6 +13684,43 @@
       "attachments": [],
       "createdAt": "2026-06-30T03:23:36",
       "updatedAt": "2026-06-30T03:23:36"
+    },
+    {
+      "id": "f5482bc06c6a4ddf8796ef1318e331df",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3229",
+        "Tên Bưu cục": "323100",
+        "Họ và tên người sử dụng": "Hoàng Thị Duyên",
+        "Mã HRM": "00102072",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXPHUCLOI",
+        "Loại máy": "Desktop",
+        "Hãng": "To be filled by O.E.M.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i5-2500 CPU @ 3.30GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "585 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.11",
+        "MAC Address": "00:E0:4D:A3:CA:1F"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T03:23:47",
+      "updatedAt": "2026-06-30T03:23:47"
     }
   ]
 }
