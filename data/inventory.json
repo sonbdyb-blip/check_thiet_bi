@@ -11391,6 +11391,37 @@
       "attachments": [],
       "createdAt": "2026-06-30T00:51:40",
       "updatedAt": "2026-06-30T00:51:40"
+    },
+    {
+      "id": "16383f558b67413fb6a19d6955833382",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "33",
+        "Tên Bưu cục": "Trung tâm kinh doanh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thu Phương",
+        "Mã HRM": "00043047",
+        "Bộ phận / Phòng ban": "Trung tâm kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "WINDOWS-10",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Latitude 3460",
+        "Năm sản xuất": "",
+        "Serial Number": "5MWS3C2",
+        "CPU": "Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "216 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn - vi-vn",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.110.129",
+        "MAC Address": "58:FB:84:06:F7:5C"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T00:54:02",
+      "updatedAt": "2026-06-30T00:54:02"
     }
   ]
 }
