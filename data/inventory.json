@@ -11229,6 +11229,53 @@
       "attachments": [],
       "createdAt": "2026-06-29T14:05:30",
       "updatedAt": "2026-06-29T14:05:30"
+    },
+    {
+      "id": "6df798fd3feb4244a26d23bba7501fa1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "325665",
+        "Tên Bưu cục": "KHL-NGHĨA LỘ",
+        "Họ và tên người sử dụng": "NGUYỄN VĂN KHÁNH",
+        "Mã HRM": "00214518",
+        "Bộ phận / Phòng ban": "KHL",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "NGHIALO-TKBD2",
+        "Loại máy": "Desktop",
+        "Hãng": "Intel",
+        "Model": "H610M4",
+        "Năm sản xuất": "2023",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "478 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.9",
+        "MAC Address": "00:E0:1B:30:90:50"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": "L11121E"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "BTP2200E"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "voyager",
+          "serial": "3K18432276"
+        }
+      ],
+      "createdAt": "2026-06-30T00:28:47",
+      "updatedAt": "2026-06-30T00:28:47"
     }
   ]
 }
