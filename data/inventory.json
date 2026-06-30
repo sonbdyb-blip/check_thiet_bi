@@ -12325,6 +12325,48 @@
       ],
       "createdAt": "2026-06-30T02:10:43",
       "updatedAt": "2026-06-30T02:10:43"
+    },
+    {
+      "id": "84d669db33f44291ac311322b3d9595e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "320100",
+        "Tên Xã": "BƯU CỤC KHAI THÁC TRUNG TÂM 1",
+        "Mã Bưu cục": "320100",
+        "Tên Bưu cục": "BƯU CỤC KHAI THÁC TRUNG TÂM 1",
+        "Họ và tên người sử dụng": "DÙNG CHUNG",
+        "Mã HRM": "0",
+        "Bộ phận / Phòng ban": "BƯU CỤC KHAI THÁC TRUNG TÂM 1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-KTT-07",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "G0V8H32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.35.18",
+        "MAC Address": "F8:BC:12:A2:D8:05"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER",
+          "serial": "S480BUW23A160070"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRADS22",
+          "serial": "21273523400436"
+        }
+      ],
+      "createdAt": "2026-06-30T02:14:08",
+      "updatedAt": "2026-06-30T02:14:08"
     }
   ]
 }
