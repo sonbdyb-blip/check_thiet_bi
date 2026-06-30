@@ -13260,6 +13260,53 @@
       ],
       "createdAt": "2026-06-30T03:01:54",
       "updatedAt": "2026-06-30T03:01:54"
+    },
+    {
+      "id": "53c803da54bb4328a3526006efc2f435",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "320100",
+        "Tên Xã": "",
+        "Mã Bưu cục": "320100",
+        "Tên Bưu cục": "BƯU CỤC KHAI THÁC TRUNG TÂM TỈNH 1",
+        "Họ và tên người sử dụng": "DÙNG CHUNG",
+        "Mã HRM": "0",
+        "Bộ phận / Phòng ban": "BƯU CỤC KHAI THÁC TRUNG TÂM TỈNH 1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-KTT-01",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H610M H V2 DDR4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "1154 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.137",
+        "MAC Address": "74:56:3C:8E:4F:EE"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER",
+          "serial": "422B2604030861"
+        },
+        {
+          "type": "photocopier",
+          "name": "CANNON LBP246DW",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "IMARCONE",
+          "serial": "MC383706667"
+        }
+      ],
+      "createdAt": "2026-06-30T03:02:55",
+      "updatedAt": "2026-06-30T03:02:55"
     }
   ]
 }
