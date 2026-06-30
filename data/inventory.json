@@ -15371,6 +15371,53 @@
       "attachments": [],
       "createdAt": "2026-06-30T09:42:16",
       "updatedAt": "2026-06-30T09:42:16"
+    },
+    {
+      "id": "231b618362c341dabfa745e260f9146a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3237",
+        "Tên Xã": "BĐ Phường Yên Bái",
+        "Mã Bưu cục": "321501",
+        "Tên Bưu cục": "Yên Hoà",
+        "Họ và tên người sử dụng": "Nguyễn Thanh Thuỷ",
+        "Mã HRM": "00066074",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YENHOA",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "BBHM862",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "226 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.26.32.101",
+        "MAC Address": "64:00:6A:07:42:CC"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon-LBP233dw",
+          "serial": "NYHA216823"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "RONGTA-RP411",
+          "serial": "A4110100060018"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol LS2208",
+          "serial": "Z025CL"
+        }
+      ],
+      "createdAt": "2026-06-30T09:43:55",
+      "updatedAt": "2026-06-30T09:43:55"
     }
   ]
 }
