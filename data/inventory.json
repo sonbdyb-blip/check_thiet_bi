@@ -15218,6 +15218,43 @@
       "attachments": [],
       "createdAt": "2026-06-30T09:28:40",
       "updatedAt": "2026-06-30T09:28:40"
+    },
+    {
+      "id": "7709b5a378f14f9aaf22f99c93b37dc8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "323810",
+        "Tên Bưu cục": "VHX Hồng Ca",
+        "Họ và tên người sử dụng": "Hà Thị Minh Thúy",
+        "Mã HRM": "00253270",
+        "Bộ phận / Phòng ban": "Kinh Doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHX_HONGCA",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B4VP8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "B8:85:84:B1:01:8D"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T09:34:29",
+      "updatedAt": "2026-06-30T09:34:29"
     }
   ]
 }
