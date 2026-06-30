@@ -14182,6 +14182,43 @@
       ],
       "createdAt": "2026-06-30T04:21:10",
       "updatedAt": "2026-06-30T04:21:10"
+    },
+    {
+      "id": "7fbc4cc504bb4a2e9c7720a3b606f3ef",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "325601",
+        "Tên Bưu cục": "BC Văn Phòng",
+        "Họ và tên người sử dụng": "Cao Thị Vi",
+        "Mã HRM": "00066427",
+        "Bộ phận / Phòng ban": "BC Văn Phòng",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "NGHIALO-KHL",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "BCYQ8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "229 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.102",
+        "MAC Address": "B8:85:84:B1:4A:21"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon2900",
+          "serial": "L11121E"
+        }
+      ],
+      "createdAt": "2026-06-30T04:34:24",
+      "updatedAt": "2026-06-30T04:34:24"
     }
   ]
 }
