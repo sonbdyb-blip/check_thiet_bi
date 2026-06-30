@@ -12808,6 +12808,48 @@
       "attachments": [],
       "createdAt": "2026-06-30T02:45:00",
       "updatedAt": "2026-06-30T02:45:00"
+    },
+    {
+      "id": "a9e1eb09fa0b4d9ea68683627e042d5d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu điện xã Tằng Loỏng",
+        "Mã Bưu cục": "334260",
+        "Tên Bưu cục": "Bưu điện VHX Phú Nhuận",
+        "Họ và tên người sử dụng": "Công Thị Trang",
+        "Mã HRM": "00276412",
+        "Bộ phận / Phòng ban": "Bưu điện cụm Bảo Thắng - Văn Bàn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-BT-PHUNHUAN",
+        "Loại máy": "Để bàn",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3V1B1H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "467 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.93.48",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP laser Jet M201",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA ds22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T02:47:03",
+      "updatedAt": "2026-06-30T02:47:03"
     }
   ]
 }
