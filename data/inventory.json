@@ -12252,6 +12252,37 @@
       "attachments": [],
       "createdAt": "2026-06-30T02:07:29",
       "updatedAt": "2026-06-30T02:07:29"
+    },
+    {
+      "id": "46d1de7f9415462ab8f304977c32d309",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu điện xã Hạnh Phúc",
+        "Mã Bưu cục": "325900",
+        "Tên Bưu cục": "Bưu cục Trạm Tấu",
+        "Họ và tên người sử dụng": "Vũ Quỳnh Trang",
+        "Mã HRM": "00066453",
+        "Bộ phận / Phòng ban": "Giám đốc xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-TRAMTAU-TRAN",
+        "Loại máy": "Desktop",
+        "Hãng": "FPT Elead",
+        "Model": "PRIME H310M2 R2.0/FPT II",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "3,9 GB",
+        "Ổ cứng": "1042 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "F0:2F:74:81:D8:2D"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T02:09:29",
+      "updatedAt": "2026-06-30T02:09:29"
     }
   ]
 }
