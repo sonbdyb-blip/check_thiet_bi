@@ -11979,6 +11979,48 @@
       "attachments": [],
       "createdAt": "2026-06-30T01:53:29",
       "updatedAt": "2026-06-30T01:53:29"
+    },
+    {
+      "id": "f977eb68a8cb431aa04a83a6181296a3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "335070",
+        "Tên Bưu cục": "VHX Khánh Yên Hạ",
+        "Họ và tên người sử dụng": "Hoàng Thị Thiệp",
+        "Mã HRM": "0043237",
+        "Bộ phận / Phòng ban": "Bưu điện khu vực Bảo Thắng - Văn Bàn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-VBN-KYH-B01",
+        "Loại máy": "MÁY TÍNH BÀN",
+        "Hãng": "HP",
+        "Model": "V90 MONITOR",
+        "Năm sản xuất": "2019",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": "L11121E"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEYWELE",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T01:58:15",
+      "updatedAt": "2026-06-30T01:58:15"
     }
   ]
 }
