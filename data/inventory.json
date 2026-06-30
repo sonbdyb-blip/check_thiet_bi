@@ -13097,6 +13097,43 @@
       ],
       "createdAt": "2026-06-30T02:56:26",
       "updatedAt": "2026-06-30T02:56:26"
+    },
+    {
+      "id": "f0cbe4dfb302478fa6a8db3240949c42",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "326601",
+        "Tên Bưu cục": "Văn phòng  BĐX MCC",
+        "Họ và tên người sử dụng": "Trần Thị Thúy Vân",
+        "Mã HRM": "00066563",
+        "Bộ phận / Phòng ban": "TK-TQ BĐXMCC/ phòng tài chính kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "MCCVAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Intel",
+        "Model": "H610M Plus",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "1164 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.63",
+        "MAC Address": "7C:8B:CA:08:09:C6"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP Laserjet Pro M201dw",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T02:57:08",
+      "updatedAt": "2026-06-30T02:57:08"
     }
   ]
 }
