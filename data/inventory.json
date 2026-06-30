@@ -14700,6 +14700,53 @@
       ],
       "createdAt": "2026-06-30T08:04:07",
       "updatedAt": "2026-06-30T08:04:07"
+    },
+    {
+      "id": "f5446b8dda60497e8b2f72817c086371",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "324860",
+        "Tên Bưu cục": "VHX Hạnh Sơn",
+        "Họ và tên người sử dụng": "Phạm Thị Hồng Lan",
+        "Mã HRM": "00241980",
+        "Bộ phận / Phòng ban": "Bưu Điện VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXHANHSON",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "10:7C:61:3E:7D:43"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": "L11121E"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "XP -58IIH"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Honeywell",
+          "serial": "3k19372871"
+        }
+      ],
+      "createdAt": "2026-06-30T08:29:04",
+      "updatedAt": "2026-06-30T08:29:04"
     }
   ]
 }
