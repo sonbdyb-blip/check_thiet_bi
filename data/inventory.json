@@ -11469,6 +11469,53 @@
       ],
       "createdAt": "2026-06-30T01:07:45",
       "updatedAt": "2026-06-30T01:07:45"
+    },
+    {
+      "id": "7458ffd3447146a592eb6e37e2e8f577",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu điện xã Hạnh Phúc",
+        "Mã Bưu cục": "325900",
+        "Tên Bưu cục": "Bưu cục Trạm Tấu",
+        "Họ và tên người sử dụng": "Đàm Chí Cung",
+        "Mã HRM": "00088391",
+        "Bộ phận / Phòng ban": "Nhân viên kinh doanh tại điểm phục vụ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-TRAMTAU-CUNG",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP EliteDesk 800 G6 Desktop Mini PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC1300VG2",
+        "CPU": "Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz",
+        "RAM": "7,8 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.9",
+        "MAC Address": "F4:4E:E3:9F:1A:B9"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Máy in CANON 2900",
+          "serial": "NMYA540487"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter 420B",
+          "serial": "S420BUH232040423"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZOZO",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T01:12:31",
+      "updatedAt": "2026-06-30T01:12:31"
     }
   ]
 }
