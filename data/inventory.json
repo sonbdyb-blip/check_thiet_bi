@@ -14088,6 +14088,53 @@
       ],
       "createdAt": "2026-06-30T03:59:50",
       "updatedAt": "2026-06-30T03:59:50"
+    },
+    {
+      "id": "4f2eaafc2ec04bb3b04594fc86fad1de",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3218",
+        "Tên Xã": "BĐX Châu Quế",
+        "Mã Bưu cục": "324290",
+        "Tên Bưu cục": "VXH Quế Thượng",
+        "Họ và tên người sử dụng": "Đoàn Thị Hương",
+        "Mã HRM": "00066258",
+        "Bộ phận / Phòng ban": "VHX Quế Thượng",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "CHAUQUETHUONG",
+        "Loại máy": "Desktop",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Pentium - G3420",
+        "RAM": "4GB",
+        "Ổ cứng": "128 GB",
+        "Hệ điều hành": "Windows 7",
+        "Office": "Microsoft Office 2010",
+        "Antivirus": "",
+        "IP Address": "10.26.30.57",
+        "MAC Address": "00-e0-4c-c8-12-ee"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LazerJet 4002",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter-GP5893XIII",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Honeywell",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T04:10:22",
+      "updatedAt": "2026-06-30T04:10:22"
     }
   ]
 }
