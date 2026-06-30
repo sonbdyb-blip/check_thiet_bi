@@ -14663,6 +14663,43 @@
       "attachments": [],
       "createdAt": "2026-06-30T07:59:58",
       "updatedAt": "2026-06-30T07:59:58"
+    },
+    {
+      "id": "cf4f5cd7032a46d78067b7fa808e925c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "321990",
+        "Tên Bưu cục": "Bưu cục Cát Lem",
+        "Họ và tên người sử dụng": "Vũ Thị Thu Hiền",
+        "Mã HRM": "00100334",
+        "Bộ phận / Phòng ban": "Cát Lem",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-7DG8A0O",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3060",
+        "Năm sản xuất": "",
+        "Serial Number": "9WNFNX2",
+        "CPU": "Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro N 10.0.22631",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.104",
+        "MAC Address": "E4:54:E8:4F:C1:1C"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XP420B-U",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T08:04:07",
+      "updatedAt": "2026-06-30T08:04:07"
     }
   ]
 }
