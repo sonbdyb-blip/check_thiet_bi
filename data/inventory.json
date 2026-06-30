@@ -12404,6 +12404,53 @@
       ],
       "createdAt": "2026-06-30T02:17:42",
       "updatedAt": "2026-06-30T02:17:42"
+    },
+    {
+      "id": "729cb4e080974fd8a887fc6b5b7e3423",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3223",
+        "Tên Xã": "Xuân Ái",
+        "Mã Bưu cục": "324360",
+        "Tên Bưu cục": "Đại Phác",
+        "Họ và tên người sử dụng": "Hà Thị Lệ",
+        "Mã HRM": "00272114",
+        "Bộ phận / Phòng ban": "VHX Đại Phác",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXDAIPHAC",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 600 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH432QD4T",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "1.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.14",
+        "MAC Address": "C4:34:6B:4F:2B:3A"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2009",
+          "serial": "NMYA212980"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Gprinter",
+          "serial": "S-A1070727A2255"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol",
+          "serial": "Z48MAM"
+        }
+      ],
+      "createdAt": "2026-06-30T02:20:57",
+      "updatedAt": "2026-06-30T02:20:57"
     }
   ]
 }
