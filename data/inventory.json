@@ -14051,6 +14051,43 @@
       ],
       "createdAt": "2026-06-30T03:46:52",
       "updatedAt": "2026-06-30T03:46:52"
+    },
+    {
+      "id": "cf7a73dae16948168bc37b7566b247e7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "325210",
+        "Tên Bưu cục": "VHX LIÊN SƠN",
+        "Họ và tên người sử dụng": "NGUYỄN ĐỨC LỘC",
+        "Mã HRM": "00265519",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-VHXLIENSON",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3YN61H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "48:4D:7E:DB:7F:D2"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "LASERJET PRO M201 DW",
+          "serial": "VNC3G13966"
+        }
+      ],
+      "createdAt": "2026-06-30T03:59:50",
+      "updatedAt": "2026-06-30T03:59:50"
     }
   ]
 }
