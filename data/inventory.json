@@ -11422,6 +11422,53 @@
       "attachments": [],
       "createdAt": "2026-06-30T00:54:02",
       "updatedAt": "2026-06-30T00:54:02"
+    },
+    {
+      "id": "5114f8d08ed34f5091300c30bc7f9089",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "321300",
+        "Tên Bưu cục": "VHX TÂN THỊNH",
+        "Họ và tên người sử dụng": "Lương Thị Thọ",
+        "Mã HRM": "00066117",
+        "Bộ phận / Phòng ban": "VHX Tân Thịnh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 600 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH432QFBB",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "C4:34:6B:4F:8D:2B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "HP",
+          "serial": "VNC3308696"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "honeywell",
+          "serial": "s/n3k18140850"
+        }
+      ],
+      "createdAt": "2026-06-30T01:07:45",
+      "updatedAt": "2026-06-30T01:07:45"
     }
   ]
 }
