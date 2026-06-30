@@ -12850,6 +12850,48 @@
       ],
       "createdAt": "2026-06-30T02:47:03",
       "updatedAt": "2026-06-30T02:47:03"
+    },
+    {
+      "id": "0351e9a8ac1146ff9f92417d1f47b278",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "320100",
+        "Tên Bưu cục": "KT cấp 1 Yên Bái",
+        "Họ và tên người sử dụng": "DÙNG CHUNG",
+        "Mã HRM": "0",
+        "Bộ phận / Phòng ban": "TRUNG TÂM VẬN HÀNH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-KTT-BCP02",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Slim Desktop S01-pF2xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE334B674",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22621",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.35.23",
+        "MAC Address": "E0:73:E7:BA:88:AF"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER XP-420B",
+          "serial": "420BUE21B220758"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS2278",
+          "serial": "26164523T04132"
+        }
+      ],
+      "createdAt": "2026-06-30T02:48:38",
+      "updatedAt": "2026-06-30T02:48:38"
     }
   ]
 }
