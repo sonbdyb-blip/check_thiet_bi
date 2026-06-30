@@ -13980,46 +13980,35 @@
       "updatedAt": "2026-06-30T03:41:53"
     },
     {
-      "id": "db7d2875aada40f29ded4f6839f6ba6b",
+      "id": "b9ee23960a8d49a2b76fafef05a80b38",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "323120",
-        "Tên Bưu cục": "VHX Trung Tâm",
-        "Họ và tên người sử dụng": "LA HẢi YẾN",
-        "Mã HRM": "00274643",
-        "Bộ phận / Phòng ban": "VHX",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "VHXTRUNGTAM",
-        "Loại máy": "Desktop",
-        "Hãng": "System manufacturer",
-        "Model": "System Product Name",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "System Serial Number",
-        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
-        "RAM": "7.9 GB",
-        "Ổ cứng": "239 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
-        "Office": "Microsoft Office Office 64-bit Components 2007",
-        "Antivirus": "Windows Defender",
-        "IP Address": "192.168.1.7",
-        "MAC Address": "4C:ED:FB:74:1F:FC"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "thermal_printer",
-          "name": "",
-          "serial": ""
-        },
-        {
-          "type": "barcode_reader",
-          "name": "",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-30T03:43:32",
-      "updatedAt": "2026-06-30T03:43:32"
+      "attachments": [],
+      "createdAt": "2026-06-30T03:43:34",
+      "updatedAt": "2026-06-30T03:43:34"
     }
   ]
 }
