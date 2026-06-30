@@ -11827,6 +11827,43 @@
       ],
       "createdAt": "2026-06-30T01:45:20",
       "updatedAt": "2026-06-30T01:45:20"
+    },
+    {
+      "id": "6c4e018c32584a95a0664d460baeef27",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu điện xã Hạnh Phúc",
+        "Mã Bưu cục": "325900",
+        "Tên Bưu cục": "Bưu cục Trạm Tấu",
+        "Họ và tên người sử dụng": "Vũ Quỳnh Trang",
+        "Mã HRM": "00066453",
+        "Bộ phận / Phòng ban": "Giám đốc xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BCTT-M4",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP EliteDesk 800 G6 Desktop Mini PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC1300VF3",
+        "CPU": "Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz",
+        "RAM": "7,8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.7",
+        "MAC Address": "F4:4E:E3:C4:04:87"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "PDIT PD422U",
+          "serial": "264CUB255190002"
+        }
+      ],
+      "createdAt": "2026-06-30T01:47:20",
+      "updatedAt": "2026-06-30T01:47:20"
     }
   ]
 }
