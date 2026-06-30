@@ -12021,6 +12021,48 @@
       ],
       "createdAt": "2026-06-30T01:58:15",
       "updatedAt": "2026-06-30T01:58:15"
+    },
+    {
+      "id": "b853510c440b4c259489a41dd812e93c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "320100",
+        "Tên Xã": "",
+        "Mã Bưu cục": "320100",
+        "Tên Bưu cục": "BƯU CỤC KHAI THÁC TRUNG TÂM TỈNH 1",
+        "Họ và tên người sử dụng": "DÙNG CHUNG",
+        "Mã HRM": "0",
+        "Bộ phận / Phòng ban": "BƯU CỤC KHAI THÁC TRUNG TÂM TỈNH 1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-KTT-03",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP EliteDesk 800 G6 Desktop Mini PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC1300VHC",
+        "CPU": "Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.35.22",
+        "MAC Address": "48:9E:BD:4F:F1:38"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA GK420D",
+          "serial": "28J131000138"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRADS22",
+          "serial": "22139523414788"
+        }
+      ],
+      "createdAt": "2026-06-30T01:59:16",
+      "updatedAt": "2026-06-30T01:59:16"
     }
   ]
 }
