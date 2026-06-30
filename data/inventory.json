@@ -11585,6 +11585,43 @@
       "attachments": [],
       "createdAt": "2026-06-30T01:25:35",
       "updatedAt": "2026-06-30T01:25:35"
+    },
+    {
+      "id": "ae3b2814582d470bbfce7131f9ee45fb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "334960",
+        "Tên Bưu cục": "VHX Liêm Phú",
+        "Họ và tên người sử dụng": "Hoàng Thị Thiết",
+        "Mã HRM": "0043240",
+        "Bộ phận / Phòng ban": "Bưu điện khu vực Bảo Thắng - Văn Bàn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-17PCGTM",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "2YYB0T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "B8:85:84:AB:12:76"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": "L11121E"
+        }
+      ],
+      "createdAt": "2026-06-30T01:29:35",
+      "updatedAt": "2026-06-30T01:29:35"
     }
   ]
 }
