@@ -15255,6 +15255,53 @@
       ],
       "createdAt": "2026-06-30T09:34:29",
       "updatedAt": "2026-06-30T09:34:29"
+    },
+    {
+      "id": "8b95b8b2e48c47f598729abe987f5d17",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3222",
+        "Tên Xã": "Mậu A",
+        "Mã Bưu cục": "324000",
+        "Tên Bưu cục": "Mậu A",
+        "Họ và tên người sử dụng": "Nguyễn Thanh Huyền",
+        "Mã HRM": "00066260",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HUYENBD",
+        "Loại máy": "Desktop",
+        "Hãng": "ECS",
+        "Model": "B560H6-M22",
+        "Năm sản xuất": "",
+        "Serial Number": "00000000",
+        "CPU": "11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.147",
+        "MAC Address": "1C:69:7A:D3:C2:36"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": "NMAA864475"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter- 58IIH",
+          "serial": "58IIHBU49110323"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZOZO (Không dây )",
+          "serial": "243563041"
+        }
+      ],
+      "createdAt": "2026-06-30T09:37:09",
+      "updatedAt": "2026-06-30T09:37:09"
     }
   ]
 }
