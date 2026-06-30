@@ -15025,6 +15025,43 @@
       ],
       "createdAt": "2026-06-30T09:19:53",
       "updatedAt": "2026-06-30T09:19:53"
+    },
+    {
+      "id": "25d8567006684e7a984b22d57a8ef942",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "323700",
+        "Tên Bưu cục": "VHX VIỆT CƯỜNG",
+        "Họ và tên người sử dụng": "HÀ THỊ YẾN",
+        "Mã HRM": "00266572",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXVIETCUONG",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "1156 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "E8:9C:25:27:FB:C3"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Laser Jet M201dw",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T09:22:42",
+      "updatedAt": "2026-06-30T09:22:42"
     }
   ]
 }
