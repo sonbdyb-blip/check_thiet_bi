@@ -12283,6 +12283,48 @@
       "attachments": [],
       "createdAt": "2026-06-30T02:09:29",
       "updatedAt": "2026-06-30T02:09:29"
+    },
+    {
+      "id": "846c679cc509414b982b3fe5e9ee8bac",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "320100",
+        "Tên Xã": "BƯU CỤC KHAI THÁC TRUNG TÂM TỈNH 1",
+        "Mã Bưu cục": "320100",
+        "Tên Bưu cục": "BƯU CỤC KHAI THÁC TRUNG TÂM TỈNH 1",
+        "Họ và tên người sử dụng": "DÙNG CHUNG",
+        "Mã HRM": "0",
+        "Bộ phận / Phòng ban": "BƯU CỤC KHAI THÁC TRUNG TÂM TỈNH 1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-KTT-05",
+        "Loại máy": "Desktop",
+        "Hãng": "Intel",
+        "Model": "H610M4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "477 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.35.17",
+        "MAC Address": "00:E0:1B:32:91:4C"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER",
+          "serial": "420BUE21B220757"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRADS22",
+          "serial": "22127523422611"
+        }
+      ],
+      "createdAt": "2026-06-30T02:10:43",
+      "updatedAt": "2026-06-30T02:10:43"
     }
   ]
 }
