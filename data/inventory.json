@@ -14747,6 +14747,48 @@
       ],
       "createdAt": "2026-06-30T08:29:04",
       "updatedAt": "2026-06-30T08:29:04"
+    },
+    {
+      "id": "47dfb5cdb606485c9b5d918b59fcec6d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "336078",
+        "Tên Bưu cục": "VHX Cam Đường",
+        "Họ và tên người sử dụng": "La Thị Huyện",
+        "Mã HRM": "00229884",
+        "Bộ phận / Phòng ban": "VHX Cam Đường",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-TPO-CDG",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "2 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 7 Ultimate",
+        "Office": "Microsoft Office Professional 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.93.172",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M203",
+          "serial": "VNP4D02505"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Honeywell",
+          "serial": "17074B"
+        }
+      ],
+      "createdAt": "2026-06-30T08:37:10",
+      "updatedAt": "2026-06-30T08:37:10"
     }
   ]
 }
