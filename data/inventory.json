@@ -13176,6 +13176,48 @@
       ],
       "createdAt": "2026-06-30T02:57:51",
       "updatedAt": "2026-06-30T02:57:51"
+    },
+    {
+      "id": "d5545d8091884376b8838dfbce975812",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3227",
+        "Tên Xã": "Lâm Thượng",
+        "Mã Bưu cục": "322860",
+        "Tên Bưu cục": "VHX Khánh Thiện",
+        "Họ và tên người sử dụng": "Nông Thị Thơ",
+        "Mã HRM": "00066107",
+        "Bộ phận / Phòng ban": "xã Lâm Thượng",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXKHANHTHIEN",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP EliteDesk 800 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "JPA4440VRZ",
+        "CPU": "Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "933 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "FortiClient AntiVirus",
+        "IP Address": "192.168.1.7",
+        "MAC Address": "C4:34:6B:7A:A0:0E"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "4006139828"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol",
+          "serial": "28MAR23"
+        }
+      ],
+      "createdAt": "2026-06-30T03:00:33",
+      "updatedAt": "2026-06-30T03:00:33"
     }
   ]
 }
