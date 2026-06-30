@@ -11948,6 +11948,48 @@
       ],
       "createdAt": "2026-06-30T01:51:17",
       "updatedAt": "2026-06-30T01:51:17"
+    },
+    {
+      "id": "4ce6917f0e744e85837d90ea03a6d842",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "320100",
+        "Tên Xã": "BƯU CỤC TRUNG TÂM KHAI THÁC TỈNH 1",
+        "Mã Bưu cục": "320100",
+        "Tên Bưu cục": "BƯU CỤC TRUNG TÂM KHAI THÁC TỈNH 1",
+        "Họ và tên người sử dụng": "DÙNG CHUNG",
+        "Mã HRM": "0",
+        "Bộ phận / Phòng ban": "BƯU CỤC TRUNG TÂM KHAI THÁC TỈNH 1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-KTT-02",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3070",
+        "Năm sản xuất": "",
+        "Serial Number": "3F1J643",
+        "CPU": "Intel(R) Core(TM) i5-9500T CPU @ 2.20GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.35.25",
+        "MAC Address": "A4:BB:6D:B4:14:45"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER",
+          "serial": "420BUE21B220228"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRADS22",
+          "serial": "22127523422940"
+        }
+      ],
+      "createdAt": "2026-06-30T01:53:27",
+      "updatedAt": "2026-06-30T01:53:27"
     }
   ]
 }
