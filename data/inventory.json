@@ -12063,6 +12063,48 @@
       ],
       "createdAt": "2026-06-30T01:59:16",
       "updatedAt": "2026-06-30T01:59:16"
+    },
+    {
+      "id": "83ef020c8343464ba254d6d60b43df3e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "320100",
+        "Tên Xã": "BƯU CỤC KHAI THÁC TRUNG TÂM TỈNH 1",
+        "Mã Bưu cục": "320100",
+        "Tên Bưu cục": "BƯU CỤC KHAI THÁC TRUNG TÂM TỈNH 1",
+        "Họ và tên người sử dụng": "DÙNG CHUNG",
+        "Mã HRM": "0",
+        "Bộ phận / Phòng ban": "BƯU CỤC KHAI THÁC TRUNG TÂM TỈNH 1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KTT-KDN",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H610M H V2 DDR4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "1154 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.35.21",
+        "MAC Address": "74:56:3C:8E:4F:E7"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER",
+          "serial": "S480BUW23A260005"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRADS22",
+          "serial": "22127523422747"
+        }
+      ],
+      "createdAt": "2026-06-30T02:00:39",
+      "updatedAt": "2026-06-30T02:00:39"
     }
   ]
 }
