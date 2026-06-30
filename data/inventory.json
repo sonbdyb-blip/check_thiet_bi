@@ -11622,6 +11622,48 @@
       ],
       "createdAt": "2026-06-30T01:29:35",
       "updatedAt": "2026-06-30T01:29:35"
+    },
+    {
+      "id": "26a17ec4501b45329b09cc25d1f1d98d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu điện xã Hạnh Phúc",
+        "Mã Bưu cục": "325900",
+        "Tên Bưu cục": "Bưu cục Trạm Tấu",
+        "Họ và tên người sử dụng": "Nguyễn Văn Khánh",
+        "Mã HRM": "00214518",
+        "Bộ phận / Phòng ban": "Nhân viên kinh doanh tại điểm phục vụ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "GDTRAMTAU1",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP EliteDesk 800 G6 Desktop Mini PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC0451PKH",
+        "CPU": "Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Anti‑Virus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "F8:0D:AC:2B:A1:0D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Máy in Canon 2900",
+          "serial": "NMYA694315"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": "22127523423913"
+        }
+      ],
+      "createdAt": "2026-06-30T01:32:05",
+      "updatedAt": "2026-06-30T01:32:05"
     }
   ]
 }
