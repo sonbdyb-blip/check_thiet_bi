@@ -14548,6 +14548,48 @@
       ],
       "createdAt": "2026-06-30T07:55:50",
       "updatedAt": "2026-06-30T07:55:50"
+    },
+    {
+      "id": "5ef645515bf6415cb9cb4ed300678cc1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "324090",
+        "Tên Xã": "Yên Thái",
+        "Mã Bưu cục": "324090",
+        "Tên Bưu cục": "Yên Thái (Yên Thái cũ)",
+        "Họ và tên người sử dụng": "Trần Thị Mơ",
+        "Mã HRM": "00270758",
+        "Bộ phận / Phòng ban": "VHX Yên Thái",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-MOC9GUO",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B2RQ8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19041",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "B8:85:84:B1:2B:A9"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Gprinter",
+          "serial": "S-A170720A0071"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol (đầu đọc mã vạch có dây)",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T07:58:31",
+      "updatedAt": "2026-06-30T07:58:31"
     }
   ]
 }
