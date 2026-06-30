@@ -15460,6 +15460,37 @@
       ],
       "createdAt": "2026-06-30T09:44:41",
       "updatedAt": "2026-06-30T09:44:41"
+    },
+    {
+      "id": "26ff532e07924ca5badcf22fecc91d85",
+      "category": "4B. Máy In Nhiệt",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "Lào Cai",
+        "Mã BĐ Xã": "3222",
+        "Tên Xã": "Mậu A",
+        "Mã Bưu cục": "324000",
+        "Tên Bưu cục": "Mậu A",
+        "Họ và tên người sử dụng": "Nguyễn Thanh Huyền",
+        "Mã HRM": "00066260",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Máy in nhiệt",
+        "Khổ giấy": "",
+        "Hãng": "PDIT",
+        "Model": "PD422U",
+        "Năm sản xuất": "",
+        "Serial Number": "264CUB255190052",
+        "Kết nối": "",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T09:44:58",
+      "updatedAt": "2026-06-30T09:44:58"
     }
   ]
 }
