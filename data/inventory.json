@@ -13899,6 +13899,43 @@
       ],
       "createdAt": "2026-06-30T03:34:26",
       "updatedAt": "2026-06-30T03:34:26"
+    },
+    {
+      "id": "c026345dc2cf469f997db404810ab15e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "333720",
+        "Tên Bưu cục": "BCVH CAM ĐƯỜNG",
+        "Họ và tên người sử dụng": "LƯỜNG  THỊ THỦ",
+        "Mã HRM": "00043776",
+        "Bộ phận / Phòng ban": "BCP CAM ĐƯỜNG",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "PRODISPLAY P191",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "2900",
+          "serial": "0"
+        }
+      ],
+      "createdAt": "2026-06-30T03:36:56",
+      "updatedAt": "2026-06-30T03:36:56"
     }
   ]
 }
