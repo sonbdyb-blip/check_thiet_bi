@@ -13936,6 +13936,48 @@
       ],
       "createdAt": "2026-06-30T03:36:56",
       "updatedAt": "2026-06-30T03:36:56"
+    },
+    {
+      "id": "03d62f2062db4afeb2745a2637aa8787",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3227",
+        "Tên Xã": "Tân Lĩnh",
+        "Mã Bưu cục": "322800",
+        "Tên Bưu cục": "VHX Tân Lập",
+        "Họ và tên người sử dụng": "Triệu Thị KHoá",
+        "Mã HRM": "00098766",
+        "Bộ phận / Phòng ban": "Tân Lĩnh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXTANLAP",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "B3NN8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.13",
+        "MAC Address": "B8:85:84:AF:41:07"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Grinter",
+          "serial": "V14N11AIQ"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol",
+          "serial": "Z49C4P"
+        }
+      ],
+      "createdAt": "2026-06-30T03:41:53",
+      "updatedAt": "2026-06-30T03:41:53"
     }
   ]
 }
