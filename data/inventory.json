@@ -12730,6 +12730,53 @@
       ],
       "createdAt": "2026-06-30T02:41:32",
       "updatedAt": "2026-06-30T02:41:32"
+    },
+    {
+      "id": "1ef45461496245728da890c9351db677",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3235",
+        "Tên Xã": "Bưu điện xã Bảo Ái",
+        "Mã Bưu cục": "322370",
+        "Tên Bưu cục": "VHX Bảo Ái",
+        "Họ và tên người sử dụng": "Nông Thị Loan",
+        "Mã HRM": "00065989",
+        "Bộ phận / Phòng ban": "NV VHX Bảo Ái",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXBAOAI",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3WX91H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.21",
+        "MAC Address": "48:4D:7E:D7:87:81"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Cannon LBP 2900",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "4006139828/2365684685"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "imarcone",
+          "serial": "mc383706655"
+        }
+      ],
+      "createdAt": "2026-06-30T02:42:56",
+      "updatedAt": "2026-06-30T02:42:56"
     }
   ]
 }
