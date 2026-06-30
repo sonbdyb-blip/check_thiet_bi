@@ -16002,6 +16002,43 @@
       ],
       "createdAt": "2026-06-30T10:37:00",
       "updatedAt": "2026-06-30T10:37:00"
+    },
+    {
+      "id": "506a8b68b125430fbcc5a5dfb57a019c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3214",
+        "Tên Xã": "Xã Chấn Thịnh",
+        "Mã Bưu cục": "325070",
+        "Tên Bưu cục": "BC Mỵ",
+        "Họ và tên người sử dụng": "Hoàng Thị Huyền",
+        "Mã HRM": "00066291",
+        "Bộ phận / Phòng ban": "giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BCMY",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821180385",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.10",
+        "MAC Address": "50:AF:73:38:1D:94"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "honeywell",
+          "serial": "3k18141248"
+        }
+      ],
+      "createdAt": "2026-06-30T10:13:32",
+      "updatedAt": "2026-06-30T10:13:32"
     }
   ]
 }
