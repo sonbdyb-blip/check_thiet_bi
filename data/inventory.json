@@ -12971,6 +12971,48 @@
       "attachments": [],
       "createdAt": "2026-06-30T02:57:40",
       "updatedAt": "2026-06-30T02:57:40"
+    },
+    {
+      "id": "68106ee69d004c6ea24ca72ae3a3178c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "326190",
+        "Tên Xã": "Púng luông",
+        "Mã Bưu cục": "326190",
+        "Tên Bưu cục": "BC Púng Luông",
+        "Họ và tên người sử dụng": "Vàng thị Cha",
+        "Mã HRM": "00264559",
+        "Bộ phận / Phòng ban": "Giám đốc xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "PUNGLUONG",
+        "Loại máy": "Desktop",
+        "Hãng": "Intel",
+        "Model": "H610M4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "479 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "00:E0:1B:30:90:55"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XP-429B",
+          "serial": "Themal Label printer"
+        },
+        {
+          "type": "photocopier",
+          "name": "Cannon inc",
+          "serial": "FE2-2902"
+        }
+      ],
+      "createdAt": "2026-06-30T02:56:11",
+      "updatedAt": "2026-06-30T02:56:11"
     }
   ]
 }
