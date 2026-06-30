@@ -13354,6 +13354,48 @@
       ],
       "createdAt": "2026-06-30T03:04:10",
       "updatedAt": "2026-06-30T03:04:10"
+    },
+    {
+      "id": "216b73471c194e2ca3ed379af0de852f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "335050",
+        "Tên Bưu cục": "VHX Khánh Yên Trung",
+        "Họ và tên người sử dụng": "Lục Thị Hưng",
+        "Mã HRM": "00043236",
+        "Bộ phận / Phòng ban": "Bưu điện khu vực Bảo Thắng  - Văn Bàn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-IBBLA1K",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3WVB1H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.19.218.104",
+        "MAC Address": "48:4D:7E:DE:2D:FF"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": "L11121E"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T03:06:48",
+      "updatedAt": "2026-06-30T03:06:48"
     }
   ]
 }
