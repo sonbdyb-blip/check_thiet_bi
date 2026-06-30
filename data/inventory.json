@@ -12939,6 +12939,38 @@
       ],
       "createdAt": "2026-06-30T02:56:13",
       "updatedAt": "2026-06-30T02:56:13"
+    },
+    {
+      "id": "993bb9b2fb5d44508d3b566cc79867ef",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "Lào cai",
+        "Mã BĐ Xã": "324310",
+        "Tên Xã": "Lang Thíp",
+        "Mã Bưu cục": "324310",
+        "Tên Bưu cục": "Lang Thíp",
+        "Họ và tên người sử dụng": "Dương Yên Nhi",
+        "Mã HRM": "00271530",
+        "Bộ phận / Phòng ban": "VHX Lang Thíp",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân bàn",
+        "Hãng sản xuất": "30kg",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "",
+        "Serial Number": "200253537",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "Bình thường",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T02:57:40",
+      "updatedAt": "2026-06-30T02:57:40"
     }
   ]
 }
