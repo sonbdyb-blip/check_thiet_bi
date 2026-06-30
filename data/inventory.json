@@ -13517,6 +13517,48 @@
       "attachments": [],
       "createdAt": "2026-06-30T03:09:40",
       "updatedAt": "2026-06-30T03:09:40"
+    },
+    {
+      "id": "f4d4f6d102fb42e58e9617a1cea14bfa",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3227",
+        "Tên Xã": "Lâm THượng",
+        "Mã Bưu cục": "322840",
+        "Tên Bưu cục": "VHX Mai Sơn",
+        "Họ và tên người sử dụng": "Hoàng Thị Lan ANh",
+        "Mã HRM": "0006609",
+        "Bộ phận / Phòng ban": "VHX Lâm Thượng",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXMAISON",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3WR31H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "459 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "48:4D:7E:DB:74:D6"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "xprinter",
+          "serial": "4006139828"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Honeywell",
+          "serial": "3K18141247"
+        }
+      ],
+      "createdAt": "2026-06-30T03:14:16",
+      "updatedAt": "2026-06-30T03:14:16"
     }
   ]
 }
