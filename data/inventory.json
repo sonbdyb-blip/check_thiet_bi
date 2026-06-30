@@ -15565,6 +15565,53 @@
       ],
       "createdAt": "2026-06-30T09:47:50",
       "updatedAt": "2026-06-30T09:47:50"
+    },
+    {
+      "id": "dd5023ed50104a3eb2d5bc1ff999a0cf",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3222",
+        "Tên Xã": "Mậu A",
+        "Mã Bưu cục": "324000",
+        "Tên Bưu cục": "Mậu A",
+        "Họ và tên người sử dụng": "Phạm Thanh Hường",
+        "Mã HRM": "00277870",
+        "Bộ phận / Phòng ban": "Giao Dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "PGD-VANYEN",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SFS0FM00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM08HF0F",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "1172 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.200",
+        "MAC Address": "88:AE:DD:5C:85:D9"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Cannon 2900",
+          "serial": "NMYA381511"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter- 58IIH",
+          "serial": "58IIHBU3B171821"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA ( Có dây)",
+          "serial": "20205010560007"
+        }
+      ],
+      "createdAt": "2026-06-30T09:52:02",
+      "updatedAt": "2026-06-30T09:52:02"
     }
   ]
 }
