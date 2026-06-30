@@ -14393,46 +14393,35 @@
       "updatedAt": "2026-06-30T07:36:44"
     },
     {
-      "id": "12953231d0bf4cfcaacbfc2812028d02",
+      "id": "df2bed46a5bb494e9e16ca0877b4866c",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "322130",
-        "Tên Bưu cục": "VHX Vũ Linh",
-        "Họ và tên người sử dụng": "Trần Thị Lụa",
-        "Mã HRM": "00264179",
-        "Bộ phận / Phòng ban": "nhân viên",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "VHXVULINH",
-        "Loại máy": "Desktop",
-        "Hãng": "HP",
-        "Model": "HP Pavilion Desktop PC 570-p0xx",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "CNV8080D7T",
-        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
-        "RAM": "3.9 GB",
-        "Ổ cứng": "111 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
-        "Office": "Microsoft Office Standard 2016",
-        "Antivirus": "Windows Defender",
-        "IP Address": "192.168.1.6",
-        "MAC Address": "9C:30:5B:E3:39:57"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "HP LaserJef 1020",
-          "serial": "SGFBF08112"
-        },
-        {
-          "type": "barcode_reader",
-          "name": "honeywell",
-          "serial": "3k19030629"
-        }
-      ],
-      "createdAt": "2026-06-30T07:39:22",
-      "updatedAt": "2026-06-30T07:39:22"
+      "attachments": [],
+      "createdAt": "2026-06-30T07:39:24",
+      "updatedAt": "2026-06-30T07:39:24"
     }
   ]
 }
