@@ -11911,6 +11911,43 @@
       ],
       "createdAt": "2026-06-30T01:48:31",
       "updatedAt": "2026-06-30T01:48:31"
+    },
+    {
+      "id": "ae5e4c8a29d446528974d87d9285edc7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu điện xã Hạnh Phúc",
+        "Mã Bưu cục": "325900",
+        "Tên Bưu cục": "Bưu cục Trạm Tấu",
+        "Họ và tên người sử dụng": "Vũ Quỳnh Trang",
+        "Mã HRM": "00066453",
+        "Bộ phận / Phòng ban": "Giám đốc xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "CAS1TRAMTAU",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP EliteDesk 800 G6 Desktop Mini PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC0451PKL",
+        "CPU": "Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Anti‑Virus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.21.190",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Máy in Canon 2900",
+          "serial": "NMYA152771"
+        }
+      ],
+      "createdAt": "2026-06-30T01:51:17",
+      "updatedAt": "2026-06-30T01:51:17"
     }
   ]
 }
