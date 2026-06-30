@@ -14947,6 +14947,37 @@
       "attachments": [],
       "createdAt": "2026-06-30T09:01:52",
       "updatedAt": "2026-06-30T09:01:52"
+    },
+    {
+      "id": "0f877bd99b864387b487668548db32ce",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "323000",
+        "Tên Bưu cục": "BC TRẤN YÊN",
+        "Họ và tên người sử dụng": "BÙI THỊ NGỌC MAI",
+        "Mã HRM": "00265210",
+        "Bộ phận / Phòng ban": "KINH DOANH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TRANYEN-KHL",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP EliteDesk 800 G6 Desktop Mini PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC0451PH1",
+        "CPU": "Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Internet Security, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.15",
+        "MAC Address": "F8:0D:AC:2B:A7:7C"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T09:14:53",
+      "updatedAt": "2026-06-30T09:14:53"
     }
   ]
 }
