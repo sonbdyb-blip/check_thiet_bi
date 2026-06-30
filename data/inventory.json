@@ -15062,6 +15062,53 @@
       ],
       "createdAt": "2026-06-30T09:22:42",
       "updatedAt": "2026-06-30T09:22:42"
+    },
+    {
+      "id": "2689f3955078403ca75ebe2e444dfee9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3334",
+        "Tên Xã": "TTVH",
+        "Mã Bưu cục": "333546",
+        "Tên Bưu cục": "TMĐT Lào Cai",
+        "Họ và tên người sử dụng": "Thào Chinh",
+        "Mã HRM": "00214767",
+        "Bộ phận / Phòng ban": "BC TMĐT Lào Cai",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-TP-TMDT11",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3900",
+        "Năm sản xuất": "",
+        "Serial Number": "9CDFS62",
+        "CPU": "Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "464 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn - vi-vn",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.19.106.108",
+        "MAC Address": "64:00:6A:10:A6:6F"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M203D",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "honywell",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ATS",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T09:23:28",
+      "updatedAt": "2026-06-30T09:23:28"
     }
   ]
 }
