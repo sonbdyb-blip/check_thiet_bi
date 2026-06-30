@@ -13060,6 +13060,43 @@
       ],
       "createdAt": "2026-06-30T02:56:19",
       "updatedAt": "2026-06-30T02:56:19"
+    },
+    {
+      "id": "dcc628bec79745f188627229eba94e4f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3201",
+        "Tên Xã": "Bưu điện xã Mù Cang Chải",
+        "Mã Bưu cục": "326601",
+        "Tên Bưu cục": "Văn phòng Mù Cang Chải",
+        "Họ và tên người sử dụng": "Ngô Thị Dinh",
+        "Mã HRM": "00117773",
+        "Bộ phận / Phòng ban": "PT Kế toán BĐX MCC/ Phòng TCKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DINHNGO",
+        "Loại máy": "Desktop",
+        "Hãng": "Intel",
+        "Model": "H610M4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "477 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.0.105",
+        "MAC Address": "00:E0:1B:2A:93:83"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Máy in canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T02:56:26",
+      "updatedAt": "2026-06-30T02:56:26"
     }
   ]
 }
