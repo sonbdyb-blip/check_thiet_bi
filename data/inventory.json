@@ -14313,6 +14313,53 @@
       ],
       "createdAt": "2026-06-30T07:21:39",
       "updatedAt": "2026-06-30T07:21:39"
+    },
+    {
+      "id": "2fc53dfa0b3c47b58687b9a574ba748a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "322960",
+        "Tên Xã": "TÔ MẬU",
+        "Mã Bưu cục": "322960",
+        "Tên Bưu cục": "BƯU ĐIỆN VHX TÔ MẬU",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ VÂN",
+        "Mã HRM": "00225438",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXTOMAU",
+        "Loại máy": "Desktop",
+        "Hãng": "Hewlett-Packard",
+        "Model": "HP ProDesk 600 G1 SFF",
+        "Năm sản xuất": "",
+        "Serial Number": "SGH432QD4Y",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "5.9 GB",
+        "Ổ cứng": "262 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.22",
+        "MAC Address": "40:A8:F0:65:80:0D"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XP58IIW",
+          "serial": "58W02202804"
+        },
+        {
+          "type": "photocopier",
+          "name": "CANON",
+          "serial": "L11121E"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": "Z507AV"
+        }
+      ],
+      "createdAt": "2026-06-30T07:34:21",
+      "updatedAt": "2026-06-30T07:34:21"
     }
   ]
 }
