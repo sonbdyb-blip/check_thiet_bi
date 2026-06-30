@@ -16039,6 +16039,53 @@
       ],
       "createdAt": "2026-06-30T10:13:32",
       "updatedAt": "2026-06-30T10:13:32"
+    },
+    {
+      "id": "4cf9b355d00c4eba926dcd8e5d62583e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "325090",
+        "Tên Bưu cục": "Bưu điện văn hóa Đại Lịch",
+        "Họ và tên người sử dụng": "Hoàng Thị Hiền",
+        "Mã HRM": "00066319",
+        "Bộ phận / Phòng ban": "Bưu điện khu vực Văn Chấn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHX-DAILICH",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Desktop 390-0xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "8CG844BGGB",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "586 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.18",
+        "MAC Address": "F4:39:09:33:BF:57"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LP2900",
+          "serial": "L11121E"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "400-613-9828"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": "Z4H9W2"
+        }
+      ],
+      "createdAt": "2026-06-30T11:14:35",
+      "updatedAt": "2026-06-30T11:14:35"
     }
   ]
 }
