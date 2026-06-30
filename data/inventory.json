@@ -11864,6 +11864,53 @@
       ],
       "createdAt": "2026-06-30T01:47:20",
       "updatedAt": "2026-06-30T01:47:20"
+    },
+    {
+      "id": "3bcb7f8a2d3046a181c29be9f972878a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "320100",
+        "Tên Xã": "BƯU CỤC KHAI THÁC TRUNG TÂM TỈNH 1",
+        "Mã Bưu cục": "320100",
+        "Tên Bưu cục": "BƯU CỤC KHAI THÁC TRUNG TÂM TỈNH 1",
+        "Họ và tên người sử dụng": "DÙNG CHUNG",
+        "Mã HRM": "0",
+        "Bộ phận / Phòng ban": "BƯU CỤC KHAI THÁC TRUNG TÂM TỈNH 1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-KTT-KYLT",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132DK",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "11.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.35.192",
+        "MAC Address": "38:22:E2:18:96:1B"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER XP-DT426B",
+          "serial": "426BUG244250073"
+        },
+        {
+          "type": "photocopier",
+          "name": "CANONNBP246DW",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRADS22",
+          "serial": "25164523703507"
+        }
+      ],
+      "createdAt": "2026-06-30T01:48:31",
+      "updatedAt": "2026-06-30T01:48:31"
     }
   ]
 }
