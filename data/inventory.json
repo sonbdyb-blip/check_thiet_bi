@@ -13485,6 +13485,38 @@
       ],
       "createdAt": "2026-06-30T03:08:03",
       "updatedAt": "2026-06-30T03:08:03"
+    },
+    {
+      "id": "abf6ee8cf2834126a748f9498d428967",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "Lào Cai",
+        "Mã BĐ Xã": "324420",
+        "Tên Xã": "Yên Hợp",
+        "Mã Bưu cục": "324420",
+        "Tên Bưu cục": "Yên Hợp",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thu Hường",
+        "Mã HRM": "00072864",
+        "Bộ phận / Phòng ban": "VHX Yên Hợp",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân bàn",
+        "Hãng sản xuất": "",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "200254468",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T03:09:40",
+      "updatedAt": "2026-06-30T03:09:40"
     }
   ]
 }
