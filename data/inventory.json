@@ -14883,6 +14883,38 @@
       ],
       "createdAt": "2026-06-30T08:59:34",
       "updatedAt": "2026-06-30T08:59:34"
+    },
+    {
+      "id": "24865923855b4fc680a8795a2d81f45f",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "333840",
+        "Tên Bưu cục": "Bưu Cục Ga",
+        "Họ và tên người sử dụng": "Lê Thị Minh Nguyệt",
+        "Mã HRM": "00043421",
+        "Bộ phận / Phòng ban": "Bưu điện P Lao Cai",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân bàn",
+        "Hãng sản xuất": "Casio",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "6kg",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T09:00:50",
+      "updatedAt": "2026-06-30T09:00:50"
     }
   ]
 }
