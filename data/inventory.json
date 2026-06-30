@@ -14422,6 +14422,43 @@
       "attachments": [],
       "createdAt": "2026-06-30T07:39:24",
       "updatedAt": "2026-06-30T07:39:24"
+    },
+    {
+      "id": "9cdf15a5bf7d41e2a31bcfa59895dea6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "322650",
+        "Tên Xã": "Xã Lục Yên",
+        "Mã Bưu cục": "322650",
+        "Tên Bưu cục": "VHX Minh Xuân",
+        "Họ và tên người sử dụng": "Hoàng Thu Huế",
+        "Mã HRM": "00268476",
+        "Bộ phận / Phòng ban": "bưu điện văn hóa xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YENBAI_VHXMXUAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3XR41H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "467 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.21.56",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "58IIHBU44112277"
+        }
+      ],
+      "createdAt": "2026-06-30T07:43:37",
+      "updatedAt": "2026-06-30T07:43:37"
     }
   ]
 }
