@@ -13559,6 +13559,53 @@
       ],
       "createdAt": "2026-06-30T03:14:16",
       "updatedAt": "2026-06-30T03:14:16"
+    },
+    {
+      "id": "e829b91c194d41158a68ae3d6324112f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3235",
+        "Tên Xã": "Bưu điện xã Bảo Ái",
+        "Mã Bưu cục": "322400",
+        "Tên Bưu cục": "VHX Tân Nguyên",
+        "Họ và tên người sử dụng": "Hoàng Thị Chọn",
+        "Mã HRM": "00118189",
+        "Bộ phận / Phòng ban": "NV VHX1",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXTANNGUYEN",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "416 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.11",
+        "MAC Address": "2C:56:DC:3A:29:11"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon L11121E",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "thermal label printer xp 420B-u",
+          "serial": "254LUE222210446"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ROHS - MC 3003HRB",
+          "serial": "MC 364601003873"
+        }
+      ],
+      "createdAt": "2026-06-30T03:13:51",
+      "updatedAt": "2026-06-30T03:13:51"
     }
   ]
 }
