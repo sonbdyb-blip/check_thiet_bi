@@ -15839,6 +15839,38 @@
       ],
       "createdAt": "2026-06-30T10:10:18",
       "updatedAt": "2026-06-30T10:10:18"
+    },
+    {
+      "id": "bb2236783f734227b6206a16cc9f1373",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "331000",
+        "Tên Bưu cục": "Bắc Hà",
+        "Họ và tên người sử dụng": "TRẦN VĂN LƯƠNG",
+        "Mã HRM": "00276565",
+        "Bộ phận / Phòng ban": "Bưu điện xã Bắc Hà",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân bàn",
+        "Hãng sản xuất": "Casio",
+        "Model": "PRII",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "0A0D31304GVN090118",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T10:16:12",
+      "updatedAt": "2026-06-30T10:16:12"
     }
   ]
 }
