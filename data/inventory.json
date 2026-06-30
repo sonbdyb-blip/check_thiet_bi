@@ -14632,6 +14632,37 @@
       ],
       "createdAt": "2026-06-30T07:59:09",
       "updatedAt": "2026-06-30T07:59:09"
+    },
+    {
+      "id": "0a5d4b90ec04427bbd79aa32ec56cde3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "321988",
+        "Tên Bưu cục": "Bưu Cục Văn Phòng",
+        "Họ và tên người sử dụng": "Nguyễn Thị Loan",
+        "Mã HRM": "00268822",
+        "Bộ phận / Phòng ban": "CSKH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-YENBINH-CSKH",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP EliteDesk 800 G6 Desktop Mini PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC1300VF0",
+        "CPU": "Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "252 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.73",
+        "MAC Address": "48:9E:BD:26:40:31"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T07:59:58",
+      "updatedAt": "2026-06-30T07:59:58"
     }
   ]
 }
