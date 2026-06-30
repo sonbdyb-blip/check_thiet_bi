@@ -12451,6 +12451,38 @@
       ],
       "createdAt": "2026-06-30T02:20:57",
       "updatedAt": "2026-06-30T02:20:57"
+    },
+    {
+      "id": "c62fff2a2b784f418950ce4e7b39296e",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "Lào Cai",
+        "Mã BĐ Xã": "3223",
+        "Tên Xã": "Xuân Ái",
+        "Mã Bưu cục": "324360",
+        "Tên Bưu cục": "Đại Phác",
+        "Họ và tên người sử dụng": "Hà Thị Lệ",
+        "Mã HRM": "00272114",
+        "Bộ phận / Phòng ban": "VHX Đại Phác",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân Bàn",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "03574",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "Bình thường",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-30T02:21:52",
+      "updatedAt": "2026-06-30T02:21:52"
     }
   ]
 }
