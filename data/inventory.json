@@ -12892,6 +12892,53 @@
       ],
       "createdAt": "2026-06-30T02:48:38",
       "updatedAt": "2026-06-30T02:48:38"
+    },
+    {
+      "id": "1af30903ade84a96adb87ffe291589df",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "324310",
+        "Tên Xã": "Lang Thíp",
+        "Mã Bưu cục": "324310",
+        "Tên Bưu cục": "Lang Thíp",
+        "Họ và tên người sử dụng": "Dương Yên Nhi",
+        "Mã HRM": "00271530",
+        "Bộ phận / Phòng ban": "VHX Lang Thíp",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHX-LANGTHIP",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "40X91H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.20",
+        "MAC Address": "48:4D:7E:DB:6C:77"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2009",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "58IIHBU4B010086"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol ( đầu đọc mã vạch có dây)",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T02:56:13",
+      "updatedAt": "2026-06-30T02:56:13"
     }
   ]
 }
