@@ -11318,6 +11318,48 @@
       ],
       "createdAt": "2026-06-30T00:36:50",
       "updatedAt": "2026-06-30T00:36:50"
+    },
+    {
+      "id": "0764b0f85baa4eae947ee14aa6933b68",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "334170",
+        "Tên Bưu cục": "BCP BẢO THẮNG",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ THANH THỦY",
+        "Mã HRM": "00043142",
+        "Bộ phận / Phòng ban": "BCVH BẢO THẮNG",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-TTVH-BAOTHA",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC011326L",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.111.164",
+        "MAC Address": "38:22:E2:18:94:1B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900-L11121E",
+          "serial": "NDMA208289"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra-cr2278",
+          "serial": "18148523400078"
+        }
+      ],
+      "createdAt": "2026-06-30T00:39:53",
+      "updatedAt": "2026-06-30T00:39:53"
     }
   ]
 }
