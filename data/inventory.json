@@ -14978,6 +14978,53 @@
       "attachments": [],
       "createdAt": "2026-06-30T09:14:53",
       "updatedAt": "2026-06-30T09:14:53"
+    },
+    {
+      "id": "6f629fe94e1f403bb0cc588a47f6d3fa",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3334",
+        "Tên Xã": "TTVH",
+        "Mã Bưu cục": "333546",
+        "Tên Bưu cục": "TMĐT Lào Cai",
+        "Họ và tên người sử dụng": "Hoàng Thị Vân",
+        "Mã HRM": "00043389",
+        "Bộ phận / Phòng ban": "BC TMĐT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-TPO-TMDT04",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "BC1V8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.19.106.193",
+        "MAC Address": "B8:85:84:AF:5F:5F"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 29000",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "GK420D",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-30T09:19:53",
+      "updatedAt": "2026-06-30T09:19:53"
     }
   ]
 }
