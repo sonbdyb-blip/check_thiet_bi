@@ -14135,6 +14135,53 @@
       ],
       "createdAt": "2026-06-30T04:10:22",
       "updatedAt": "2026-06-30T04:10:22"
+    },
+    {
+      "id": "37a4886c737749e496f96e05db848198",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Thác bà",
+        "Mã Bưu cục": "322040",
+        "Tên Bưu cục": "bc Thác bà",
+        "Họ và tên người sử dụng": "trần thị hương",
+        "Mã HRM": "0065980",
+        "Bộ phận / Phòng ban": "bc",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "THACBA",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3060",
+        "Năm sản xuất": "",
+        "Serial Number": "9WLHNX2",
+        "CPU": "Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.11",
+        "MAC Address": "E4:54:E8:4F:BF:7D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Ecoprint",
+          "serial": "19010900200145"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "honeywell",
+          "serial": "1250g-2"
+        }
+      ],
+      "createdAt": "2026-06-30T04:21:10",
+      "updatedAt": "2026-06-30T04:21:10"
     }
   ]
 }
