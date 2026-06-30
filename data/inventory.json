@@ -15723,6 +15723,48 @@
       ],
       "createdAt": "2026-06-30T10:01:12",
       "updatedAt": "2026-06-30T10:01:12"
+    },
+    {
+      "id": "ea29c1964a194148b99482923eb454ce",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3225",
+        "Tên Xã": "Lâm Thượng",
+        "Mã Bưu cục": "322920",
+        "Tên Bưu cục": "VHX Tân Phượng",
+        "Họ và tên người sử dụng": "Nguyễn Thị Nhau",
+        "Mã HRM": "00225855",
+        "Bộ phận / Phòng ban": "Lâm Thượng",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TANPHUONG",
+        "Loại máy": "Desktop",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Pentium(R) CPU G2030 @ 3.00GHz",
+        "RAM": "1.8 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "7C:05:07:10:6E:2C"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "400-613-9828"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SUNLUX",
+          "serial": "90137474"
+        }
+      ],
+      "createdAt": "2026-06-30T10:06:58",
+      "updatedAt": "2026-06-30T10:06:58"
     }
   ]
 }
