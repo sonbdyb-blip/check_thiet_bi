@@ -12604,6 +12604,48 @@
       ],
       "createdAt": "2026-06-30T02:29:35",
       "updatedAt": "2026-06-30T02:29:35"
+    },
+    {
+      "id": "f437f6ad2e2d4fd8b856be7289a4dfd4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "320100",
+        "Tên Bưu cục": "Khai thác Cấp 1 YB",
+        "Họ và tên người sử dụng": "Dùng chung",
+        "Mã HRM": "0",
+        "Bộ phận / Phòng ban": "Trung tâm VH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-KTT-06",
+        "Loại máy": "Desktop",
+        "Hãng": "DELL",
+        "Model": "Optiplex 3020",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "I3-4150T",
+        "RAM": "6 GB",
+        "Ổ cứng": "256 GB",
+        "Hệ điều hành": "Windows 7",
+        "Office": "Microsoft Office 2007",
+        "Antivirus": "",
+        "IP Address": "10.26.35.19",
+        "MAC Address": "F8-BC-12-A2-D2-BD"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "RONGTA RP411",
+          "serial": "A4110100060041"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS278",
+          "serial": "22131BS3418610"
+        }
+      ],
+      "createdAt": "2026-06-30T02:33:03",
+      "updatedAt": "2026-06-30T02:33:03"
     }
   ]
 }
