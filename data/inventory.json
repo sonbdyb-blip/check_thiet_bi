@@ -17784,6 +17784,53 @@
       "attachments": [],
       "createdAt": "2026-07-01T07:05:56",
       "updatedAt": "2026-07-01T07:05:56"
+    },
+    {
+      "id": "bd303bd425ea47ab8f64c6f6d1d1248f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3244",
+        "Tên Xã": "BĐ xã Quy Mông",
+        "Mã Bưu cục": "323540",
+        "Tên Bưu cục": "BĐ VHX Y Can",
+        "Họ và tên người sử dụng": "Khuất Quang Hưng",
+        "Mã HRM": "00084452",
+        "Bộ phận / Phòng ban": "Trung tâm kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXYCAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "1156 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "74:56:3C:2E:96:DA"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP 203d",
+          "serial": "VNP4D01809"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Máy in nhiệt  Xprinter",
+          "serial": "XP-58llH"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": "z607AD"
+        }
+      ],
+      "createdAt": "2026-07-01T07:16:12",
+      "updatedAt": "2026-07-01T07:16:12"
     }
   ]
 }
