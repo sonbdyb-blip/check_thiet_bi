@@ -18757,6 +18757,43 @@
       "attachments": [],
       "createdAt": "2026-07-01T09:17:10",
       "updatedAt": "2026-07-01T09:17:10"
+    },
+    {
+      "id": "fdac047f075d4e56aea391f5423e7bd5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3339",
+        "Tên Xã": "Lùng Phình",
+        "Mã Bưu cục": "331152",
+        "Tên Bưu cục": "Bưu điện VHX Tả Van Chư",
+        "Họ và tên người sử dụng": "Giàng Seo Sùng",
+        "Mã HRM": "00217079",
+        "Bộ phận / Phòng ban": "Bưu điện VHX Tả Van Chư",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "tavachu",
+        "Loại máy": "",
+        "Hãng": "Dell Inc.",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "s",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XSPrinter",
+          "serial": "58iihbbu55070527"
+        }
+      ],
+      "createdAt": "2026-07-01T09:21:47",
+      "updatedAt": "2026-07-01T09:21:47"
     }
   ]
 }
