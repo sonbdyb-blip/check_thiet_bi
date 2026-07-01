@@ -17755,51 +17755,35 @@
       "updatedAt": "2026-07-01T04:21:03"
     },
     {
-      "id": "9b953ec5f8af4a258f306572acc38c7a",
+      "id": "dd70443a121f4d34980d86aaba181530",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "3214",
-        "Tên Xã": "Xã Chấn Thịnh",
-        "Mã Bưu cục": "325120",
-        "Tên Bưu cục": "VHX Chấn Thịnh",
-        "Họ và tên người sử dụng": "Nguyễn Thùy Trang",
-        "Mã HRM": "00225121",
-        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "VHXCHANTHINH",
-        "Loại máy": "Desktop",
-        "Hãng": "Gigabyte Technology Co., Ltd.",
-        "Model": "H610M H V2 DDR4",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "Default string",
-        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
-        "RAM": "15.8 GB",
-        "Ổ cứng": "239 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
-        "Office": "Microsoft 365 Apps for enterprise - en-us",
-        "Antivirus": "Windows Defender",
-        "IP Address": "10.200.21.168",
-        "MAC Address": "00:09:0F:AA:00:01"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "canon LBP6030",
-          "serial": "PCLA632915"
-        },
-        {
-          "type": "thermal_printer",
-          "name": "Gprinter",
-          "serial": "S-A170720A1613"
-        },
-        {
-          "type": "barcode_reader",
-          "name": "Honeywell",
-          "serial": "S/N3K19021350"
-        }
-      ],
-      "createdAt": "2026-07-01T07:05:53",
-      "updatedAt": "2026-07-01T07:05:53"
+      "attachments": [],
+      "createdAt": "2026-07-01T07:05:56",
+      "updatedAt": "2026-07-01T07:05:56"
     }
   ]
 }
