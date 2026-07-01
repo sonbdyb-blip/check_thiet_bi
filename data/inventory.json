@@ -16626,6 +16626,48 @@
       ],
       "createdAt": "2026-07-01T01:48:55",
       "updatedAt": "2026-07-01T01:48:55"
+    },
+    {
+      "id": "814f023d8e0a4f7b8fd958207f22ed4f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "320000",
+        "Tên Bưu cục": "Bưu cục Yên Bái Ga",
+        "Họ và tên người sử dụng": "Hoàng Thị Tin",
+        "Mã HRM": "00217781",
+        "Bộ phận / Phòng ban": "Bưu điện Phường Yên Bái",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YBGA",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132K9",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.3 GB",
+        "Ổ cứng": "118 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.32.185",
+        "MAC Address": "38:22:E2:19:3D:0B"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Rongta - RP411",
+          "serial": "A4110100060011"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Honeywell- voyager 1250g",
+          "serial": "3K18102060"
+        }
+      ],
+      "createdAt": "2026-07-01T01:50:45",
+      "updatedAt": "2026-07-01T01:50:45"
     }
   ]
 }
