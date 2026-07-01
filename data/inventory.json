@@ -18616,6 +18616,43 @@
       "attachments": [],
       "createdAt": "2026-07-01T08:35:43",
       "updatedAt": "2026-07-01T08:35:43"
+    },
+    {
+      "id": "57c3502a4f0c4c1d95c594aa685a2a7d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "331000",
+        "Tên Xã": "Bắc Hà",
+        "Mã Bưu cục": "331030",
+        "Tên Bưu cục": "Bưu điện VHX Na Hối",
+        "Họ và tên người sử dụng": "Vàng Thị Nhâm",
+        "Mã HRM": "00043120",
+        "Bộ phận / Phòng ban": "Bưu điện VHX Na Hối",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "NaHoi",
+        "Loại máy": "Case",
+        "Hãng": "Dell",
+        "Model": "9csf62",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XSPrinter",
+          "serial": "58iihbbu55070528"
+        }
+      ],
+      "createdAt": "2026-07-01T08:54:10",
+      "updatedAt": "2026-07-01T08:54:10"
     }
   ]
 }
