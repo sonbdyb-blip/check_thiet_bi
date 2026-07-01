@@ -16448,6 +16448,48 @@
       ],
       "createdAt": "2026-07-01T01:40:16",
       "updatedAt": "2026-07-01T01:40:16"
+    },
+    {
+      "id": "5cb14215a373422690fa42c33ee7de08",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "324740",
+        "Tên Bưu cục": "buu ien van hoa xa phu nham",
+        "Họ và tên người sử dụng": "nguyen thanh cong",
+        "Mã HRM": "00262268",
+        "Bộ phận / Phòng ban": "buu ien van hoa xa phu nham",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-NGHIALO-VHXP",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP EliteDesk 800 G6 Desktop Mini PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC0451PKK",
+        "CPU": "Intel(R) Core(TM) i5-10500 CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "34:C9:3D:A7:70:E7"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "honeywell",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-01T01:40:53",
+      "updatedAt": "2026-07-01T01:40:53"
     }
   ]
 }
