@@ -18163,46 +18163,35 @@
       "updatedAt": "2026-07-01T08:04:06"
     },
     {
-      "id": "509040949f8149d28758606d67bd2a01",
+      "id": "c912af7ab82c4655ab641e7b187b4760",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "3234",
-        "Tên Xã": "YÊN BÌNH",
-        "Mã Bưu cục": "322300",
-        "Tên Bưu cục": "VHX Tân Hương",
-        "Họ và tên người sử dụng": "Trần Thị Nhị",
-        "Mã HRM": "00234329",
-        "Bộ phận / Phòng ban": "VHX",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "YB-YENBINH-TANH",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "OptiPlex 3040",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "BXJF8F2",
-        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
-        "RAM": "7.9 GB",
-        "Ổ cứng": "113 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
-        "Office": "Microsoft Office Office 64-bit Components 2010",
-        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
-        "IP Address": "192.168.1.100",
-        "MAC Address": "18:66:DA:29:07:57"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "thermal_printer",
-          "name": "Xprinter",
-          "serial": "S480BUG259080246"
-        },
-        {
-          "type": "barcode_reader",
-          "name": "Honeywell",
-          "serial": "3K19372898"
-        }
-      ],
-      "createdAt": "2026-07-01T08:06:56",
-      "updatedAt": "2026-07-01T08:06:56"
+      "attachments": [],
+      "createdAt": "2026-07-01T08:06:59",
+      "updatedAt": "2026-07-01T08:06:59"
     }
   ]
 }
