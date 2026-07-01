@@ -17191,6 +17191,37 @@
       "attachments": [],
       "createdAt": "2026-07-01T03:09:46",
       "updatedAt": "2026-07-01T03:09:46"
+    },
+    {
+      "id": "2930a91d8cbf408991e27d1fb7f0c029",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "323300",
+        "Tên Bưu cục": "Trấn Yên",
+        "Họ và tên người sử dụng": "Đỗ Thị Thơm",
+        "Mã HRM": "00066138",
+        "Bộ phận / Phòng ban": "kd",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "PGD-TRANYEN",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SFS0FM00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM08GFWP",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "1169 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.200",
+        "MAC Address": "88:AE:DD:5B:D2:0F"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-01T03:11:21",
+      "updatedAt": "2026-07-01T03:11:21"
     }
   ]
 }
