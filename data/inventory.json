@@ -17131,51 +17131,35 @@
       "updatedAt": "2026-07-01T03:05:12"
     },
     {
-      "id": "9df87b04400d4d799bd3615a135bc3f8",
+      "id": "6a85adefb5954991877b0e5bd319f932",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "325770",
-        "Tên Bưu cục": "VHX Nghĩa An",
-        "Họ và tên người sử dụng": "Cầm Thị Quý",
-        "Mã HRM": "00100800",
-        "Bộ phận / Phòng ban": "BĐ VHX",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "VHX-NGHIAAN",
-        "Loại máy": "Desktop",
-        "Hãng": "ASUS",
-        "Model": "All Series",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "System Serial Number",
-        "CPU": "Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz",
-        "RAM": "7.9 GB",
-        "Ổ cứng": "240 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
-        "Office": "Microsoft Office Professional Plus 2021 - en-us",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus",
-        "IP Address": "192.168.1.46",
-        "MAC Address": "40:16:7E:72:EB:65"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "canon2900",
-          "serial": "L11121E"
-        },
-        {
-          "type": "thermal_printer",
-          "name": "Xprinter",
-          "serial": "58IIHBU52124377"
-        },
-        {
-          "type": "barcode_reader",
-          "name": "Honeywell",
-          "serial": "3k19372872"
-        }
-      ],
-      "createdAt": "2026-07-01T03:07:38",
-      "updatedAt": "2026-07-01T03:07:38"
+      "attachments": [],
+      "createdAt": "2026-07-01T03:07:40",
+      "updatedAt": "2026-07-01T03:07:40"
     }
   ]
 }
