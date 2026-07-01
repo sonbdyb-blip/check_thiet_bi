@@ -18328,6 +18328,53 @@
       ],
       "createdAt": "2026-07-01T08:14:50",
       "updatedAt": "2026-07-01T08:14:50"
+    },
+    {
+      "id": "6c0e5d864ea54af8b320029343b6b42e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "322130",
+        "Tên Bưu cục": "VHX Vũ Linh",
+        "Họ và tên người sử dụng": "Trần Thị Lụa",
+        "Mã HRM": "00264179",
+        "Bộ phận / Phòng ban": "Bưu điện xã Thác bà",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXVULINH",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pavilion Desktop PC 570-p0xx",
+        "Năm sản xuất": "",
+        "Serial Number": "CNV8080D7T",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Standard 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "9C:30:5B:E3:39:57"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Laserjet 1020",
+          "serial": "SGFBF08122"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "PRP-085M",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Honeywell",
+          "serial": "3k19030629"
+        }
+      ],
+      "createdAt": "2026-07-01T08:15:04",
+      "updatedAt": "2026-07-01T08:15:04"
     }
   ]
 }
