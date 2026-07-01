@@ -18728,20 +18728,20 @@
       "updatedAt": "2026-07-01T09:09:31"
     },
     {
-      "id": "78bff44bd20f426e89bc58f7a6c9003f",
+      "id": "674dd4985bf94b0e978c26d6bef1533b",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "331000",
-        "Tên Xã": "Bắc Hà",
-        "Mã Bưu cục": "331090",
-        "Tên Bưu cục": "Bưu điện VHX Bản Liền",
-        "Họ và tên người sử dụng": "Vàng Thị Hiệp",
-        "Mã HRM": "00235771",
-        "Bộ phận / Phòng ban": "Bưu điện VHX Bản Liền",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "Banlien",
-        "Loại máy": "case",
-        "Hãng": "Dell Inc.",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
         "Model": "",
         "Năm sản xuất": "",
         "Serial Number": "",
@@ -18749,14 +18749,14 @@
         "RAM": "",
         "Ổ cứng": "",
         "Hệ điều hành": "",
-        "Office": "Microsoft Office Office 64-bit Components 2010",
-        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "Office": "",
+        "Antivirus": "",
         "IP Address": "",
         "MAC Address": ""
       },
       "attachments": [],
-      "createdAt": "2026-07-01T09:17:08",
-      "updatedAt": "2026-07-01T09:17:08"
+      "createdAt": "2026-07-01T09:17:10",
+      "updatedAt": "2026-07-01T09:17:10"
     }
   ]
 }
