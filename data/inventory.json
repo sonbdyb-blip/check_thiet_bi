@@ -18286,6 +18286,48 @@
       ],
       "createdAt": "2026-07-01T08:10:26",
       "updatedAt": "2026-07-01T08:10:26"
+    },
+    {
+      "id": "21988ae26db74b019b2fe53942765ad0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3234",
+        "Tên Xã": "YÊN BÌNH",
+        "Mã Bưu cục": "321940",
+        "Tên Bưu cục": "VHX Đại Đồng",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hà",
+        "Mã HRM": "00065995",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H610M H V3 DDR4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "30:56:0F:24:23:D0"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Gprinter",
+          "serial": "SB170717AO715"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol",
+          "serial": "Z3WACF"
+        }
+      ],
+      "createdAt": "2026-07-01T08:14:50",
+      "updatedAt": "2026-07-01T08:14:50"
     }
   ]
 }
