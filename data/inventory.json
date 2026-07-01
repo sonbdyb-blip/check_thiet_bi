@@ -17993,6 +17993,48 @@
       ],
       "createdAt": "2026-07-01T07:45:24",
       "updatedAt": "2026-07-01T07:45:24"
+    },
+    {
+      "id": "59034f4cbf184955a1d5b7f15883f7a4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "323790",
+        "Tên Bưu cục": "BC Hưng Khánh",
+        "Họ và tên người sử dụng": "Hà Thị KIm Dung",
+        "Mã HRM": "00218971",
+        "Bộ phận / Phòng ban": "Kinh Doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-HUNGKHANH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "9Q99H32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, 360 Total Security",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "F8:BC:12:A2:D7:1D"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "canon",
+          "serial": "LP2900"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "có dây",
+          "serial": "00"
+        }
+      ],
+      "createdAt": "2026-07-01T07:48:06",
+      "updatedAt": "2026-07-01T07:48:06"
     }
   ]
 }
