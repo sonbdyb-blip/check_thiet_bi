@@ -18697,46 +18697,35 @@
       "updatedAt": "2026-07-01T08:57:01"
     },
     {
-      "id": "12836e43be394024b84e408bd747d5f6",
+      "id": "13d7a999f708472b85f0bdf154e5746b",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "3234",
-        "Tên Xã": "YÊN BÌNH",
-        "Mã Bưu cục": "321900",
-        "Tên Bưu cục": "Yên Bình",
-        "Họ và tên người sử dụng": "Lưu Ngọc Tố Quyên",
-        "Mã HRM": "00065970",
-        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "PGD-YENBINH",
-        "Loại máy": "Desktop",
-        "Hãng": "LENOVO",
-        "Model": "11SFS0FM00",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "GM08GFYP",
-        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
-        "RAM": "7.7 GB",
-        "Ổ cứng": "1169 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Enterprise 10.0.26200",
-        "Office": "Microsoft Office Professional Plus 2019 - en-us",
-        "Antivirus": "Trellix Endpoint Security, Windows Defender",
-        "IP Address": "192.168.1.28",
-        "MAC Address": "88:AE:DD:5C:84:A1"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "thermal_printer",
-          "name": "mini printer",
-          "serial": "58w02202816"
-        },
-        {
-          "type": "barcode_reader",
-          "name": "zebra ds22",
-          "serial": "20216010550765"
-        }
-      ],
-      "createdAt": "2026-07-01T09:09:26",
-      "updatedAt": "2026-07-01T09:09:26"
+      "attachments": [],
+      "createdAt": "2026-07-01T09:09:31",
+      "updatedAt": "2026-07-01T09:09:31"
     }
   ]
 }
