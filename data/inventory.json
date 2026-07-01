@@ -16851,6 +16851,37 @@
       ],
       "createdAt": "2026-07-01T02:07:37",
       "updatedAt": "2026-07-01T02:07:37"
+    },
+    {
+      "id": "7137d7e93ad14fef9b8659e71c7f1aa6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "321110",
+        "Tên Bưu cục": "321110",
+        "Họ và tên người sử dụng": "Hà Ngọc Lan",
+        "Mã HRM": "00065975",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "KM5-TKBD",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SFS0FM00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM08HF04",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "1169 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "192.168.1.12",
+        "MAC Address": "88:AE:DD:5C:86:3A"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-01T02:14:51",
+      "updatedAt": "2026-07-01T02:14:51"
     }
   ]
 }
