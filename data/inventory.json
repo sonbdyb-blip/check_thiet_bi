@@ -17909,6 +17909,48 @@
       "attachments": [],
       "createdAt": "2026-07-01T07:35:22",
       "updatedAt": "2026-07-01T07:35:22"
+    },
+    {
+      "id": "44969562fa0a4c03bb81424bb176cffd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "323790",
+        "Tên Xã": "Hưng Khánh",
+        "Mã Bưu cục": "323790",
+        "Tên Bưu cục": "Hưng Khánh",
+        "Họ và tên người sử dụng": "Hà Thị Kim Dung",
+        "Mã HRM": "00218971",
+        "Bộ phận / Phòng ban": "Giao dịch viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HUNGKHANH2",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821141609",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.45",
+        "MAC Address": "50:AF:73:37:9B:D3"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "zebra",
+          "serial": "ZD620"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "honeywell",
+          "serial": "E89891"
+        }
+      ],
+      "createdAt": "2026-07-01T07:23:45",
+      "updatedAt": "2026-07-01T07:23:45"
     }
   ]
 }
