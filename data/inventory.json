@@ -16086,6 +16086,43 @@
       ],
       "createdAt": "2026-06-30T11:14:35",
       "updatedAt": "2026-06-30T11:14:35"
+    },
+    {
+      "id": "7da8972b4dcf40b996885580dadb1911",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "323740",
+        "Tên Xã": "XÃ VIỆT HỒNG",
+        "Mã Bưu cục": "323740",
+        "Tên Bưu cục": "VHX VIỆT HỒNG",
+        "Họ và tên người sử dụng": "HÀ THỊ NHẪN",
+        "Mã HRM": "00108605",
+        "Bộ phận / Phòng ban": "VĂN HÓA XÃ GHÉP PHÁT XÃ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHX-VIETHONG",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3060",
+        "Năm sản xuất": "",
+        "Serial Number": "99B9BW2",
+        "CPU": "Intel(R) Core(TM) i5-8400T CPU @ 1.70GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "118 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "6C:2B:59:E4:3C:B4"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-01T00:54:46",
+      "updatedAt": "2026-07-01T00:54:46"
     }
   ]
 }
