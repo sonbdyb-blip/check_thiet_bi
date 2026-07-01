@@ -18538,6 +18538,53 @@
       ],
       "createdAt": "2026-07-01T08:26:17",
       "updatedAt": "2026-07-01T08:26:17"
+    },
+    {
+      "id": "045ddc45bb0c495ba08a21d3d7404e41",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3231",
+        "Tên Xã": "CẢM NHÂN",
+        "Mã Bưu cục": "322270",
+        "Tên Bưu cục": "VHX Ngọc Chấn",
+        "Họ và tên người sử dụng": "Hoàng Thị Châu",
+        "Mã HRM": "00066027",
+        "Bộ phận / Phòng ban": "VHX Ngọc Chấn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXNGOCCHAN",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821181896",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "50:AF:73:38:22:60"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LaserJet M203d UPD PCL 6",
+          "serial": "VNP4D2484"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "THERMAL PRINTER",
+          "serial": "040203872"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "XL6500A",
+          "serial": "00070974"
+        }
+      ],
+      "createdAt": "2026-07-01T08:27:35",
+      "updatedAt": "2026-07-01T08:27:35"
     }
   ]
 }
