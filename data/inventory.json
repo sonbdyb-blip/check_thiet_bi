@@ -18035,6 +18035,48 @@
       ],
       "createdAt": "2026-07-01T07:48:06",
       "updatedAt": "2026-07-01T07:48:06"
+    },
+    {
+      "id": "9a72c376bd424e219f3f6ddb4ba36a53",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3234",
+        "Tên Xã": "YÊN BÌNH",
+        "Mã Bưu cục": "321900",
+        "Tên Bưu cục": "YÊN BÌNH",
+        "Họ và tên người sử dụng": "PHAN MINH PHƯƠNG",
+        "Mã HRM": "00065969",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-KHL3",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H610M H V2 DDR4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.12",
+        "MAC Address": "10:FF:E0:12:E3:B1"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "58W02202819",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "20213010563828",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-01T07:50:57",
+      "updatedAt": "2026-07-01T07:50:57"
     }
   ]
 }
