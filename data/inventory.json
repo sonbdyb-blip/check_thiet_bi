@@ -17256,51 +17256,35 @@
       "updatedAt": "2026-07-01T03:12:11"
     },
     {
-      "id": "28b4e64654e942bf9f0022eb77e4a1cf",
+      "id": "f1484422f2ca4e849d9489584a5fe209",
       "category": "3. Máy Tính",
       "fields": {
-        "Mã BĐ Xã": "3232",
-        "Tên Xã": "XÃ YÊN THÀNH",
-        "Mã Bưu cục": "322150",
-        "Tên Bưu cục": "VHX Xuân Lai",
-        "Họ và tên người sử dụng": "Nguyễn Thị Lan",
-        "Mã HRM": "00273897",
-        "Bộ phận / Phòng ban": "NV VHX",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "DESKTOP-FLQ6QBM",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "OptiPlex 5060",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "BD4P8T2",
-        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
-        "RAM": "3.8 GB",
-        "Ổ cứng": "113 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
-        "Office": "Microsoft Office Office 64-bit Components 2010",
-        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
-        "IP Address": "192.168.1.6",
-        "MAC Address": "B8:85:84:AF:5A:B8"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "HP LASERJET M203-M206 PCL-6",
-          "serial": "g3q50a"
-        },
-        {
-          "type": "thermal_printer",
-          "name": "THERMAL PRINTER",
-          "serial": "58iihbu040203888"
-        },
-        {
-          "type": "barcode_reader",
-          "name": "LS2208-SR20007R-UR",
-          "serial": "SR20007R"
-        }
-      ],
-      "createdAt": "2026-07-01T03:16:05",
-      "updatedAt": "2026-07-01T03:16:05"
+      "attachments": [],
+      "createdAt": "2026-07-01T03:16:08",
+      "updatedAt": "2026-07-01T03:16:08"
     }
   ]
 }
