@@ -18653,6 +18653,48 @@
       ],
       "createdAt": "2026-07-01T08:54:10",
       "updatedAt": "2026-07-01T08:54:10"
+    },
+    {
+      "id": "ea3c7c9a164d4fb6a79eb7c23c990300",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3260",
+        "Tên Xã": "BĐ VHX Đào Thịnh",
+        "Mã Bưu cục": "323420",
+        "Tên Bưu cục": "BĐ VHX Đào Thịnh",
+        "Họ và tên người sử dụng": "Lương Thị Vọng",
+        "Mã HRM": "00248501",
+        "Bộ phận / Phòng ban": "Trung tâm kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXDAOTHINH",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "1156 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "74:56:3C:2E:97:26"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP203d",
+          "serial": "Không nhìn rõ số seri"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Barcode có dây",
+          "serial": "Seri mờ"
+        }
+      ],
+      "createdAt": "2026-07-01T08:57:01",
+      "updatedAt": "2026-07-01T08:57:01"
     }
   ]
 }
