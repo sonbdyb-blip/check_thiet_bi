@@ -17878,6 +17878,37 @@
       ],
       "createdAt": "2026-07-01T07:36:49",
       "updatedAt": "2026-07-01T07:36:49"
+    },
+    {
+      "id": "9919362bf53b40b7a906699d9ce0729f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3234",
+        "Tên Xã": "Yên Bình",
+        "Mã Bưu cục": "3234",
+        "Tên Bưu cục": "Yên Bình",
+        "Họ và tên người sử dụng": "Nguyễn Thị Quỳnh",
+        "Mã HRM": "00066127",
+        "Bộ phận / Phòng ban": "Quản lý BĐX Yên Bình",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-QUYNHPGD",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3060",
+        "Năm sản xuất": "",
+        "Serial Number": "9WN7NX2",
+        "CPU": "Intel(R) Core(TM) i5-8500T CPU @ 2.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "110 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.13",
+        "MAC Address": "E4:54:E8:4F:1C:9F"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-01T07:35:22",
+      "updatedAt": "2026-07-01T07:35:22"
     }
   ]
 }
