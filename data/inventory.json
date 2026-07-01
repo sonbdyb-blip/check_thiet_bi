@@ -17285,6 +17285,43 @@
       "attachments": [],
       "createdAt": "2026-07-01T03:16:08",
       "updatedAt": "2026-07-01T03:16:08"
+    },
+    {
+      "id": "4b9942184ccb41d1aeb7e154a46b658c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3315",
+        "Tên Xã": "xã Bát Xát",
+        "Mã Bưu cục": "332500",
+        "Tên Bưu cục": "VP BĐX Bát Xát",
+        "Họ và tên người sử dụng": "Vũ Tố Quỳnh",
+        "Mã HRM": "00043409",
+        "Bộ phận / Phòng ban": "Văn phòng Bưu điện xã",
+        "Mã vật tư": "Dell",
+        "Tên máy (Hostname)": "DESKTOP-G7NLM3R",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 15-3568",
+        "Năm sản xuất": "",
+        "Serial Number": "CPKJ5F2",
+        "CPU": "Intel(R) Core(TM) i3-7100U CPU @ 2.40GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.26",
+        "MAC Address": "3C:F8:62:62:47:B0"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": "0"
+        }
+      ],
+      "createdAt": "2026-07-01T03:17:15",
+      "updatedAt": "2026-07-01T03:17:15"
     }
   ]
 }
