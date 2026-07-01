@@ -17222,6 +17222,38 @@
       "attachments": [],
       "createdAt": "2026-07-01T03:11:21",
       "updatedAt": "2026-07-01T03:11:21"
+    },
+    {
+      "id": "4c26268924df42839bf5c13f9124e5c4",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "Lào Cai",
+        "Mã BĐ Xã": "3315",
+        "Tên Xã": "xã Bát Xát",
+        "Mã Bưu cục": "332860",
+        "Tên Bưu cục": "VHX Quang Kim",
+        "Họ và tên người sử dụng": "Vũ Tố Quỳnh",
+        "Mã HRM": "00043409",
+        "Bộ phận / Phòng ban": "Điểm Bưu điện VHX",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "60kg",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "Bình thường",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-01T03:12:11",
+      "updatedAt": "2026-07-01T03:12:11"
     }
   ]
 }
