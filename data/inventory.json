@@ -18375,6 +18375,48 @@
       ],
       "createdAt": "2026-07-01T08:15:04",
       "updatedAt": "2026-07-01T08:15:04"
+    },
+    {
+      "id": "f5c1047623994cf8a9158fe498131c78",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3234",
+        "Tên Xã": "YÊN BÌNH",
+        "Mã Bưu cục": "321900",
+        "Tên Bưu cục": "Yên Bình",
+        "Họ và tên người sử dụng": "Nguyễn Thị Phương",
+        "Mã HRM": "00226832",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-YENBINH-GIAO",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "239 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "CC:28:AA:38:86:4D"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA ZD620",
+          "serial": "D3J204202357"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA DS22",
+          "serial": "20205010559969"
+        }
+      ],
+      "createdAt": "2026-07-01T08:21:11",
+      "updatedAt": "2026-07-01T08:21:11"
     }
   ]
 }
