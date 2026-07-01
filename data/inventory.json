@@ -17506,6 +17506,38 @@
       ],
       "createdAt": "2026-07-01T03:50:32",
       "updatedAt": "2026-07-01T03:50:32"
+    },
+    {
+      "id": "54128778ee03423ead182cce766be276",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "Lào Cai",
+        "Mã BĐ Xã": "3315",
+        "Tên Xã": "bát xát",
+        "Mã Bưu cục": "332810",
+        "Tên Bưu cục": "bản xèo",
+        "Họ và tên người sử dụng": "nông thị siu",
+        "Mã HRM": "00267683",
+        "Bộ phận / Phòng ban": "VHX - Phát xã",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "cân bàn",
+        "Hãng sản xuất": "CAS",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30",
+        "Serial Number": "220258322",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-01T03:53:58",
+      "updatedAt": "2026-07-01T03:53:58"
     }
   ]
 }
