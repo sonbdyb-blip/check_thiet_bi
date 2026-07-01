@@ -16123,6 +16123,53 @@
       ],
       "createdAt": "2026-07-01T00:54:46",
       "updatedAt": "2026-07-01T00:54:46"
+    },
+    {
+      "id": "7b0e5fd1929749808c8935cd8f8bd543",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "325600",
+        "Tên Bưu cục": "BƯU CỤC GIAO DỊCH PHƯỜNG TRUNG TÂM",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ THÚY",
+        "Mã HRM": "'00066366",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "NGHIALO-GIAODIC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3070",
+        "Năm sản xuất": "",
+        "Serial Number": "3F1Q643",
+        "CPU": "Intel(R) Core(TM) i5-9500T CPU @ 2.20GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "591 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.49",
+        "MAC Address": "A4:BB:6D:B3:F1:63"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": "2900"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER",
+          "serial": "2022DP19775"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": "MC364601003932"
+        }
+      ],
+      "createdAt": "2026-07-01T01:21:33",
+      "updatedAt": "2026-07-01T01:21:33"
     }
   ]
 }
