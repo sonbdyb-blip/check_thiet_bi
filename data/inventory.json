@@ -18585,6 +18585,37 @@
       ],
       "createdAt": "2026-07-01T08:27:35",
       "updatedAt": "2026-07-01T08:27:35"
+    },
+    {
+      "id": "633a7cee913e4a1aa8bd7a5ea9b92391",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "3222222",
+        "Tên Bưu cục": "Test PhucAn",
+        "Họ và tên người sử dụng": "a",
+        "Mã HRM": "222",
+        "Bộ phận / Phòng ban": "b",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "sdf",
+        "Loại máy": "de",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "I3",
+        "RAM": "4GB",
+        "Ổ cứng": "128G",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-01T08:35:43",
+      "updatedAt": "2026-07-01T08:35:43"
     }
   ]
 }
