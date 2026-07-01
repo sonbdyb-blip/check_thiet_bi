@@ -18077,6 +18077,48 @@
       ],
       "createdAt": "2026-07-01T07:50:57",
       "updatedAt": "2026-07-01T07:50:57"
+    },
+    {
+      "id": "8023fa37cb0643f08b5e81423cc57c4d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3234",
+        "Tên Xã": "YÊN BÌNH",
+        "Mã Bưu cục": "321970",
+        "Tên Bưu cục": "VHX Thịnh Hưng",
+        "Họ và tên người sử dụng": "Lý Thị Thu Thảo",
+        "Mã HRM": "00066001",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Winnfox",
+        "Model": "H81",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-4150 CPU @ 3.50GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.21.28",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "2200E210310835"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Honeywell",
+          "serial": "16257B4537"
+        }
+      ],
+      "createdAt": "2026-07-01T07:59:13",
+      "updatedAt": "2026-07-01T07:59:13"
     }
   ]
 }
