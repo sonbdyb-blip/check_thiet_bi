@@ -16374,6 +16374,43 @@
       ],
       "createdAt": "2026-07-01T01:38:03",
       "updatedAt": "2026-07-01T01:38:03"
+    },
+    {
+      "id": "4f4f20bc5912493aaf1730b3139c20a8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "320000",
+        "Tên Bưu cục": "Yên Bái Ga",
+        "Họ và tên người sử dụng": "Nguyễn Thu Thảo",
+        "Mã HRM": "00066084",
+        "Bộ phận / Phòng ban": "BC Giao dịch Yên Bái Ga",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YB-THANHPHO-TKB",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SFS0FM00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM08GFYM",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "1169 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "10.26.32.187",
+        "MAC Address": "88:AE:DD:5C:84:76"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": "LPB2900"
+        }
+      ],
+      "createdAt": "2026-07-01T01:38:56",
+      "updatedAt": "2026-07-01T01:38:56"
     }
   ]
 }
