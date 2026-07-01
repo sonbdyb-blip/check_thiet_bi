@@ -17469,6 +17469,43 @@
       ],
       "createdAt": "2026-07-01T03:47:34",
       "updatedAt": "2026-07-01T03:47:34"
+    },
+    {
+      "id": "094e8eeba01f44ac845d67407194c52d",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3315",
+        "Tên Xã": "bát xát",
+        "Mã Bưu cục": "332810",
+        "Tên Bưu cục": "bản xèo",
+        "Họ và tên người sử dụng": "nông thị siu",
+        "Mã HRM": "00267683",
+        "Bộ phận / Phòng ban": "VHX - Phát xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-4B8E2OS",
+        "Loại máy": "Desktop",
+        "Hãng": "FPT Elead",
+        "Model": "PRIME H310M2 R2.0/FPT II",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-9100 CPU @ 3.60GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Standard 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.0.130",
+        "MAC Address": "F0:2F:74:81:D6:0A"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LPB 2900",
+          "serial": "NDMA337908"
+        }
+      ],
+      "createdAt": "2026-07-01T03:50:32",
+      "updatedAt": "2026-07-01T03:50:32"
     }
   ]
 }
