@@ -16882,6 +16882,53 @@
       "attachments": [],
       "createdAt": "2026-07-01T02:14:51",
       "updatedAt": "2026-07-01T02:14:51"
+    },
+    {
+      "id": "8d73359b38df4527b7f8e89056207929",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3315",
+        "Tên Xã": "xã bát xát",
+        "Mã Bưu cục": "332910",
+        "Tên Bưu cục": "VHX - Bản Vược",
+        "Họ và tên người sử dụng": "Vàng Thị Thanh Hường",
+        "Mã HRM": "00106893",
+        "Bộ phận / Phòng ban": "kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-BXT-BANVUOC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9ZHQ8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "582 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19042",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.93.59",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP Laser Jet Pro M203d",
+          "serial": "VNP4D00768"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "ZEBRA",
+          "serial": "D3J183400284"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": "20205010560026"
+        }
+      ],
+      "createdAt": "2026-07-01T02:16:04",
+      "updatedAt": "2026-07-01T02:16:04"
     }
   ]
 }
