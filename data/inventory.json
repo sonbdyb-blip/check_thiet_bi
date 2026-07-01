@@ -16929,6 +16929,48 @@
       ],
       "createdAt": "2026-07-01T02:16:04",
       "updatedAt": "2026-07-01T02:16:04"
+    },
+    {
+      "id": "bd26dcaf06bd4c3e833be4763c5ce99a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu điện Phường Yên Bái",
+        "Mã Bưu cục": "321110",
+        "Tên Bưu cục": "Yên Bái Km5",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thu Mai",
+        "Mã HRM": "00071362",
+        "Bộ phận / Phòng ban": "Bưu cục Yên Bái Km5",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "YENBAI_KM5",
+        "Loại máy": "Desktop",
+        "Hãng": "Intel",
+        "Model": "H610M4",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-12400",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "477 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.103",
+        "MAC Address": "00:E0:1B:30:90:53"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol",
+          "serial": "Z0EDMD"
+        }
+      ],
+      "createdAt": "2026-07-01T02:18:26",
+      "updatedAt": "2026-07-01T02:18:26"
     }
   ]
 }
