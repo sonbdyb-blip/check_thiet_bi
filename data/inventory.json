@@ -16212,6 +16212,48 @@
       ],
       "createdAt": "2026-07-01T01:28:50",
       "updatedAt": "2026-07-01T01:28:50"
+    },
+    {
+      "id": "4cdbfe96deeb4d71a5a8f8be76ca2eaf",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "325600",
+        "Tên Bưu cục": "bưu cục giao dịch bưu điện phường trung tâm",
+        "Họ và tên người sử dụng": "dùng chung",
+        "Mã HRM": "'00066366",
+        "Bộ phận / Phòng ban": "giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "NGHIALO-NGHI",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "J5WDH62",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.25",
+        "MAC Address": "48:4D:7E:DB:53:8B"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "201320726541.3"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-01T01:29:23",
+      "updatedAt": "2026-07-01T01:29:23"
     }
   ]
 }
