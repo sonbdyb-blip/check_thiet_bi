@@ -18794,6 +18794,53 @@
       ],
       "createdAt": "2026-07-01T09:21:47",
       "updatedAt": "2026-07-01T09:21:47"
+    },
+    {
+      "id": "a7358dc1f9cf4392be0397ccff88a985",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3260",
+        "Tên Xã": "BĐX Trấn Yên",
+        "Mã Bưu cục": "323400",
+        "Tên Bưu cục": "BĐ VHX Việt Thành",
+        "Họ và tên người sử dụng": "Nguyễn Thị Bích",
+        "Mã HRM": "00066157",
+        "Bộ phận / Phòng ban": "Trung tâm kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VIETTHANH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "BWYM8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "118 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "18:66:DA:29:2E:EC"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": "Không rõ số seri"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Máy in Xprinter",
+          "serial": "XP-58llH"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "EAC",
+          "serial": "3K18141245"
+        }
+      ],
+      "createdAt": "2026-07-01T09:26:17",
+      "updatedAt": "2026-07-01T09:26:17"
     }
   ]
 }
