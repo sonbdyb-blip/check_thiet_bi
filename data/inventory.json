@@ -18930,6 +18930,38 @@
       ],
       "createdAt": "2026-07-01T10:15:42",
       "updatedAt": "2026-07-01T10:15:42"
+    },
+    {
+      "id": "bd4e7d62120c4297aa76120487f59dda",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "Lào Cai",
+        "Mã BĐ Xã": "3348",
+        "Tên Xã": "Xã Mường Hum",
+        "Mã Bưu cục": "332836",
+        "Tên Bưu cục": "VHX Mường Hum",
+        "Họ và tên người sử dụng": "Vù San Mẩy",
+        "Mã HRM": "00270537",
+        "Bộ phận / Phòng ban": "VHX ghép phát xã",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "cân bàn",
+        "Hãng sản xuất": "QUA",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-01T10:22:12",
+      "updatedAt": "2026-07-01T10:22:12"
     }
   ]
 }
