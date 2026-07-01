@@ -18454,6 +18454,48 @@
       ],
       "createdAt": "2026-07-01T08:22:27",
       "updatedAt": "2026-07-01T08:22:27"
+    },
+    {
+      "id": "236dac59efb3436da24bb29fa5ab2271",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "323360",
+        "Tên Xã": "Bưu điên xã Trấn Yen",
+        "Mã Bưu cục": "323360",
+        "Tên Bưu cục": "Bưu đien VHX Minh Quaá",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hằng",
+        "Mã HRM": "00066153",
+        "Bộ phận / Phòng ban": "Trung tâm kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXMINHQUAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "BVPL8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "11.9 GB",
+        "Ổ cứng": "115 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "18:66:DA:28:FE:B4"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP",
+          "serial": "VNC3G11930"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Symbol",
+          "serial": "Z4HJ12"
+        }
+      ],
+      "createdAt": "2026-07-01T08:24:08",
+      "updatedAt": "2026-07-01T08:24:08"
     }
   ]
 }
