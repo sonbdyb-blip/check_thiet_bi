@@ -17831,6 +17831,53 @@
       ],
       "createdAt": "2026-07-01T07:16:12",
       "updatedAt": "2026-07-01T07:16:12"
+    },
+    {
+      "id": "9cfa46d1e3a849f7b08892858bd87b2e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3215",
+        "Tên Xã": "BĐX Nghĩa Tâm",
+        "Mã Bưu cục": "325000",
+        "Tên Bưu cục": "VHX Minh An",
+        "Họ và tên người sử dụng": "Hà Thị Quỳnh Như",
+        "Mã HRM": "00066310",
+        "Bộ phận / Phòng ban": "VHX Minh An",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXMINHAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7D22",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "11th Gen Intel(R) Core(TM) i5-11400 @ 2.60GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.0.103",
+        "MAC Address": "D8:BB:C1:71:AF:35"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LBP2900",
+          "serial": "MGQA313516"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter - 58IIH",
+          "serial": "58IIHBU9C16167004"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HoneyweII",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-07-01T07:36:49",
+      "updatedAt": "2026-07-01T07:36:49"
     }
   ]
 }
