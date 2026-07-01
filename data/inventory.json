@@ -16327,6 +16327,53 @@
       "attachments": [],
       "createdAt": "2026-07-01T01:36:55",
       "updatedAt": "2026-07-01T01:36:55"
+    },
+    {
+      "id": "fefcc6cadaaa44a39804412728ca0c22",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "320000",
+        "Tên Bưu cục": "YÊN BÁI GA",
+        "Họ và tên người sử dụng": "ĐÀO KHÁNH HUYỀN",
+        "Mã HRM": "00221314",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN KINH DOANH TẠI ĐIỂM PHỤC VỤ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "BCGA",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B1GKH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "114 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.32.184",
+        "MAC Address": "64:00:6A:01:E3:E3"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "XPRINTER",
+          "serial": "4006139828"
+        },
+        {
+          "type": "photocopier",
+          "name": "CANON",
+          "serial": "LBP2900"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": "Z34W2V"
+        }
+      ],
+      "createdAt": "2026-07-01T01:38:03",
+      "updatedAt": "2026-07-01T01:38:03"
     }
   ]
 }
