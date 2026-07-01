@@ -17585,6 +17585,38 @@
       ],
       "createdAt": "2026-07-01T03:55:49",
       "updatedAt": "2026-07-01T03:55:49"
+    },
+    {
+      "id": "6cf58360ae884ca08040b49e17deb7ec",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "LÀO CAI",
+        "Mã BĐ Xã": "3315",
+        "Tên Xã": "Bát Xát",
+        "Mã Bưu cục": "332910",
+        "Tên Bưu cục": "VHX - Bản Vược",
+        "Họ và tên người sử dụng": "Vàng Thị Thanh Hường",
+        "Mã HRM": "00106893",
+        "Bộ phận / Phòng ban": "kinh doanh",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN ĐIỆN TỬ",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "CÂN BÀN",
+        "Hãng sản xuất": "CAS",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30",
+        "Serial Number": "210757712",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-01T03:59:40",
+      "updatedAt": "2026-07-01T03:59:40"
     }
   ]
 }
