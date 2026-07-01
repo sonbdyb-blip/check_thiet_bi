@@ -17008,6 +17008,53 @@
       ],
       "createdAt": "2026-07-01T02:47:10",
       "updatedAt": "2026-07-01T02:47:10"
+    },
+    {
+      "id": "be8dc17dd08d48359ecbf3ec655f70fa",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "324810",
+        "Tên Bưu cục": "BC Thái Lão",
+        "Họ và tên người sử dụng": "Nguyễn Thị Quỳnh Nga",
+        "Mã HRM": "00066282",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "THAILAO",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3070",
+        "Năm sản xuất": "",
+        "Serial Number": "3F6N643",
+        "CPU": "Intel(R) Core(TM) i5-9500T CPU @ 2.20GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "586 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "A4:BB:6D:B3:5E:BB"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon- L11121E",
+          "serial": "050972-11"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter- XP58IIW",
+          "serial": "58W02106990"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "1450G1D-2-INT",
+          "serial": "16257B4557"
+        }
+      ],
+      "createdAt": "2026-07-01T02:58:54",
+      "updatedAt": "2026-07-01T02:58:54"
     }
   ]
 }
