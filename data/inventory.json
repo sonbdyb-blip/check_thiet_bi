@@ -16254,6 +16254,48 @@
       ],
       "createdAt": "2026-07-01T01:29:23",
       "updatedAt": "2026-07-01T01:29:23"
+    },
+    {
+      "id": "508eb34e9d1945d8bc9ae5e035f72dcd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "325600",
+        "Tên Bưu cục": "Bưu cục giao dịch Nghĩa Lộ",
+        "Họ và tên người sử dụng": "Nguyễn Thị Xuân Quỳnh",
+        "Mã HRM": "00107853",
+        "Bộ phận / Phòng ban": "Bưu cục giao dịch Nghĩa Lộ - Bưu điện phường Trung Tâm",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TKBD-NGHIALO",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11SFS0FM00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM08HEZF",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "1169 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19045",
+        "Office": "Microsoft 365 Apps for enterprise - en-us",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "192.168.1.37",
+        "MAC Address": "E0:BE:03:98:92:56"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": "05097211"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter",
+          "serial": "XP58IIH"
+        }
+      ],
+      "createdAt": "2026-07-01T01:36:01",
+      "updatedAt": "2026-07-01T01:36:01"
     }
   ]
 }
