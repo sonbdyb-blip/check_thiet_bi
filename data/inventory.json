@@ -16804,6 +16804,53 @@
       ],
       "createdAt": "2026-07-01T02:06:06",
       "updatedAt": "2026-07-01T02:06:06"
+    },
+    {
+      "id": "be38cfd20afe4e8c90943356c0c53ab4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "thạch lương",
+        "Mã Bưu cục": "324790",
+        "Tên Bưu cục": "thạch lương",
+        "Họ và tên người sử dụng": "nguyễn thị quỳnh",
+        "Mã HRM": "00066297",
+        "Bộ phận / Phòng ban": "BD VH XÃ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "@JHUAA",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP",
+          "serial": "MKTNG-00662"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Gpriner",
+          "serial": "gp-890x111"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": "ls2208"
+        }
+      ],
+      "createdAt": "2026-07-01T02:07:37",
+      "updatedAt": "2026-07-01T02:07:37"
     }
   ]
 }
