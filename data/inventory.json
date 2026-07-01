@@ -18417,6 +18417,43 @@
       ],
       "createdAt": "2026-07-01T08:21:11",
       "updatedAt": "2026-07-01T08:21:11"
+    },
+    {
+      "id": "598b9de18ddf4fc7953f33bbacf0b4ac",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3231",
+        "Tên Xã": "CẢM NHÂN",
+        "Mã Bưu cục": "322270",
+        "Tên Bưu cục": "VHX Ngọc Chấn",
+        "Họ và tên người sử dụng": "Hoàng Thị Châu",
+        "Mã HRM": "00066027",
+        "Bộ phận / Phòng ban": "VHX Ngọc Chấn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXNGOCCHAN",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821181896",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.30.95",
+        "MAC Address": "50:AF:73:38:22:60"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "VNP4D02484",
+          "serial": "vnp4d02484"
+        }
+      ],
+      "createdAt": "2026-07-01T08:22:27",
+      "updatedAt": "2026-07-01T08:22:27"
     }
   ]
 }
