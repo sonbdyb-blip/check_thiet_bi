@@ -19009,6 +19009,48 @@
       ],
       "createdAt": "2026-07-02T02:05:42",
       "updatedAt": "2026-07-02T02:05:42"
+    },
+    {
+      "id": "7d304930618e4061b5cc25b49a7788cf",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "323580",
+        "Tên Bưu cục": "Kiên Thành",
+        "Họ và tên người sử dụng": "Hà Thị Bích Hồng",
+        "Mã HRM": "0066167",
+        "Bộ phận / Phòng ban": "Kinh doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHXKIENTHANH",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9Y2N8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22621",
+        "Office": "Microsoft Office Office 64-bit Components 2007",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.21.99",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "HP",
+          "serial": "MKTNG-00662"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "symbol",
+          "serial": "Z4H50A"
+        }
+      ],
+      "createdAt": "2026-07-02T02:21:55",
+      "updatedAt": "2026-07-02T02:21:55"
     }
   ]
 }
