@@ -18962,6 +18962,53 @@
       "attachments": [],
       "createdAt": "2026-07-01T10:22:12",
       "updatedAt": "2026-07-01T10:22:12"
+    },
+    {
+      "id": "808864fcfd4347e9a4c8b0463d930ce4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3235",
+        "Tên Xã": "BĐX Mông Sơn",
+        "Mã Bưu cục": "322330",
+        "Tên Bưu cục": "VHX Mông Sơn",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hường",
+        "Mã HRM": "0065992",
+        "Bộ phận / Phòng ban": "VHX Mông Sơn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VHX-MONGSON2",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Desktop 390-0xxx",
+        "Năm sản xuất": "",
+        "Serial Number": "8CG852960X",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.26.30.98",
+        "MAC Address": "0C:96:E6:37:0C:EB"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon - LBP 2900",
+          "serial": "NMYA357407"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "Xprinter- XP58",
+          "serial": "S420BUH237110074"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Honeywell",
+          "serial": "16257B4536"
+        }
+      ],
+      "createdAt": "2026-07-02T02:05:42",
+      "updatedAt": "2026-07-02T02:05:42"
     }
   ]
 }
