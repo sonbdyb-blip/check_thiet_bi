@@ -19694,6 +19694,38 @@
       "attachments": [],
       "createdAt": "2026-07-03T07:48:43",
       "updatedAt": "2026-07-03T07:48:43"
+    },
+    {
+      "id": "e77b299534d947b18f80cb31589a8586",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "Lào Cai",
+        "Mã BĐ Xã": "3235",
+        "Tên Xã": "Bưu điện xã Bảo Ái",
+        "Mã Bưu cục": "322330",
+        "Tên Bưu cục": "VHX Mông Sơn",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hường",
+        "Mã HRM": "00065992",
+        "Bộ phận / Phòng ban": "NV VHX Mông Sơn",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân Đồng Hồ 20 kg",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "Nhơn Hòa",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T07:49:26",
+      "updatedAt": "2026-07-03T07:49:26"
     }
   ]
 }
