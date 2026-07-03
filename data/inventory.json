@@ -19088,6 +19088,38 @@
       ],
       "createdAt": "2026-07-03T01:21:25",
       "updatedAt": "2026-07-03T01:21:25"
+    },
+    {
+      "id": "43210de7b9ca42af912211db4230b553",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "Bưu điện tỉnh Lào Cai",
+        "Mã BĐ Xã": "3205",
+        "Tên Xã": "Bưu điện xã Hạnh Phúc",
+        "Mã Bưu cục": "325900",
+        "Tên Bưu cục": "Bưu cục Trạm Tấu",
+        "Họ và tên người sử dụng": "Vũ Quỳnh Trang",
+        "Mã HRM": "00066453",
+        "Bộ phận / Phòng ban": "Giám đốc xã",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân bàn",
+        "Hãng sản xuất": "Hoa Hàng",
+        "Model": "HY805",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30",
+        "Serial Number": "8052744",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "2026-03-16",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "BCTT",
+        "Tình trạng hoạt động": "tốt",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T01:45:47",
+      "updatedAt": "2026-07-03T01:45:47"
     }
   ]
 }
