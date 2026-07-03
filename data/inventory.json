@@ -19181,37 +19181,6 @@
       "updatedAt": "2026-07-03T03:01:15"
     },
     {
-      "id": "f1311e1a75ed413ca19b78b0c0d3593a",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "",
-        "Tên Bưu cục": "",
-        "Họ và tên người sử dụng": "",
-        "Mã HRM": "",
-        "Bộ phận / Phòng ban": "",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "",
-        "Loại máy": "",
-        "Hãng": "",
-        "Model": "",
-        "Năm sản xuất": "",
-        "Serial Number": "",
-        "CPU": "",
-        "RAM": "",
-        "Ổ cứng": "",
-        "Hệ điều hành": "",
-        "Office": "",
-        "Antivirus": "",
-        "IP Address": "",
-        "MAC Address": ""
-      },
-      "attachments": [],
-      "createdAt": "2026-07-03T03:02:56",
-      "updatedAt": "2026-07-03T03:02:56"
-    },
-    {
       "id": "32ee87a0262c496d912b2e1c17b26cd4",
       "category": "3. Máy Tính",
       "fields": {
