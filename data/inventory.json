@@ -8,8 +8,8 @@
         "Tên Xã": "",
         "Mã Bưu cục": "330000",
         "Tên Bưu cục": "Văn phòng",
-        "Họ và tên người sử dụng": "Ngo Sơn",
-        "Mã HRM": "0006574752",
+        "Họ và tên người sử dụng": "Ngô Quang Sơn",
+        "Mã HRM": "00065938",
         "Bộ phận / Phòng ban": "TTVH",
         "Mã vật tư": "",
         "Tên máy (Hostname)": "SON-NQ",
@@ -19,7 +19,7 @@
         "Năm sản xuất": "",
         "Serial Number": "Default string",
         "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
-        "RAM": "7.8 GB",
+        "RAM": "8 GB",
         "Ổ cứng": "670 GB",
         "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
         "Office": "Microsoft 365 Apps for enterprise - en-us",
@@ -27,15 +27,9 @@
         "IP Address": "10.26.32.56",
         "MAC Address": "74:56:3C:2D:33:86"
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "",
-          "serial": ""
-        }
-      ],
+      "attachments": [],
       "createdAt": "2026-06-12T07:38:55",
-      "updatedAt": "2026-06-12T07:38:55"
+      "updatedAt": "2026-07-03T07:28:51"
     },
     {
       "id": "4b19224aaead4531ad25bbff12ecfb28",
