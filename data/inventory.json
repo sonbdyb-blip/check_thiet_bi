@@ -19247,6 +19247,37 @@
       "attachments": [],
       "createdAt": "2026-07-03T03:02:56",
       "updatedAt": "2026-07-03T03:02:56"
+    },
+    {
+      "id": "32ee87a0262c496d912b2e1c17b26cd4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "3305",
+        "Tên Xã": "cốc san",
+        "Mã Bưu cục": "332840",
+        "Tên Bưu cục": "VHX Cốc San",
+        "Họ và tên người sử dụng": "Lưu Thị Thúy Hải",
+        "Mã HRM": "00082558",
+        "Bộ phận / Phòng ban": "vhx Cốc San",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LCI-TPO-COCSAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "BCYP8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "120 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Teams Meeting Add-in for Microsoft Office",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.93.66",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T03:15:18",
+      "updatedAt": "2026-07-03T03:15:18"
     }
   ]
 }
