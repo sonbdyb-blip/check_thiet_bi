@@ -19437,6 +19437,38 @@
       "attachments": [],
       "createdAt": "2026-07-03T04:17:29",
       "updatedAt": "2026-07-03T04:17:29"
+    },
+    {
+      "id": "6fd265a1c014450c847fc2029e20b66e",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "3215",
+        "Tên Xã": "Nghĩa Tâm",
+        "Mã Bưu cục": "325140",
+        "Tên Bưu cục": "VHX Bình Thuận",
+        "Họ và tên người sử dụng": "Hoàng Thị An",
+        "Mã HRM": "00066327",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "CAS",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30KG",
+        "Serial Number": "200254756",
+        "Năm sản xuất": "2020",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T04:30:15",
+      "updatedAt": "2026-07-03T04:30:15"
     }
   ]
 }
