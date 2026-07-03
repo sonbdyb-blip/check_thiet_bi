@@ -19591,6 +19591,39 @@
       "attachments": [],
       "createdAt": "2026-07-03T07:30:06",
       "updatedAt": "2026-07-03T07:30:06"
+    },
+    {
+      "id": "7f9e5bf0f3ec4c3baf06c404ad86cb34",
+      "category": "8. Thiết Bị Khác",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "Bưu điện xã bảo ái",
+        "Mã BĐ Xã": "3235",
+        "Tên Xã": "VHX Bảo ÁI",
+        "Mã Bưu cục": "322370",
+        "Tên Bưu cục": "VHX Bảo Ái",
+        "Họ và tên người sử dụng": "Nông Thị Loan",
+        "Mã HRM": "00065989",
+        "Bộ phận / Phòng ban": "NV VHX",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân Đồng Hồ 100kg",
+        "Loại thiết bị": "Cân Đồng Hồ 100kg",
+        "Hãng": "Nhơn hòa",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "Vị trí sử dụng": "",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": "",
+        "Tình trạng": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T07:31:01",
+      "updatedAt": "2026-07-03T07:31:01"
     }
   ]
 }
