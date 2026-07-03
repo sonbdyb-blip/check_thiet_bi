@@ -19662,6 +19662,38 @@
       "attachments": [],
       "createdAt": "2026-07-03T07:48:16",
       "updatedAt": "2026-07-03T07:48:16"
+    },
+    {
+      "id": "68f8b73743404841991ea91f38cc128a",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "32",
+        "Tên Tỉnh": "LÀO CAI",
+        "Mã BĐ Xã": "3234",
+        "Tên Xã": "YÊN BÌNH",
+        "Mã Bưu cục": "321900",
+        "Tên Bưu cục": "Yên Bình",
+        "Họ và tên người sử dụng": "Nguyễn Thị Phương",
+        "Mã HRM": "00226832",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN ĐIỆN TỬ",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "CÂN BÀN",
+        "Hãng sản xuất": "",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30KG",
+        "Serial Number": "200253604",
+        "Năm sản xuất": "2020",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "BÀN QUẦY BCCP",
+        "Tình trạng hoạt động": "VẪN ĐANG SỬ DỤNG",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T07:48:43",
+      "updatedAt": "2026-07-03T07:48:43"
     }
   ]
 }
