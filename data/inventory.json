@@ -19629,6 +19629,39 @@
       "attachments": [],
       "createdAt": "2026-07-03T07:42:03",
       "updatedAt": "2026-07-03T07:42:03"
+    },
+    {
+      "id": "952aa290a837469fb1799f31a140baf4",
+      "category": "8. Thiết Bị Khác",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "Lào Cai",
+        "Mã BĐ Xã": "3235",
+        "Tên Xã": "Bưu điện xã Bảo Ái",
+        "Mã Bưu cục": "322330",
+        "Tên Bưu cục": "VHX Mông Sơn",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hường",
+        "Mã HRM": "00065992",
+        "Bộ phận / Phòng ban": "NV VHX Mông Sơn",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân Đồng Hồ 60 kg",
+        "Loại thiết bị": "",
+        "Hãng": "Nhơn Hòa",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "Vị trí sử dụng": "",
+        "Nước sản xuất": "",
+        "Đơn vị bảo hành\n(Nhà cung cấp)": "",
+        "Năm sử dụng": "",
+        "Thời gian bảo hành (Còn/Hết)": "",
+        "Tình trạng": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T07:48:16",
+      "updatedAt": "2026-07-03T07:48:16"
     }
   ]
 }
