@@ -19278,6 +19278,38 @@
       "attachments": [],
       "createdAt": "2026-07-03T03:15:18",
       "updatedAt": "2026-07-03T03:15:18"
+    },
+    {
+      "id": "71368d4333764edf8c15ca1fcdb43a97",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "lào cai",
+        "Mã BĐ Xã": "3305",
+        "Tên Xã": "cốc san",
+        "Mã Bưu cục": "332840",
+        "Tên Bưu cục": "VHX Cốc San",
+        "Họ và tên người sử dụng": "Lưu Thị Thúy Hải",
+        "Mã HRM": "00082558",
+        "Bộ phận / Phòng ban": "vhx Cốc San",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "New QUA PCB",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "cân điện tử",
+        "Hãng sản xuất": "",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30kg",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "2025-08-01",
+        "Thời hạn kiểm định tiếp theo": "2026-08-01",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "đang hoạt động",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T03:21:18",
+      "updatedAt": "2026-07-03T03:21:18"
     }
   ]
 }
