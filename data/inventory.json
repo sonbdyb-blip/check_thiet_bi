@@ -19597,6 +19597,38 @@
       "attachments": [],
       "createdAt": "2026-07-03T07:39:30",
       "updatedAt": "2026-07-03T07:39:30"
+    },
+    {
+      "id": "bd216b548d734e8484aad9c5d050c445",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "32",
+        "Tên Tỉnh": "LÀO CAI",
+        "Mã BĐ Xã": "3234",
+        "Tên Xã": "YÊN BÌNH",
+        "Mã Bưu cục": "321970",
+        "Tên Bưu cục": "VHX Thịnh Hưng",
+        "Họ và tên người sử dụng": "Lý Thị Thu Thảo",
+        "Mã HRM": "00066001",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN ĐIỆN TỬ",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "CÂN BÀN",
+        "Hãng sản xuất": "CAS - PRII",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30",
+        "Serial Number": "200253566",
+        "Năm sản xuất": "2020",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "TRÊN BÀN QUẦY",
+        "Tình trạng hoạt động": "VẪN ĐANG SỬ DỤNG",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T07:42:03",
+      "updatedAt": "2026-07-03T07:42:03"
     }
   ]
 }
