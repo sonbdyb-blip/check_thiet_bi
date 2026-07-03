@@ -19758,6 +19758,38 @@
       "attachments": [],
       "createdAt": "2026-07-03T07:55:25",
       "updatedAt": "2026-07-03T07:55:25"
+    },
+    {
+      "id": "63257a7e6ee4489dafc5a234e574135f",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "325180",
+        "Tên Bưu cục": "bưu điện văn hoá xã sơn a",
+        "Họ và tên người sử dụng": "hà thị hiền",
+        "Mã HRM": "00109017",
+        "Bộ phận / Phòng ban": "bưu điện văn hoá xã",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30KG",
+        "Serial Number": "200253921",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "quầy giao dịch",
+        "Tình trạng hoạt động": "tốt",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T08:47:36",
+      "updatedAt": "2026-07-03T08:47:36"
     }
   ]
 }
