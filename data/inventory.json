@@ -19184,6 +19184,38 @@
       "attachments": [],
       "createdAt": "2026-07-03T02:30:16",
       "updatedAt": "2026-07-03T02:30:16"
+    },
+    {
+      "id": "11715b8b2fec495b8300b98e84831847",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "331600",
+        "Tên Bưu cục": "Si Ma Cai",
+        "Họ và tên người sử dụng": "Nguyễn Thị Kim Yến/ Lại Thị Huệ",
+        "Mã HRM": "0043355/0043354",
+        "Bộ phận / Phòng ban": "Trung tâm kinh doanh",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "Cân bàn",
+        "Hãng sản xuất": "Casio",
+        "Model": "PRII-30EB",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30",
+        "Serial Number": "210758063",
+        "Năm sản xuất": "2021",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T03:01:15",
+      "updatedAt": "2026-07-03T03:01:15"
     }
   ]
 }
