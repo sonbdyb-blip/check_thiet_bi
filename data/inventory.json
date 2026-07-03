@@ -19533,6 +19533,38 @@
       "attachments": [],
       "createdAt": "2026-07-03T07:04:57",
       "updatedAt": "2026-07-03T07:04:57"
+    },
+    {
+      "id": "9114f92e79704e41b568853cc633d5d8",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "3254",
+        "Tên Xã": "Gia Hội",
+        "Mã Bưu cục": "325320",
+        "Tên Bưu cục": "VHX Gia Hội",
+        "Họ và tên người sử dụng": "Đào Thị Ngọc Mai",
+        "Mã HRM": "00276597",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "CAS",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "30Kg",
+        "Serial Number": "200254524",
+        "Năm sản xuất": "2020",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T07:28:40",
+      "updatedAt": "2026-07-03T07:28:40"
     }
   ]
 }
