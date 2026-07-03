@@ -19469,6 +19469,38 @@
       "attachments": [],
       "createdAt": "2026-07-03T04:30:15",
       "updatedAt": "2026-07-03T04:30:15"
+    },
+    {
+      "id": "b2df7c60da74482a96e502e4d4810a66",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "lào cai",
+        "Mã BĐ Xã": "330000",
+        "Tên Xã": "lào cai",
+        "Mã Bưu cục": "333570",
+        "Tên Bưu cục": "Bưu cục Kim Tân",
+        "Họ và tên người sử dụng": "Nguyễn Thị Khánh Linh",
+        "Mã HRM": "00043417",
+        "Bộ phận / Phòng ban": "NVKD tại điểm",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "casdb II",
+        "Hãng sản xuất": "trung quốc",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "60kg",
+        "Serial Number": "",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "2026-05-26",
+        "Thời hạn kiểm định tiếp theo": "2026-08-26",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "tốt",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T07:03:40",
+      "updatedAt": "2026-07-03T07:03:40"
     }
   ]
 }
