@@ -19120,6 +19120,38 @@
       "attachments": [],
       "createdAt": "2026-07-03T01:45:47",
       "updatedAt": "2026-07-03T01:45:47"
+    },
+    {
+      "id": "b8af53fceb0b45589088561f55b15f3c",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "3250",
+        "Tên Xã": "cát thịnh",
+        "Mã Bưu cục": "324900",
+        "Tên Bưu cục": "BC Ba Khe",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ NGỌC MAI",
+        "Mã HRM": "00066364",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "CAS",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN ĐIỆN TỬ",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "CÂN BÀN",
+        "Hãng sản xuất": "CAS",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "15/30",
+        "Serial Number": "200254527",
+        "Năm sản xuất": "2020",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "BÌNH THƯỜNG",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T02:08:47",
+      "updatedAt": "2026-07-03T02:08:47"
     }
   ]
 }
