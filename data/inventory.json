@@ -19341,6 +19341,38 @@
       "attachments": [],
       "createdAt": "2026-07-03T04:10:59",
       "updatedAt": "2026-07-03T04:10:59"
+    },
+    {
+      "id": "65c0cb44d47b4dacb120f43e32892f90",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "Lào Cai",
+        "Mã BĐ Xã": "3254",
+        "Tên Xã": "Gia Hội",
+        "Mã Bưu cục": "325320",
+        "Tên Bưu cục": "VHX Gia Hội",
+        "Họ và tên người sử dụng": "Đào Thị Ngọc Mai",
+        "Mã HRM": "'00276597",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "CAS PR-II",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "",
+        "Serial Number": "200254524",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T04:13:06",
+      "updatedAt": "2026-07-03T04:13:06"
     }
   ]
 }
