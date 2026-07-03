@@ -19310,6 +19310,38 @@
       "attachments": [],
       "createdAt": "2026-07-03T03:21:18",
       "updatedAt": "2026-07-03T03:21:18"
+    },
+    {
+      "id": "e2871d16818145c48239b68c0b1492a6",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "3212",
+        "Tên Xã": "Sơn Lương",
+        "Mã Bưu cục": "325230",
+        "Tên Bưu cục": "VHX Sơn Lương",
+        "Họ và tên người sử dụng": "Hà Văn Tiến",
+        "Mã HRM": "'00066378",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "",
+        "Model": "CAS ED-6",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "6 kg",
+        "Serial Number": "180957028",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T04:10:56",
+      "updatedAt": "2026-07-03T04:10:56"
     }
   ]
 }
