@@ -19152,6 +19152,38 @@
       "attachments": [],
       "createdAt": "2026-07-03T02:08:47",
       "updatedAt": "2026-07-03T02:08:47"
+    },
+    {
+      "id": "f2b4ee48cb564405a8d0172e89a58273",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "LÀO CAI",
+        "Mã BĐ Xã": "326100",
+        "Tên Xã": "MÙ CANG CHẢI",
+        "Mã Bưu cục": "326100",
+        "Tên Bưu cục": "MÙ CANG CHẢI",
+        "Họ và tên người sử dụng": "ĐẶNG THỊ THU HIỀN",
+        "Mã HRM": "00265134",
+        "Bộ phận / Phòng ban": "GIAO DỊCH VIÊN",
+        "Mã vật tư": "CÂN ĐIỆN TỬ",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN ĐIỆN TỬ",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "CÂN BƯU KIỆN",
+        "Hãng sản xuất": "TẬP ĐOÀN CAS III",
+        "Model": "ED-6",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "6kg",
+        "Serial Number": "180957004",
+        "Năm sản xuất": "2018",
+        "Ngày kiểm định gần nhất": "2018-01-12",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "QUẦY GIAO DỊCH",
+        "Tình trạng hoạt động": "BÌNH THƯỜNG",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T02:30:16",
+      "updatedAt": "2026-07-03T02:30:16"
     }
   ]
 }
