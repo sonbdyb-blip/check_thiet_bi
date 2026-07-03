@@ -19405,6 +19405,38 @@
       "attachments": [],
       "createdAt": "2026-07-03T04:15:19",
       "updatedAt": "2026-07-03T04:15:19"
+    },
+    {
+      "id": "833e62a5c2d14f6d9001f3cb42e9f9c6",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "",
+        "Tên Tỉnh": "",
+        "Mã BĐ Xã": "3215",
+        "Tên Xã": "Nghĩa Tâm",
+        "Mã Bưu cục": "325040",
+        "Tên Bưu cục": "VHX Nghĩa Tâm",
+        "Họ và tên người sử dụng": "Trần Thị Dung",
+        "Mã HRM": "00066315",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "Cân điện tử",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "",
+        "Hãng sản xuất": "QUA",
+        "Model": "",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "",
+        "Serial Number": "11468",
+        "Năm sản xuất": "2024",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-03T04:17:29",
+      "updatedAt": "2026-07-03T04:17:29"
     }
   ]
 }
