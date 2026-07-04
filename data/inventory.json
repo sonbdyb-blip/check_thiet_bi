@@ -19790,6 +19790,38 @@
       "attachments": [],
       "createdAt": "2026-07-03T08:47:36",
       "updatedAt": "2026-07-03T08:47:36"
+    },
+    {
+      "id": "d3fe7a68f77346d3aa20ada07e7bb042",
+      "category": "7. Cân Điện Tử",
+      "fields": {
+        "Mã Tỉnh": "33",
+        "Tên Tỉnh": "LÀO CAI",
+        "Mã BĐ Xã": "3250",
+        "Tên Xã": "BĐX Cát Thịnh",
+        "Mã Bưu cục": "324940",
+        "Tên Bưu cục": "Ba Khe",
+        "Họ và tên người sử dụng": "Nguyễn Thanh Xuân",
+        "Mã HRM": "00066289",
+        "Bộ phận / Phòng ban": "Giao dịch",
+        "Mã vật tư": "",
+        "Số thẻ\n(Số mã trên phiếu kê tài sản)": "",
+        "Tên tài sản\n(Theo danh mục CCDC)": "CÂN ĐIỆN TỬ",
+        "Loại cân (Cân bàn/Cân bưu kiện...)": "CAS",
+        "Hãng sản xuất": "",
+        "Model": "DB-1H",
+        "Tải trọng tối đa (vd: 30kg, 100kg)": "60KG",
+        "Serial Number": "090840839",
+        "Năm sản xuất": "",
+        "Ngày kiểm định gần nhất": "",
+        "Thời hạn kiểm định tiếp theo": "",
+        "Vị trí lắp đặt/Sử dụng": "",
+        "Tình trạng hoạt động": "BÌNH THƯỜNG",
+        "Ghi chú": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-07-04T01:19:44",
+      "updatedAt": "2026-07-04T01:19:44"
     }
   ]
 }
