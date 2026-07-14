@@ -7,11 +7,14 @@ const GITHUB_API = "https://api.github.com";
 
 // Trường bắt buộc – Mã vật tư / Năm sản xuất / Office / Tình trạng là KHÔNG bắt buộc
 const COMMON_REQUIRED = [
+  "Mã BĐ Xã", "Tên Xã",
   "Mã Bưu cục", "Tên Bưu cục",
   "Họ và tên người sử dụng",
   "Mã HRM",
   "Bộ phận / Phòng ban",
   "Tên tài sản\n(Theo danh mục CCDC)",
+  "Năm sử dụng",
+  "Tình trạng",
 ];
 
 const COMPUTER_FORM_EXCLUDED = new Set([
@@ -20,7 +23,7 @@ const COMPUTER_FORM_EXCLUDED = new Set([
   "Tên tài sản\n(Theo danh mục CCDC)",
   "Nước sản xuất",
   "Đơn vị bảo hành\n(Nhà cung cấp)",
-  "Năm sử dụng", "Thời gian bảo hành (Còn/Hết)", "Tình trạng",
+  "Thời gian bảo hành (Còn/Hết)",
 ]);
 
 const ATTACHMENT_TYPES = [
@@ -29,6 +32,8 @@ const ATTACHMENT_TYPES = [
   { id: "photocopier",     name: "Máy photocopy",         category: "4C. Máy Photocopy" },
   { id: "barcode_reader",  name: "Đầu đọc mã vạch",      category: "5. Đầu Đọc Mã Vạch" },
   { id: "scanner",         name: "Máy quét (Scanner)",    category: "8. Thiết Bị Khác" },
+  { id: "scale",           name: "Cân điện tử",            category: "7. Cân Điện Tử" },
+  { id: "other_device",   name: "Thiết bị khác",          category: "8. Thiết Bị Khác" },
   { id: "ups",             name: "Bộ lưu điện (UPS)",     category: "8. Thiết Bị Khác" },
 ];
 
@@ -332,9 +337,10 @@ function renderFields(record = null) {
           <textarea class="input" name="${escapeHtml(field)}" id="${id}"${reqAttr}>${escapeHtml(value)}</textarea>
         </label>`;
       }
+      const placeholder = field === "Năm sử dụng" ? ' placeholder="Từ năm nào..."' : "";
       return `<label class="${wide}${isReq ? " is-required" : ""}">
         <span>${escapeHtml(field)}${reqMark}</span>
-        <input class="input" name="${escapeHtml(field)}" id="${id}" type="${fieldInputType(field)}" value="${escapeHtml(value)}"${reqAttr} />
+        <input class="input" name="${escapeHtml(field)}" id="${id}" type="${fieldInputType(field)}" value="${escapeHtml(value)}"${reqAttr}${placeholder} />
       </label>`;
     })
     .join("");
